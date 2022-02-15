@@ -1,0 +1,787 @@
+<!doctype html>
+	
+<!-- Mirrored from rammb2.cira.colostate.edu/training/tutorials/goes_39um/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 15 Feb 2022 12:36:03 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<html lang="en">
+		<title>Regional and Mesoscale Meteorology Branch  Goes 39um Channel Tutorial</title>
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<link rel="icon" href="../../../wp-content/themes/RAMMB-WP/favicon.png">
+		<meta name="msapplication-TileColor" content="#f01d4f">
+		<link rel="pingback" href="../../../xmlrpc.html">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300" rel="stylesheet"> 
+		
+		<script src='../../../wp-content/themes/RAMMB-WP/library/js/modernizr.js'></script>
+		<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Regional and Mesoscale Meteorology Branch &raquo; Feed" href="../../../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Regional and Mesoscale Meteorology Branch &raquo; Comments Feed" href="../../../comments/feed/index.html" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/rammb2.cira.colostate.edu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='../../../wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='../../../wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ivory-search-styles-css'  href='../../../wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bones-stylesheet-css'  href='../../../wp-content/themes/RAMMB-WP/library/css/style.css' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='bones-ie-only-css'  href='https://rammb2.cira.colostate.edu/wp-content/themes/RAMMB-WP/library/css/ie.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='../../../wp-content/themes/RAMMB-WP/library/js/libs/modernizr.custom.min.js' id='bones-modernizr-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="../../../wp-json/index.html" /><link rel="canonical" href="index.html" />
+<link rel='shortlink' href='../../../index095b.html?p=8320' />
+<link rel="alternate" type="application/json+oembed" href="../../../wp-json/oembed/1.0/embed763c.json?url=https%3A%2F%2Frammb2.cira.colostate.edu%2Ftraining%2Ftutorials%2Fgoes_39um%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../../../wp-json/oembed/1.0/embedc321?url=https%3A%2F%2Frammb2.cira.colostate.edu%2Ftraining%2Ftutorials%2Fgoes_39um%2F&amp;format=xml" />
+		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		<link rel="icon" href="../../../wp-content/uploads/2019/10/cropped-cropped-cropped-cropped-rammb_logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="../../../wp-content/uploads/2019/10/cropped-cropped-cropped-cropped-rammb_logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="../../../wp-content/uploads/2019/10/cropped-cropped-cropped-cropped-rammb_logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://rammb2.cira.colostate.edu/wp-content/uploads/2019/10/cropped-cropped-cropped-cropped-rammb_logo-270x270.png" />
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-S1FDQ1DW1M"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-S1FDQ1DW1M');
+		</script>
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-115779003-12"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-115779003-12');
+</script>
+
+	</head>
+	<body class="visit-template-default single single-visit postid-8320 RAMMB-WP" itemscope itemtype="http://schema.org/WebPage">
+		<a class="skip-to-content-link" href="#nav-1">
+		  Skip to Navigation
+		</a>
+		<a class="skip-to-content-link" href="#main">
+		  Skip to content
+		</a>
+					<header>
+				<div class="d-1of6 t-1of6 m-1of4">
+					<div class="rammbLogo">
+						<a href="../../../index.html" rel="nofollow">
+							<img  alt="Regional and Mesoscale Meteorology Branch" data-src="https://rammb2.cira.colostate.edu/wp-content/themes/RAMMB-WP/library/images/rammb_logo.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="../../../wp-content/themes/RAMMB-WP/library/images/rammb_logo.png" alt="Regional and Mesoscale Meteorology Branch" /></noscript>
+						</a>
+					</div>
+				</div>
+				<div class="d-4of6 t-5of6 m-3of4">
+					<h1>
+						<a href="../../../index.html" rel="nofollow">
+							Regional and Mesoscale Meteorology Branch						</a>
+					</h1>
+					<nav class="nav-1" id="nav-1">
+						<div class="nav-mobile">
+							<p>Show Menu</p>
+						</div>
+						<ul id="menu-main-menu" class="nav-list"><li id="menu-item-5170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5170"><a href="../../../index.html">Home</a></li>
+<li id="menu-item-5171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-5171"><a href="../../../projies/index.html">Real-Time Data</a>
+<ul class="sub-menu">
+	<li id="menu-item-6391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6391"><a target="_blank" rel="noopener" href="http://rammb-slider.cira.colostate.edu/">SLIDER</a></li>
+	<li id="menu-item-10781" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10781"><a href="https://rammb-data.cira.colostate.edu/tc_realtime/">TC Real-Time</a></li>
+	<li id="menu-item-8475" class="menu-item menu-item-type-post_type menu-item-object-ram menu-item-8475"><a href="../../../ramsdis/online/index.html">RAMSDIS</a></li>
+	<li id="menu-item-10505" class="menu-item menu-item-type-post_type menu-item-object-tcprojects menu-item-10505"><a href="../../../projects/tc_genesis/index.html">TC Genesis</a></li>
+</ul>
+</li>
+<li id="menu-item-5177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-5177"><a href="../../../research/index.html">Research Projects</a>
+<ul class="sub-menu">
+	<li id="menu-item-11247" class="menu-item menu-item-type-post_type menu-item-object-projectpages menu-item-11247"><a href="../../../research/goes-r-research/index.html">GOES-R Research</a></li>
+	<li id="menu-item-8474" class="menu-item menu-item-type-post_type menu-item-object-projectpages menu-item-8474"><a href="../../../research/calibration_validation_and_visualization/index.html">JPSS VIIRS Calibration/Validation and Visualization</a></li>
+	<li id="menu-item-8330" class="menu-item menu-item-type-post_type menu-item-object-projectpages menu-item-8330"><a href="../../../research/tropical-cyclones/index.html">Tropical Cyclones</a></li>
+	<li id="menu-item-11243" class="menu-item menu-item-type-post_type menu-item-object-projectpages menu-item-11243"><a href="../../../research/ai/index.html">Artificial Intelligence &#038; Machine Learning</a></li>
+</ul>
+</li>
+<li id="menu-item-5182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-5182"><a href="../../index.html">Training/Outreach</a>
+<ul class="sub-menu">
+	<li id="menu-item-8328" class="menu-item menu-item-type-post_type menu-item-object-visit menu-item-8328"><a href="../../rmtc/index.html">International</a></li>
+	<li id="menu-item-8325" class="menu-item menu-item-type-post_type menu-item-object-visit menu-item-8325"><a href="../../shymet/index.html">SHyMet</a></li>
+	<li id="menu-item-8334" class="menu-item menu-item-type-post_type menu-item-object-visit menu-item-8334"><a href="../../visit/index.html">VISIT</a></li>
+</ul>
+</li>
+<li id="menu-item-5187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-5187"><a href="../../../resources/index.html">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-8340" class="menu-item menu-item-type-post_type menu-item-object-repages2 menu-item-8340"><a href="../../../resources/acronyms/index.html">Acronyms</a></li>
+	<li id="menu-item-8339" class="menu-item menu-item-type-post_type menu-item-object-repages2 menu-item-8339"><a href="../../../resources/blogs/index.html">Blogs</a></li>
+	<li id="menu-item-11329" class="menu-item menu-item-type-post_type menu-item-object-repages2 menu-item-11329"><a href="../../../resources/contact-directory/index.html">Contact Directory</a></li>
+	<li id="menu-item-5192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5192"><a href="../../../resources/publications/index.html">Publications</a></li>
+	<li id="menu-item-8338" class="menu-item menu-item-type-post_type menu-item-object-repages2 menu-item-8338"><a href="../../../resources/personnel/index.html">Personnel</a></li>
+	<li id="menu-item-10506" class="menu-item menu-item-type-post_type menu-item-object-staffpages menu-item-10506"><a href="../../../intranet/mainpage/index.html">Staff Login</a></li>
+</ul>
+</li>
+</ul>						<div class="searchBoxOpen close"><i class="fas fa-search"></i></div>	
+					</nav>
+				</div>
+				<div class="ciraLogo d-1of6 t-none m-none last-col">
+					<a href="https://www.cira.colostate.edu/">
+						<img  alt="CIRA" data-src="https://rammb2.cira.colostate.edu/wp-content/themes/RAMMB-WP/library/images/cira_logo.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="../../../wp-content/themes/RAMMB-WP/library/images/cira_logo.png" alt="CIRA" /></noscript>
+					</a>
+				</div>
+			</header>
+			<!-- Back to top button --> 
+			<a id="totopbutton"></a>
+			<div class="wrap">
+				<div class="homeSearchBox closed">
+					<div class="searchClose">
+						<i class="far fa-window-close"></i>
+						<h4>Search the RAMMB website</h4>
+					</div>
+					<div class="searchBox">
+						<form  class="is-search-form is-form-style is-form-style-1 is-form-id-10075 " action="https://rammb2.cira.colostate.edu/" method="get" role="search" ><label for="is-search-input-10075"><span class="is-screen-reader-text">Search for:</span><input  type="search" id="is-search-input-10075" name="s" value="" class="is-search-input" placeholder="Search RAMMB..." autocomplete=off /></label><input type="submit" value="Search" class="is-search-submit" /><input type="hidden" name="id" value="10075" /></form>					</div>
+					<div class="topLinks">
+						<h6>Top searched terms:</h6>
+											    								    <a class="button" href="../../index.html" target="_self">Training and Outreach</a>
+						    				    						    								    <a class="button" href="http://rammb-slider.cira.colostate.edu/" target="_self">SLIDER</a>
+						    				    						    								    <a class="button" href="http://rammb.cira.colostate.edu/ramsdis/online/loop_of_the_day/" target="_self">Loop of the Day</a>
+						    				    						    								    <a class="button" href="../../../research/calibration_validation_and_visualization/index.html" target="_self">Calibration/Validation and Visualization</a>
+						    				    						    								    <a class="button" href="../../../research/proving_ground/index.html" target="_self">GOES-R Proving Ground</a>
+						    				    							</div>
+				</div>
+			</div>
+						<div id="main"></div><!--   Single View Blog Post  -->
+		<div class="wrap">
+		<div class="d-all t-all m-all whiteBox">
+														<h2>Goes 39um Channel Tutorial</h2>
+               
+                                                      <div class="d-all t-all m-all">
+                  <h3>Developed by NOAA/NESDIS Cooperative Institute for Research in the Atmosphere (CIRA), at the Colorado State University in Fort Collins, Colorado.</h3>
+<h3>Table of Contents</h3>
+<ul>
+<li>Introduction</li>
+<li>Basic Radiation Science
+<ul>
+<li>Energy Sources</li>
+<li>Emmission and Reflection</li>
+<li>3.9 &amp; 10.7 um Channel Comparisons
+<ul>
+<li>Temperature Responsivity</li>
+<li>Sub-pixel Response</li>
+<li>Noise</li>
+<li>Diffraction</li>
+<li>Imagery Presentation</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Imagery Applications
+<ul>
+<li>Currently Developed
+<ul>
+<li>Night-time Fog, Stratus &amp; Cirrus</li>
+<li>Super-cooled Clouds</li>
+<li>Fog, Ice &amp; Water Clouds Over Snow</li>
+<li>Winter Storms</li>
+<li>Earth- &amp; Sea-surface Temperatures</li>
+<li>Thin Cirrus &amp; Multi-layered Clouds</li>
+<li>Urban Heat &#8220;Islands&#8221;</li>
+<li>Fire Detection</li>
+</ul>
+</li>
+<li>Under Investigation
+<ul>
+<li>Day-time Reflectivity</li>
+<li>Visibility Contaminates</li>
+<li>Sun Glint</li>
+<li>Cumulus Bands at Night</li>
+<li>Convective Cloud Phases</li>
+<li>Volcanic Ash Cloud Monitoring<strong> (NEW!)</strong></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Glossary</li>
+</ul>
+                </div>
+                                                        <div class="d-all t-all m-all">
+                  
+<p class="accordion-expand-holder">
+    <a href="javascript:void(0)" class="accordion-expand-all">Expand All</a> | <a href="javascript:void(0)" class="accordion-collaps-all">Collapse All</a>
+</p>
+<div id="accordion" class="ui-accordion ui-widget ui-helper-reset">
+      <button class="accordion">
+      <h3 class="accordion-header">
+        <i class="fa fa-plus-square" aria-hidden="true"></i>
+        Introductory Summary of the GOES-8 & -9 Imagers      </h3>
+    </button>
+    <div class="panel ui-accordion-content">
+      <p><a id="intro"></a>The GOES Imagers measure radiation in five spectral bands, including one visible (channel 1) and four infrared channels. These spectral bands are summarized below and are also briefly discussed in another RAMM Branch tutorial, <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_8_original/default.asp">Introduction to GOES-8</a>.</p>
+<p><img  alt="" width="200" height="244" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/goes89.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/goes89.gif" alt="" width="200" height="244" /></noscript></p>
+<h4>GOES&#8217; Imager Channel Spectral Bands</h4>
+<table>
+<tbody>
+<tr>
+<td>Channel</td>
+<td>Central Wavelength</td>
+<td>Ground Resolution</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>(microns &#8211; um)</td>
+<td>(kilometers &#8211; km)</td>
+</tr>
+<tr>
+<td>1</td>
+<td>0.7</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>3.9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>6.7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>4</td>
+<td>10.7</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>12.0</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+      <!--  SECOND SET ACCORD  -->  
+            </div>
+      <button class="accordion">
+      <h3 class="accordion-header">
+        <i class="fa fa-plus-square" aria-hidden="true"></i>
+        The GOES Imagers' IR Bands      </h3>
+    </button>
+    <div class="panel ui-accordion-content">
+      <p><a id="goes"></a><img  alt="" width="360" height="291" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/irbnds1a.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/irbnds1a.gif" alt="" width="360" height="291" /></noscript></p>
+<p>Fig. 1a presents a high resolution atmospheric absorption spectrum and comparative blackbody curves for temperatures ranging from 200 K to 300 K. The spectrum was observed by a satellite-borne interferometer, over a region where the earth surface temperature was around 295 K. The spectrum shows the effect of various atmospheric gasses on what is observed at the top of the atmosphere. At 6.7 um notice that most of the radiance received by the sensor comes from very cold temperatures; this is because water vapor is a very active absorber in that portion of the spectrum, and thus any radiation reaching the sensor comes from emission of water vapor that is very high in the atmosphere.</p>
+<p><img  alt="" width="360" height="292" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/irbnds1b.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/irbnds1b.gif" alt="" width="360" height="292" /></noscript></p>
+<p>Around the 10.7 um region, most of the energy radiated from the surface reachs the sensor, thus the term &#8220;atmospheric window&#8221; since the temperature measured is close to scene temperature. The window region around 12 um, especially out toward 12.8 um, is contaminated by low level water vapor, and thus is called the &#8220;dirty window.&#8221; Notice the region around 4.0 um (detailed in Fig. 1b), this is another &#8220;atmospheric window&#8221; region, and it is &#8220;cleaner&#8221; than either 10.7 or 12.0 um, however, it is contaminated by solar reflection during daytime. It is the GOES imagers&#8217; spectral band that lies in this window region, 3.78 &#8211; 4.03 um, that is the focus of this tutorial.</p>
+      <!--  SECOND SET ACCORD  -->  
+            </div>
+      <button class="accordion">
+      <h3 class="accordion-header">
+        <i class="fa fa-plus-square" aria-hidden="true"></i>
+        Basic Radiation Science      </h3>
+    </button>
+    <div class="panel ui-accordion-content">
+      <ul>
+<li><a id="radsci"></a>Energy Sources</li>
+<li>Emmission and Reflection</li>
+<li>3.9 &amp; 10.7 um Channel Comparisons
+<ul>
+<li>Temperature Responsivity</li>
+<li>Sub-pixel Response</li>
+<li>Noise</li>
+<li>Diffraction</li>
+<li>Imagery Presentation</li>
+</ul>
+</li>
+</ul>
+<h3>Basic Radiation Science &amp; its 3.9 um Channel Application</h3>
+<p>This module highlights the utility of the GOES 3.9 um imagery, available for the first time as a dedicated imager channel from geostationary orbit. It is also one of the nineteen channels of the GOES sounding instruments. Interpretation of 3.9 um data differs from that of the longer wavelength infrared bands, which the user may be more accustomed to, since it contains both reflected solar, and emitted terrestrial, radiation. Characteristics of reflected and emitted radiation in this band are different from either the visible or the 10.7 um bands, thereby promoting enhanced capabilities of GOES multispectral imagery.</p>
+<p>This section presents the user with a short technical discussion of radiation. Most meteorology texts devote several chapters to the topic of radiation, and there are texts devoted entirely to this subject. The reader is referred to those sources for more detailed information. The purpose of this section is to refresh users with those aspects of radiative transfer pertinent to the analysis of satellite imagery, particularly the channel at 3.9 um. Review the following subjects either in order or, if you wish, click on any one of them to go directly to its subject content:</p>
+<ul>
+<li style="list-style-type: none;"> </li>
+</ul>
+<p>&nbsp;</p>
+      <!--  SECOND SET ACCORD  -->  
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Energy Sources and Their Importance</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <h3>Energy Sources and their Importance (1 of 3)</h3>
+<p>GOES satellites measure energy in spectral regions ranging from the visible portion of the electromagnetic spectrum to the far infrared. At visible wavelengths, that energy is only reflected solar radiation (radiation from the sun which is reflected by the earth&#8217;s surface and clouds); at far infrared wavelengths, that energy is only emitted terrestrial radiation. However for the short wavelength infrared channel, the 3.9 um spectral band, energy measured by the satellite can be a mixture of solar radiation that is reflected by the earth&#8217;s surface or clouds and radiation that is emitted by the earth&#8217;s surface or clouds.</p>
+<p><img  alt="" width="276" height="389" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/enrgy2a.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/enrgy2a.gif" alt="" width="276" height="389" /></noscript></p>
+<p>Figure 2a shows the Planck blackbody radiance curves for the sun (6000 K) and the earth (300 K). The energy received from the sun at the top of the atmosphere is represented by the area under the left-hand curve, and energy emitted by the earth is represented by the area under the right-hand curve. If all the sun&#8217;s energy reaching the earth were reflected back to the satellite, a satellite detector would sense the values represented by the solar curve (the left side of Fig. 2a). However, about 50% of the sun&#8217;s energy is selectively absorbed by various atmospheric constituents (ozone, water vapor, molecular oxygen, carbon dioxide, certain aerosols) and the earth&#8217;s surface. The remainder is scattered back to space by aerosols and reflected by clouds and the earth&#8217;s surface. That scattering and reflection is a function of wavelength and the particular constituent (cloud phase/droplet size, soil type, etc.) with which the interaction is occurring. This reflected and back scattered solar energy can be detected by a satellite sensor. The vertical lines in the figure locate the spectral region sensed by GOES in the 3.9 um band. Satellite detectors do not measure energy at a single wavelength, the GOES imagers&#8217; 3.9 um channel extends from 3.78 &#8211; 4.04 um. In the figure, notice that satellite measurements in the 3.9 um band are a combination of earth emitted and solar reflected radiation.</p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Emission & Reflection</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <h3>Emission and Reflection (1 of 4)</h3>
+<p><img   alt="" width="559" height="266" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/emissiv2.gif" class="aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="aligncenter" src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/emissiv2.gif" alt="" width="559" height="266" /></noscript><img   alt="" width="560" height="351" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/emissiv1.gif" class="aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="aligncenter" src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/emissiv1.gif" alt="" width="560" height="351" /></noscript></p>
+<p>&nbsp;</p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          3.9 vs. 10.7 um Channel Comparisons</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <h3>3.9 and 10.7 um Channel Comparisons</h3>
+<p>Aside from emissivity and reflectivity, several other factors are responsible for differences in the appearance of imagery between the 3.9 um and 10.7 um bands: 1), different responses to scene radiance make possible the detection of sub-pixel hot regions at 3.9 um that are not detected at 10.7 um; 2), the exaggeration of noise at cold temperatures in the 3.9 um band makes it virtually useless for thunderstorm top analysis; 3), because of diffraction effects, the 3.9 um and 10.7 um bands view slightly different areas; and 4), criteria for displaying 3.9 um imagery may differ between day and night since the 3.9 um band also contains reflected solar energy during the daytime.</p>
+<p>For more in-depth discussion of these differences, please review the following topics:</p>
+<ul>
+<li>Temperature Responsivity</li>
+<li>Sub-pixel Response</li>
+<li>Noise</li>
+<li>Diffraction</li>
+<li>3.9 um Image Presentation</li>
+</ul>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Temperature Responsivity</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p><img   alt="" width="577" height="490" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/temprspz.gif" class="aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="aligncenter" src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/temprspz.gif" alt="" width="577" height="490" /></noscript></p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Sub-pixel Response</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p><img   alt="" width="552" height="378" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/spxlrsp1.gif" class="aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="aligncenter" src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/spxlrsp1.gif" alt="" width="552" height="378" /></noscript></p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Noise</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <h3>Noise (1 of 2)</h3>
+<p>Figs. 4c &amp; 4d are plots of radiance versus temperature for the GOES channels at 3.9 um and 10.7 um respectively. The accuracy of the radiance measurements at each wavelength is constant and is shown by the horizontal dashed lines in each figure. However, temperature measurement accuracy, shown by the corresponding vertical dashed lines in each figure varies with respect to scene temperature. Notice that the radiance at 10.7 um (Fig. 4d) is fairly linear with temperature compared with radiance versus temperature at 3.9 um (Fig. 4c).</p>
+<p><img  alt="" width="277" height="421" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/noise4c.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/noise4c.gif" alt="" width="277" height="421" /></noscript> <img  alt="" width="275" height="421" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/noise4d.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/noise4d.gif" alt="" width="275" height="421" /></noscript></p>
+<p>This means that 10.7 um radiance temperatures may be determined very accurately for both warm and cold scene temperatures. In the 3.9 um figure, notice how radiance increases rapidly with increasing temperature. Also notice how &#8220;flat&#8221; that curve is at cold temperatures. Since the inherent measurement accuracy of the GOES instrument at 3.9 um is constant, the result is a much less accurate temperature measurement at cold versus warm scene temperatures. Interpretation of this figure shows that GOES&#8217; 3.9 um imagery is less useful for analyses in cold temperature regions, such as thunderstorm tops; however, for measurements of warm surface temperature the 3.9 um channel does a fine job.</p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Diffraction</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p><img   alt="" width="550" height="328" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/diffract.gif" class="aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="aligncenter" src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/diffract.gif" alt="" width="550" height="328" /></noscript></p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          3.9 um Image Presentation</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <h3>3.9 um Imagery Presentation</h3>
+<p>Since the 3.9 um channel contains both reflected and emitted radiation, the question arises &#8220;Should it be displayed as a visible or an infrared image?&#8221; To address this issue, a short review of satellite image display history is appropriate.</p>
+<p>With the early TIROS, visible imagery showed clouds as bright white and ground as dark, a direct relationship between scene energy and image grey scale. When the first longwave infrared (IR) imagery was received and visible lookup tables were used to display the data, high energy areas (ground and ocean) were white and low energy areas (cirrus and thunderstorm tops) were dark. This was opposite from the convention analysts were accustomed to using. As a result, it was decided to invert the IR display table so that low infrared energy was displayed as white and high infrared energy as dark. This has served us well for many years, but now, since the 3.9 um channel senses both reflected and emitted radiation during the daytime, a choice must be made as to how that channel should be displayed. (Perhaps, in time, it will be presented as a derived image product, in combination with one or more other channels.)</p>
+<p>In this tutorial the 3.9 um imagery is presented in terms of energy vs. grey scale (as with the VIS imagery), cold clouds, ice, ice clouds and snow appear dark; while warm surfaces, water clouds and sun glint appear light-to-bright (sun glint at 3.9 um is much more intense than at visible wavelengths). Land surfaces, being both hot and reflective, can appear very bright. Alternatively, the 3.9 um information may be presented as any one of the other wavelengths/channels. Whatever choice is made, the user must analyze the information in terms of energy and cloud/surface type to minimize confusion.</p>
+        </div>
+            </div>
+      <button class="accordion">
+      <h3 class="accordion-header">
+        <i class="fa fa-plus-square" aria-hidden="true"></i>
+        Imagery Applications      </h3>
+    </button>
+    <div class="panel ui-accordion-content">
+      <ul>
+<li><a id="imgapp"></a>Currently Developed
+<ul>
+<li>Night-time Fog, Stratus &amp; Cirrus</li>
+<li>Super-cooled Clouds</li>
+<li>Fog, Ice &amp; Water Clouds Over Snow</li>
+<li>Winter Storms</li>
+<li>Earth- &amp; Sea-surface Temperatures</li>
+<li>Thin Cirrus &amp; Multi-layered Clouds</li>
+<li>Urban Heat &#8220;Islands&#8221;</li>
+<li>Fire Detection</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Under Investigation
+<ul>
+<li>Day-time Reflectivity</li>
+<li>Visibility Contaminates</li>
+<li>Sun Glint</li>
+<li>Cumulus Bands at Night</li>
+<li>Convective Cloud Phases</li>
+<li>Volcanic Ash Cloud Monitoring<strong> (NEW!)</strong></li>
+</ul>
+</li>
+</ul>
+      <!--  SECOND SET ACCORD  -->  
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Super-Cooled Clouds</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p>At temperatures below -20 degs. C, clouds consist mostly of ice particles, while below -40 degs. C they are composed entirely of ice particles. However, between 0 degs. C and -20 degs. C, a significant number of clouds may be primarily composed of water droplets. Water droplets below 0 degs. C are supercooled, and clouds containing large, supercooled droplets can pose an extreme hazard to aviation. During day-time, 3.9 um imagery can be used to infer droplet phase at cloud top because of differences in reflection between ice particles and water droplets, as discussed earlier in the section on emission and reflection. By using the 3.9 um imagery to identify phase, and the 10.7 um imagery to determine cloud top temperature, cloud tops consisting of supercooled water droplets may be located.</p>
+<p>During the night-time hours, water clouds can also be distinguished from ice clouds by using the &#8220;fog product&#8221; (see discussion on &#8220;night-time fog&#8221;). Similar to the day-time application described above, the &#8220;fog product&#8221; and the 10.7 um imagery can be used together to locate cloud tops consisting of supercooled water at night.</p>
+<p>The user should keep in mind that when multilayered clouds are present, locating supercooled clouds may not be possible because of other cloud decks obscuring them from the satellite&#8217;s view.</p>
+<p>Night-time and day-time examples of supercooled water identifying imagery are presented on the following display page</p>
+<p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/sprcool1.gif"><img  alt="" width="284" height="213" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smsprcl1.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smsprcl1.gif" alt="" width="284" height="213" /></noscript></a> <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/sprcool2.gif"><img  alt="" width="284" height="213" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smsprcl2.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smsprcl2.gif" alt="" width="284" height="213" /></noscript></a></p>
+<p>Because it distinguishes water clouds from ice clouds, regardless of temperature, the &#8220;fog product&#8221; can aid in the detection of supercooled water clouds at night, when used in combination with other data. This is done by locating the water cloud area within the &#8220;fog product&#8221;, and then using the 10.7 um data, along with a representative rawindsonde or model sounding, to determine if cloud top temperatures and atmospheric vertical structure are within appropriate boundaries for supercooled water clouds.</p>
+<p>An example is the fog product image (at top left) from 0345 UTC, on 9 Jan 1996. The bright regions are water clouds, while the noisy and darker regions are ice clouds. The area around Buffalo, NY (BUF) is covered by water clouds. The corresponding 10.7 um image (top right) shows the brightness temperature of those water clouds to be near -12 C. Similar cloud top and ground temperatures make it difficult to locate the cloudy area using the 10.7 um imagery alone. The 00 UTC sounding, from Buffalo on the 9th, shows a near-isothermal cloud deck just below 700 mb (hPa), with a temperature near -10 C. The entire water cloud region shown in this image must almost certainly be supercooled.</p>
+<p><img  alt="" width="384" height="288" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/sprcool3.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/sprcool3.gif" alt="" width="384" height="288" /></noscript></p>
+<p>&nbsp;</p>
+<p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/sprcool4.gif"><img  alt="" width="284" height="213" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smsprcl4.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smsprcl4.gif" alt="" width="284" height="213" /></noscript></a> <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/sprcool5.gif"><img  alt="" width="284" height="213" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smsprcl5.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smsprcl5.gif" alt="" width="284" height="213" /></noscript></a></p>
+<p>As with the night-time &#8220;fog product&#8221;, during the day-time the 3.9 um imagery can be used, in association with the 10.7 um data, to find areas of supercooled cloud. In this example, the 3.9 um image (top left) from 1445 UTC on 10 Jan 1996 is displayed as energy (<a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/imagery_presentation.asp">see the earlier discussion on imagery presentation</a>). The areas covered by water cloud appear bright, due to the addition of the reflected solar component. Water cloud can be seen in the Buffalo vicinity, to the south of Lake Michigan and other areas.</p>
+<p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/sprcool6.gif"><img  alt="" width="284" height="213" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smsprcl6.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smsprcl6.gif" alt="" width="284" height="213" /></noscript></a></p>
+<p>The corresponding visible image (top right) also shows these water cloud areas. An estimate of cloud top temperature from the corresponding 10.7um image (right) determined that for the clouds around Buffalo, typical cloud top temperatures were about -24 C, which, along with the 3.9 um data, indicates a supercooled cloud. The 1200 UTC sounding from BUF on the 10th shows cloud top temperatures to be around -20 C, an important verification. (This is especially true if additional cloud layers exist above the suspected supercooled water cloud, since they would affect the 10.7 um brightness temperatures.)</p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Fog, Ice & Water Clouds Over Snow-cover</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p>Snow cover can be easily located in GOES imagery by taking advantage of its appearance differences in the visible, the 3.9 um and the 10.7 um channels. Snow will appear fairly bright in the VIS imagery, depending upon its age. Additionally, landmarks such as rivers and lakes are often very well defined as dark areas, surrounded by smooth, white snow fields as seen here, over northeast OK.</p>
+<p class="jvm_download">Please download the latest version of Java Virtual Machine from <a href="http://www.java.com/">http://www.java.com</a> if you&#8217;re having trouble viewing this loop.</p>
+<p>In the 10.7 um band such landmarks appear as small, warmer segments within the cooler areas since snow cover is usually colder than nearby snow-free areas. This same snow-covered region will appear black in the day-time 3.9 um imagery due to its poor reflectivity, with the warmer lake and river areas having distinct shapes.</p>
+<p>Mid- or upper-level cloud can be detected over snowfields when landmarks become obscured as high clouds move across them, and/or by the cloud-to-underlying-snow temperature differences. Imagery at 6.7 um will also show cirrus, but not the ground. Observe the 10.7 um imagery over northeast OK and southeast MO for an example of upper-level cloud versus snow discrimination.</p>
+<p class="jvm_download">Please download the latest version of Java Virtual Machine from <a href="http://www.java.com/">http://www.java.com</a> if you&#8217;re having trouble viewing this loop.</p>
+<p>Prior to GOES-8, it was difficult to identify low clouds over snow. VIS imagery typically shows little difference between snow and low cloud or fog, while at 10.7 um they often are nearly the same temperature. Day-time 3.9 um imagery, distinguishes low cloudiness and fog from snow, due to reflectivity differences.</p>
+<p class="jvm_download">Please download the latest version of Java Virtual Machine from <a href="http://www.java.com/">http://www.java.com</a> if you&#8217;re having trouble viewing this loop.</p>
+<p>In this example, most of IA and WI are covered by snow. As in the earlier case, a good portion of this snow cover can be readily identified in the VIS imagery by looking for dark, geographical features against the brighter background of snow.</p>
+<p class="jvm_download">Please download the latest version of Java Virtual Machine from <a href="http://www.java.com/">http://www.java.com</a> if you&#8217;re having trouble viewing this loop.</p>
+<p>Notice, in the 3.9 um imagery, the bright cloud mass moving to the southeast across MN. These are water clouds, as determined by their high reflectivity.</p>
+<p class="jvm_download">Please download the latest version of Java Virtual Machine from <a href="http://www.java.com/">http://www.java.com</a> if you&#8217;re having trouble viewing this loop.</p>
+<p>&nbsp;</p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Land- and Sea-surface Temperatures</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p>AVHRR data has been used for many years to provide estimates of sea surface temperature (SST). The potential exists to supplement AVHRR SST by using GOES data. This is because GOES can observe an area as frequently as once every 15-to-30 minutes, providing a greater probability of cloud free observations than the AVHRR, which may view that same area only twice a day. During daylight, the GOES 10.7 and 12 um channels can be used to correct surface radiance temperatures that have been corrupted by low-level water vapor absorption. At night-time, information from the 3.9 um channel can be added to that from 10.7 and 12 um to improve the SST product. At 3.9 um, moisture contamination is less since it is a cleaner window; diffraction is less, which effectively means higher resolution; and cloud sensitivity is less.</p>
+<p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/sfctsst.gif"><img  alt="" width="284" height="213" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smsfcsst.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smsfcsst.gif" alt="" width="284" height="213" /></noscript></a></p>
+<p>This night-time image example is an average of five consecutive half-hourly images from the 3.9 um channel. Cold land areas are purple and white, lakes and water along the coast are warmer than the land (light green and blue) but cooler than the warmer waters in the Gulf Stream, which are red and yellow. By averaging the images, noise is greatly reduced and the sharp temperature gradients over the water are easier to see.</p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Thin Cirrus & Multi-layered Clouds</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p>Radiation from below passes through thin cirrus clouds, making the satellite-measured IR temperatures warmer than the actual cloud top temperatures. This effect is more evident at 3.9 than at 10.7 um because of the stronger response at 3.9 um to the warm radiation from below. In addition, thin cirrus is often patchy and only partially fills an FOV, further enhancing response at 3.9 um. As a result, in regions of thin cirrus, 3.9 um images often reveal lower cloud layers. At night, the underlying clouds may have different motions, leading to their detection with animated imagery. During daytime, water clouds, with their higher reflectivity, can be detected at 3.9 um, while they are obscured, or very difficult to observe, in the VIS and 10.7 um imagery.</p>
+<p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/thncir39.gif"><img  alt="" width="284" height="213" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smcir39.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smcir39.gif" alt="" width="284" height="213" /></noscript></a> <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/thncir07.gif"><img  alt="" width="284" height="213" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smcir107.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smcir107.gif" alt="" width="284" height="213" /></noscript></a></p>
+<p>In this daytime example, a small water cloud, just south of Georgian Bay (encircled in light-blue), is moving southward and appears as a bright spot in the 3.9 um image, while it is obscured by thin cirrus at 10.7 um.</p>
+<p>Use caution when interpreting 3.9 um images in the presence of thin cirrus. Energy from below will increase the detected radiance and may result in image shades very close to other cloud scenes, and even clear regions. <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/thncir67.gif">Corresponding 6.7 um imagery</a> is useful in isolating this effect; see the section on <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/winter_storm_2.asp">Winter Storms</a> for another example.</p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Urban Heat "Islands"</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p>Imagery from the 3.9 um band of the GOES Imager makes it possible to locate urban heat &#8220;islands&#8221; under clear sky conditions, especially during the night-time hours. As discussed earlier, there is inherent variability in land-surface temperatures over distances of fractions of a kilometer, even more so around cities and their suburbs. The GOES FOV over cities may be thought of in the same sense as partially filled fields-of-view over fires. This results in higher radiance temperatures being measured at night over cities at 3.9 um than at 10.7 um.</p>
+<p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/heatisle.gif"><img  alt="" width="284" height="213" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smheat.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smheat.gif" alt="" width="284" height="213" /></noscript></a></p>
+<p>In this example, the signatures of several Midwestern cities can be seen in an image from the early morning of 14 July 1995. The cities are darker (warmer) than their surroundings.</p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Fire Detection</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p>Its strong sensitivity to sub-pixel &#8220;hot-areas&#8221; makes the 3.9 um channel very useful in fire detection. Fig. 5a may be used to compare the temperatures at 3.9 and 10.7 um with the percent of a pixel covered by fire, where the hot-area is at 500 K and the remainder of the pixel is at 300 K. Note that if only 5% of the pixel is at 500 K, the 3.9 um measured brightness temperature of that pixel is 360 K, while the corresponding 10.7 um brightness temperature is less than 320 K.</p>
+<p><img  alt="Fig. 5a" width="312" height="430" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/fire1a.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/fire1a.gif" alt="Fig. 5a" width="312" height="430" /></noscript> <img  alt="Fig. 5b" width="312" height="430" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/fire1b.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/fire1b.gif" alt="Fig. 5b" width="312" height="430" /></noscript></p>
+<p>Fig. 5b shows the DIFFERENCE in the brightness temperature for the 3.9 and 10.7 um pixel, hypothesized in this example. Note how much more responsive the 3.9 um channel is over smaller fire areas.</p>
+<p>NOTE: Refer to the text with Fig. 2c, in the &#8220;Energy Sources&#8221; section, for an important caveat regarding 3.9 um channel saturation.</p>
+<p>&nbsp;</p>
+<p>This map shows the area covered by a fire which began on the morning of 1 July 1994 in northern Colorado, near Colorado State University&#8217;s Pingree Park mountain campus. By the time of this map, nearly 800 acres (one square mile is equivalent to 640 acres) had been scorched and two major spot fires were burning apart from the primary fire. The fire had travelled across the northwestern edge of the campus, totally destroying two buildings and heavily damaging seven others.</p>
+<p><img  alt="" width="336" height="422" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/fire2.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/fire2.gif" alt="" width="336" height="422" /></noscript></p>
+<p>The information on this map was provided by the U.S. Forest Service and local firefighters who were on the scene during the fire. Temperature estimates were derived from a series of about two dozen interviews with those personnel.</p>
+<p>&nbsp;</p>
+<p>The three pixels pointed to by the arrow in this 3.9 um image are those being directly affected by the Pingree fire at 9:00 PM LST (time of map, previous page). The GOES is viewing an unobscured fire scene. At this time, the only clouds in the region were a scattered, thin cirrus deck not over the fire scene (fires can be observed through thin cirrus at 3.9 um). VIS imagery showed smoke from the fire was advected eastward, and with the satellite viewing from nearly due south, smoke obscuration was minimal. Finally, a significant part of the hottest burn was in the crowns of the trees, eliminating the possibility of tree canopy obscuration of a brush fire below, allowing the GOES a nearly unobscured view of the fire scene.</p>
+<p><img  alt="" width="398" height="389" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/fire3.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/fire3.gif" alt="" width="398" height="389" /></noscript></p>
+<p>The 3 rows of numbers show the temperatures (K) of the pixels in the immediate proximity of the fire, including the three fire-affected pixels (asterisked).</p>
+<p>During day-time, visible imagery can be used to infer fire locations from smoke plumes. Smoke from larger fires is particularly easy to see in visible image loops, appearing as light-colored, hazy plumes emanating from a small area. Observe the smoke plumes produced by very large, controlled burns near the cities of Pensicola and Apalachicola, FL (both, near the Gulf coast) in the loop below. Arrows are added to identify the positions of the two larger Florida smoke plumes, as well as two smaller plumes, one in MS, and the other in AL.</p>
+<p class="jvm_download">Please download the latest version of Java Virtual Machine from <a href="http://www.java.com/">http://www.java.com</a> if you&#8217;re having trouble viewing this loop.</p>
+<p>Smoke from smaller fires, including the two smaller plumes just mentioned, is not always evident in VIS imagery. This will become apparent when the 3.9 um imagery for this case is presented on the next &#8220;display page&#8221; (click on &#8220;Continue&#8221; below).</p>
+<p>&nbsp;</p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Day-time Reflectivity </h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/dtref102.gif"><img  alt="" width="284" height="208" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/rf1min02.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/rf1min02.gif" alt="" width="284" height="208" /></noscript></a> <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/dtref104.gif"><img  alt="" width="284" height="208" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/rf1min04.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/rf1min04.gif" alt="" width="284" height="208" /></noscript></a></p>
+<p>An image product that approximates reflected energy at 3.9 um shows exceptional promise for a number of applications. This so-called &#8220;reflected product&#8221; is derived by equating the 10.7 um channel brightness temperature to a corresponding radiance value at 3.9 um, for each pixel within an image. That radiance value is then subtracted from the actual 3.9 um radiance, resulting in an approximate reflected radiance at 3.9 um. The 3.9 um &#8220;reflected product&#8221; shows water clouds as bright white, and poorly reflective ice clouds and snow as dark grey shades. These images show that clouds are not easily distinguished from snow cover when only the VIS channel is viewed; however, the addition of information from the 3.9 and the 10.7 um channels, along with the 3.9 um &#8220;reflected product&#8221;, aid greatly in discriminating between snow cover, clear ground, ice cloud and water cloud.</p>
+<p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/dtref1rf.gif"><img  alt="" width="284" height="208" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/rf1minrf.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/rf1minrf.gif" alt="" width="284" height="208" /></noscript></a> <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/dtref1vs.gif"><img  alt="" width="284" height="208" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/rf1minvs.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/rf1minvs.gif" alt="" width="284" height="208" /></noscript></a></p>
+<p>NOTE: This product&#8217;s utility for night-time cloud discrimination is also under investigation.</p>
+<p>&nbsp;</p>
+<p class="jvm_download">Please download the latest version of Java Virtual Machine from <a href="http://www.java.com/">http://www.java.com</a> if you&#8217;re having trouble viewing this loop.</p>
+<p>Biomass burning can be monitored using the 3.9 um imagery. In this loop, covering one afternoon and evening, hundreds of fires can be seen as bright spots, covering large regions of northern Brazil. As described in earlier discussions on reflection at 3.9 um, water clouds are white and cirrus clouds are dark in this product; while thin cirrus around the edge of a thunderstorm anvil appear as filmy, slightly brighter regions. Also, in recalling the discussion regarding the difference in response at 3.9 versus 10.7 um for partially filled FOVs (the first &#8220;Fire Detection&#8221; display page), it can be seen that this product portrays fire areas as regions of enhanced &#8220;reflected energy&#8221; at 3.9 um, where the increased radiance is solely due to the fire&#8217;s contribution.</p>
+<p class="jvm_download">Please download the latest version of Java Virtual Machine from <a href="http://www.java.com/">http://www.java.com</a> if you&#8217;re having trouble viewing this loop.</p>
+<p>The image above, from 10 September 1995, 1845-2115 UTC, reveals the magnitude of biomass burning. Note that the 3.9 um &#8220;reflected product&#8221; continues to show the fire areas at night, as would the normal 3.9 um imagery, after the smoke plumes are no longer trackable with VIS imagery.</p>
+<p>The &#8220;reflected product&#8221; is also useful at night for detecting other sub-pixel related phenomena such as cities or a hurricane&#8217;s eye that is covered by thin cirrus.</p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Visibility Contaminates</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/viscont1.gif"><img  alt="" width="284" height="213" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smvscnt1.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smvscnt1.gif" alt="" width="284" height="213" /></noscript></a> <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/viscont2.gif"><img  alt="" width="284" height="213" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smvscnt2.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smvscnt2.gif" alt="" width="284" height="213" /></noscript></a></p>
+<p>In some cases atmospheric contaminates are able to be detected using GOES imagery and derived image products. At the time of the visible image, a cold front was moving across west TX, with the strong winds behind it raising an area of dust. In this VIS image, the blowing dust appears as a slightly more reflective (lighter) area due to the forward scattering of visible radiation; it is almost undetectable in the corresponding 3.9 um image. However, a derived product image (DPI), created at CIRA, clearly shows the area of blowing dust. This DPI is a Principal Component Image (PCI), which is basically the 3.9 um channel output minus that from the other longwave IR channels. The detectability of other visibility contaminates is also under investigation, including smoke, which appears to be dependent upon solar radiation and scattering angle, and volcanic ash, which may be detectable both day and night.</p>
+<p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/viscont3.gif"><img  alt="" width="284" height="213" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smvscnt3.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/smvscnt3.gif" alt="" width="284" height="213" /></noscript></a></p>
+<p>Those interested in learning more about the use of PCIs in highlighting various meteorological features are invited to read the following paper: Hillger, D.W., 1996; <u>Meteorological features from principal component transformation of GOES-8/9 Imager and Sounder data</u>; Eighth Conference on Satellite Meteorology andOceanography, AMS, 28 Jan &#8211; 2 Feb, Atlanta, GA, 4-p.</p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Sun Glint</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p>For many years, the orientation and the extent of sun glint, as seen with visible imagery, has been used to locate regions of smooth seas and weak surface winds. For instance, if the surface winds are calm and the water surface is smooth, reflection is strong when the sun-satellite geometry is optimized. The high quality VIS imagery from the new GOES gives users the opportunity to enhance the imagery to reveal greater detail in the sun glint region. There is very strong reflection of solar radiation at 3.9 um because of a difference in the refractive index of water at that wavelength. This causes sun glint to be very bright in the 3.9 um imagery and, at low solar angles, the sensor (and thus the image) becomes saturated.</p>
+<p class="jvm_download">Please download the latest version of Java Virtual Machine from <a href="http://www.java.com/">http://www.java.com</a> if you&#8217;re having trouble viewing this loop.</p>
+<p>These four-frame sequences of coincident VIS, above, and 3.9 um (displayed as reflectivity), below, imagery show sun glint detected by GOES-9 on 11 Sept 1995, when the satellite was located at 90 W. The glint region is at the right-center portion of the images and progresses to the left (west) until it is barely detectable in the 4th frame of the sequence. Note the extensive glint area in the 3.9 um images as compared with that seen in the visible images.</p>
+<p class="jvm_download">Please download the latest version of Java Virtual Machine from <a href="http://www.java.com/">http://www.java.com</a> if you&#8217;re having trouble viewing this loop.</p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Cumulus Bands at Night</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p>At night, the 3.9 and the 10.7 um channels behave similarly, since only emitted radiation is present. At times, this allows for the detection of cumulus and cumulus bands; such as when differences between surface and cloud temperatures allow for the easy identification of the cloudy area. However, when land surface and cloud temperatures are nearly the same, discriminating between cloud and ground is extremely difficult with information from only one IR channel.</p>
+<p class="jvm_download">Please download the latest version of Java Virtual Machine from <a href="http://www.java.com/">http://www.java.com</a> if you&#8217;re having trouble viewing this loop.</p>
+<p>This is illustrated in the 3.9 um imagery, above, from over the Great Lakes, during the night of 7 Dec 1995. As the loop starts, notice the distinct difference between cloud (cumulus bands), ground and surface water. As the evening progresses, and the ground cools, the distinction between cloud and ground becomes less evident. This is not the case when the fog/stratus product is used, and the cumulus bands (water cloud) are easily detected over, and downwind from, the Great Lakes. In the fog/stratus product loop below, cumulus bands are white and cirrus cloud is black.</p>
+<p class="jvm_download">Please download the latest version of Java Virtual Machine from <a href="http://www.java.com/">http://www.java.com</a> if you&#8217;re having trouble viewing this loop.</p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Convective Cloud Phases</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p>During the daylight hours, the potential for identifying cumulus clouds which have entered the ice phase is greatly improved when using 3.9 um imagery. This is because of the difference in reflection between ice and water cloud at 3.9 um. This image shows a large thunderstorm complex along the Louisiana Gulf coast from the VIS and 3.9 um channel imagers. In the VIS image, well-organized bands of cumulus over the Gulf of Mexico can be seen feeding into the storm area. When the same storm complex is viewed with the 3.9 um channel, many of the cumulus appear black while others nearby do not. In this particular lookup table, black is set to represent clouds with low reflectivity. It is likely, then, that the black cloud areas in this 3.9 um image have already entered the ice phase.</p>
+<p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/ccphases.gif"><img  alt="" width="454" height="300" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/ccphases.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/ccphases.gif" alt="" width="454" height="300" /></noscript></a></p>
+        </div>
+                <button class="accordion accordion-blue">
+          <h5  class="accordion-header"><i class="fa fa-plus-square" aria-hidden="true"></i>
+          Volcanic Ash Cloud Monitoring</h5>
+        </button>
+        <div class="panel rlPadding ui-accordion-content">
+          <p>The detection and monitoring of volcanic ash clouds is particularly important for aviation safety since volcanic particulates can cause serious damage to aircraft engines. The volcanic ash cloud in this example is from an eruption on Mt. Ruapehu, in New Zealand, on June 17th of 1996. This ash cloud and subsequent eruptions caused the Wellington airport to cease operations for several days.</p>
+<p>Three products from GOES are useful in monitoring the evolution of volcanic ash clouds. They are daytime VIS imagery (seen in the upper left at 0300 UTC) during daylight hours; the 3.9 um reflectivity product (upper right); and a new ash cloud product (lower right), a scaled temperature difference between the 10.7 and the 12.0 micrometer channels, made useful because of the absorption by sulphur dioxide in the 12 um band. Notice how well the volcanic ash plume can be seen in all three images at 0300 UTC. At night, 10.7 micrometer imagery (replacing the VIS imagery in the upper left at 0900 and 1200 UTC in this example) does not reveal the ash cloud, however it is detectable in both the reflectivity and the ash cloud products at 0900 UTC and, three hours later, at 1200 UTC. Note how the volcano&#8217;s hot lava region is detectable in the reflectivity product, since it is not obscured by ash cloud.</p>
+<h4>Images at 0300 UTC</h4>
+<p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzvis1.gif"><img  alt="" width="284" height="208" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzvis1sm.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzvis1sm.gif" alt="" width="284" height="208" /></noscript></a> <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzrefir1.gif"><img  alt="" width="283" height="205" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzrf1sm.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzrf1sm.gif" alt="" width="283" height="205" /></noscript></a> <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzash1.gif"><img  alt="" width="284" height="208" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzash1sm.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzash1sm.gif" alt="" width="284" height="208" /></noscript></a></p>
+<h4>Images at 0900 UTC</h4>
+<p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nz1072.gif"><img  alt="" width="284" height="208" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nz1072sm.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nz1072sm.gif" alt="" width="284" height="208" /></noscript></a> <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzrefir2.gif"><img  alt="" width="284" height="207" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzrf2sm.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzrf2sm.gif" alt="" width="284" height="207" /></noscript></a> <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzash2.gif"><img  alt="" width="284" height="208" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzash2sm.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzash2sm.gif" alt="" width="284" height="208" /></noscript></a></p>
+<h4>Images at 1200 UTC</h4>
+<p><a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nz1073.gif"><img  alt="" width="284" height="210" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nz1073sm.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nz1073sm.gif" alt="" width="284" height="210" /></noscript></a> <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzrefir3.gif"><img  alt="" width="284" height="208" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzrf3sm.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzrf3sm.gif" alt="" width="284" height="208" /></noscript></a> <a href="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzash3.gif"><img  alt="" width="284" height="208" data-src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzash3sm.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="http://rammb.cira.colostate.edu/training/tutorials/goes_39um/images/nzash3sm.gif" alt="" width="284" height="208" /></noscript></a></p>
+        </div>
+            </div>
+      <button class="accordion">
+      <h3 class="accordion-header">
+        <i class="fa fa-plus-square" aria-hidden="true"></i>
+        The GOES 3.9 um Tutorial Glossary      </h3>
+    </button>
+    <div class="panel ui-accordion-content">
+      <dl>
+<dt><a id="gloss"></a>AVHRR &#8211;</dt>
+<dd>Advanced Very High Resolution Radiometer, a 5-channel (4 infrared channels and 1 visible channel) instrument flown on board NOAA sun-synchronous polar-orbiting satellites.</dd>
+<dt>band &#8211;</dt>
+<dd>can refer to either a narrow spectral channel selected out of the electromagnetic spectrum, or to a larger portion of the spectrum.</dd>
+<dt>blackbody &#8211;</dt>
+<dd>a surface or body that absorbs all radiation incident upon it. Likewise, a blackbody has the maximum possible radiative emission for its given temperature.</dd>
+<dt>channel &#8211;</dt>
+<dd>a discrete portion of the spectrum measured by a satellite instrument, defined by a filter function (vs. wavelength). Satellite channels have a finite width, typically ranging from around 0.2 um in the visible to greater than 1.0 um in the infrared, or to greater than 10 um for sounder infrared channels.</dd>
+<dt>emissivity &#8211;</dt>
+<dd>also called emittance &#8211; the non-dimensional ratio of the radiance emitted from an object at a particular wavelength to the radiance that a blackbody would emit at that same temperature and wavelength. Thus a surface with an emissivity equal to 1.0 is a blackbody. All natural surfaces have emissivities less than 1.0, although most earth land surfaces have infrared emissivities between 0.9 and 1.0.</dd>
+<dt>GOES &#8211;</dt>
+<dd>Geostationary Operational Environmental Satellites, a series of satellites, in geosynchronous orbit, launched by the U.S. and operated by NOAA/NESDIS. There have been three generations of GOES satellites, starting with the SMS/GOES series in the mid-1970s. The most recent GOES satellites are GOES-8 and GOES-9, launched in 1994 and 1995, respectively.</dd>
+<dt>geostationary &#8211;</dt>
+<dd>sometimes called geosynchronous &#8211; a characteristic of a satellite orbit in which the satellite circles the globe, over the equator, in synchronization with the earth&#8217;s rotation. These satellites have a period of 24 h, allowing images of the scene below the satellite to be taken continuously, with little or no perceived movement.</dd>
+<dt>Imager &#8211;</dt>
+<dd>as applied to GOES satellites: a 5-channel instrument designed to measure in the visible and the infrared portions of the electromagnetic spectrum, to provide operational images every 15 minutes over most of the U.S.</dd>
+<dt>infrared &#8211;</dt>
+<dd>the portion of the electromagnetic spectrum with wavelengths ranging from longer than visible radiation, starting around 0.7 um, to wavelengths shorter than those in the microwave portion of the spectrum. Satellite instruments typically measure infrared radiation between wavelengths of about 3 um and 20 um.</dd>
+<dt>Kirchoff&#8217;s Law &#8211;</dt>
+<dd>the law that states that for objects in thermodynamic equilibrium (being characterized by a single temperature, or radiatively stable) the absorptivity equals the emissivity.</dd>
+<dt>longwave &#8211;</dt>
+<dd>when referring to the infrared portion of the electromagnetic spectrum, longwave is the region above about 10 um.</dd>
+<dt>lookup table &#8211; or color table &#8211;</dt>
+<dd>the enhancement (often using color) applied to satellite imagery, used to emphasize certain features that may be of interest.</dd>
+<dt>medium wave &#8211;</dt>
+<dd>when referring to the infrared portion of the electromagnetic spectrum, medium wave is the region between about 5 um and 10 um.</dd>
+<dt>microwave &#8211;</dt>
+<dd>the portion of the electromagnetic spectrum with much longer wavelengths than infrared radiation, typically above about 1 mm.</dd>
+<dt>NEDR &#8211;</dt>
+<dd>Noise Equivalent Delta Radiance, or noise equivalent radiance &#8211; the uncertainty in satellite measurements in terms of radiance units. The NEDR is usually a constant, regardless of the temperature of the scene being observed.</dd>
+<dt>NEDT &#8211;</dt>
+<dd>Noise Equivalent Delta Temperature, or noise equivalent temperature &#8211; the uncertainty in satellite measurements in terms of temperature units. The NEDT is a value which depends on the temperature of the scene being observed.</dd>
+<dt>NESDIS &#8211;</dt>
+<dd>the National Environmental Satellite, Data, and Information Service, the part of NOAA which operates U.S. weather satellites and provides satellite data services to other branches of NOAA and other branches of the government.</dd>
+<dt>NOAA &#8211;</dt>
+<dd>the National Oceanic and Atmospheric Administration, part of the U.S. Department of Commerce, responsible for monitoring and predicting the state of the oceans and the atmosphere. Also the name of the current series of polar-orbiting sun-synchronous weather satellites operated by NOAA.</dd>
+<dt>Planck function &#8211;</dt>
+<dd>a function named after Max Planck, which describes the blackbody radiative emission of a surface or body as a function of wavelength and temperature. The Planck radiance is a unique value for each wavelength and temperature.</dd>
+<dt>polar-orbiting &#8211;</dt>
+<dd>a characteristic of a satellite orbit that allows the satellite to circle the globe approximately over the poles of the earth. Polar-orbiting satellites have orbital inclinations, with respect to the equator, of close to 90 degrees. Typically, polar-orbiting weather satellites are also sun-synchronous.</dd>
+<dt>radiance &#8211;</dt>
+<dd>a conserved quantity of energy per unit area, per unit solid angle, and per unit of spectrum bandwidth. Radiances are measured by satellite instruments called radiometers or spectrometers, typically in units of mW / (m2.sr.cm-1), in the infrared portion of the spectrum or in units of W / (m2.sr.um), in the visible portion of the spectrum.</dd>
+<dt>radiance temperature &#8211;</dt>
+<dd>sometimes called brightness temperature, or blackbody temperature &#8211; the temperature measured by a satellite instrument, usually detected in terms of radiance, but converted into a temperature through the Planck function at a given wavelength.</dd>
+<dt>resolution &#8211;</dt>
+<dd>the size of the field-of-view (FOV) of a satellite picture element, as measured on the earth in kilometers. Resolution can have a second meaning: as the distance between the centers of adjacent picture elements. The two resolutions can be different, resulting in either overlap of individual FOVs, or gaps between them.</dd>
+<dt>scene temperature &#8211;</dt>
+<dd>the actual temperature of the scene being viewed. This temperature differs from the radiance temperature of the surface due to emissivity, reflectance, and atmospheric attenuation of the radiation.</dd>
+<dt>shortwave &#8211;</dt>
+<dd>when referring to the infrared portion of the electromagnetic spectrum, shortwave is the region below about 5 um.</dd>
+<dt>Sounder &#8211;</dt>
+<dd>as applied to GOES satellites: a 19-channel instrument designed to provide visible and infrared spectral radiances, used to vertically probe, or sound, the atmosphere. This is done by employing spectral bands with different amounts of atmospheric absorption, in order to measure temperatures and moisture at different depths in the atmosphere. Sounder data is typically available from GOES every hour, over the same locations.</dd>
+<dt>sun-synchronous &#8211;</dt>
+<dd>a characteristic of a satellite orbit that allows the satellite&#8217;s path to precess, or rotate slowly in synchronization with the earth&#8217;s revolution around the sun. Sun-synchronous satellites view the earth below at the same local time each pass; and, by necessity, are polar-orbiting, viewing the earth below during both a day-time and a night-time overpass, approximately 12 hours apart.</dd>
+<dt>TIROS &#8211;</dt>
+<dd>Television and InfraRed Observation Satellite &#8211; an old term used for the first polar-orbiting weather satellites. Currently, satellites in the series are called NOAA satellites.</dd>
+<dt>visible &#8211;</dt>
+<dd>the portion of the electromagnetic spectrum viewable by the naked eye, with wavelengths ranging from approximately 0.43 um to 0.69 um.</dd>
+</dl>
+      <!--  SECOND SET ACCORD  -->  
+            </div>
+  </div>                </div>
+                                                                          <!--        Builder Content     -->
+  			
+					</div>
+		
+	<div class="directoryListing">
+	    </div>
+	</div>
+<!--    Resource/Intranet pages  -->
+</div>
+</div>
+	<footer class="footer margin-top" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+		<div id="inner-footer" class="wrap cf">
+			<div class="d-4of10 t-3of5 m-all">
+				<h4>Contact Us</h4>
+				<div id="text-2" class="widget widget_text">			<div class="textwidget"><p>Regional and Mesoscale Meteorology Branch<br />
+Cooperative Institute for Research in the Atmosphere<br />
+3925A West Laporte Ave.<br />
+Fort Collins, CO 80523-1375<br />
+Phone: <a href="tel:+9704918448">970.491.8448</a><br />
+Fax: 970.491.8241</p>
+</div>
+		</div>			</div>
+			<div class="d-3of10 t-1of5 m-all">
+				<h4>More Details:</h4>
+				<div class="menu-footer-detail-menu-container"><ul id="menu-footer-detail-menu" class="menu"><li id="menu-item-11328" class="menu-item menu-item-type-post_type menu-item-object-repages2 menu-item-11328"><a href="../../../resources/contact-directory/index.html">Contact Directory</a></li>
+<li id="menu-item-5197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5197"><a href="http://www.noaa.gov/privacy.html">Privacy Policy</a></li>
+<li id="menu-item-5198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5198"><a href="http://www.noaa.gov/disclaimer.html">Disclaimer</a></li>
+<li id="menu-item-5199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5199"><a href="http://www.cio.noaa.gov/services_programs/info_quality.html">Information Quality</a></li>
+<li id="menu-item-5200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5200"><a href="../../../resources/experimental_products_disclaimer/index.html">Experimental Products Disclaimer</a></li>
+<li id="menu-item-9136" class="menu-item menu-item-type-post_type menu-item-object-staffpages menu-item-9136"><a href="../../../intranet/mainpage/index.html">Staff Login</a></li>
+</ul></div>			</div>
+			<div class="d-3of10 t-1of5 m-all">
+				<h4>Our Partners:</h4>
+				<div class="menu-footer-partners-menu-container"><ul id="menu-footer-partners-menu" class="menu"><li id="menu-item-5201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5201"><a href="http://www.doc.gov/">US Dept. of Commerce</a></li>
+<li id="menu-item-5202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5202"><a href="http://www.noaa.gov/">NOAA</a></li>
+<li id="menu-item-5203" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5203"><a href="http://www.nesdis.noaa.gov/">NESDIS</a></li>
+<li id="menu-item-5204" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5204"><a href="https://www.star.nesdis.noaa.gov/star/index.php">STAR</a></li>
+<li id="menu-item-5205" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5205"><a href="https://www.star.nesdis.noaa.gov/star/CoRP_index.php">CoRP</a></li>
+</ul></div>			</div>
+			<div class="d-all t-all m-all">
+			<p class="source-org copyright">&copy; 2022 Regional and Mesoscale Meteorology Branch.</p>
+		</div>
+		</div>
+	</footer>
+</div>	
+		<!-- 
+ 		<script src="https://code.jquery.com/ui/1.9.1/jquery-ui.js"></script> -->
+
+
+ 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+ 		
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.28.14/js/jquery.tablesorter.min.js"></script>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+		<style type="text/css" media="screen">.is-menu path.search-icon-path { fill: #848484;}body .popup-search-close:after, body .search-close:after { border-color: #848484;}body .popup-search-close:before, body .search-close:before { border-color: #848484;}</style><link rel='stylesheet' id='dashicons-css'  href='../../../wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-global-css'  href='../../../wp-content/plugins/advanced-custom-fields-pro/assets/build/css/acf-global.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-input-css'  href='../../../wp-content/plugins/advanced-custom-fields-pro/assets/build/css/acf-input.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-pro-input-css'  href='../../../wp-content/plugins/advanced-custom-fields-pro/assets/build/css/pro/acf-pro-input.css' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='../../../wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-datepicker-css'  href='../../../wp-content/plugins/advanced-custom-fields-pro/assets/inc/datepicker/jquery-ui.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-timepicker-css'  href='../../../wp-content/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-color-picker-css'  href='../../../wp-admin/css/color-picker.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-input-table-css'  href='../../../wp-content/plugins/advanced-custom-fields-table-field/css/input.css' type='text/css' media='all' />
+<script type='text/javascript' src='../../../wp-includes/js/dist/vendor/regenerator-runtime.min.js' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/rammb2.cira.colostate.edu\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../wp-content/plugins/contact-form-7/includes/js/index.js' id='contact-form-7-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js' id='smush-lazy-load-js'></script>
+<script type='text/javascript' src='../../../wp-content/themes/RAMMB-WP/library/js/scripts.js' id='bones-js-js'></script>
+<script type='text/javascript' id='ivory-search-scripts-js-extra'>
+/* <![CDATA[ */
+var IvorySearchVars = {"is_analytics_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js' id='ivory-search-scripts-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/mouse.min.js' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/sortable.min.js' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/resizable.min.js' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-pro/assets/build/js/acf.min.js' id='acf-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-pro/assets/build/js/acf-input.min.js' id='acf-input-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-pro/assets/build/js/pro/acf-pro-input.min.js' id='acf-pro-input-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.full.min.js' id='select2-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/datepicker.min.js' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.js' id='acf-timepicker-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/draggable.min.js' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/slider.min.js' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.ui.touch-punch.js' id='jquery-touch-punch-js'></script>
+<script type='text/javascript' src='../../../wp-admin/js/iris.min.js' id='iris-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/dist/hooks.min.js' id='wp-hooks-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='wp-color-picker-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='../../../wp-admin/js/color-picker.min.js' id='wp-color-picker-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-pro/assets/inc/color-picker-alpha/wp-color-picker-alpha.js' id='acf-color-picker-alpha-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-table-field/js/input-v5.js' id='acf-input-table-js'></script>
+<script>
+acf.data = {"select2L10n":{"matches_1":"One result is available, press enter to select it.","matches_n":"%d results are available, use up and down arrow keys to navigate.","matches_0":"No matches found","input_too_short_1":"Please enter 1 or more characters","input_too_short_n":"Please enter %d or more characters","input_too_long_1":"Please delete 1 character","input_too_long_n":"Please delete %d characters","selection_too_long_1":"You can only select 1 item","selection_too_long_n":"You can only select %d items","load_more":"Loading more results&hellip;","searching":"Searching&hellip;","load_fail":"Loading failed"},"google_map_api":"https:\/\/maps.googleapis.com\/maps\/api\/js?libraries=places&ver=3&callback&language=en_US","datePickerL10n":{"closeText":"Done","currentText":"Today","nextText":"Next","prevText":"Prev","weekHeader":"Wk","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesMin":["S","M","T","W","T","F","S"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"dateTimePickerL10n":{"timeOnlyTitle":"Choose Time","timeText":"Time","hourText":"Hour","minuteText":"Minute","secondText":"Second","millisecText":"Millisecond","microsecText":"Microsecond","timezoneText":"Time Zone","currentText":"Now","closeText":"Done","selectText":"Select","amNames":["AM","A"],"pmNames":["PM","P"]},"colorPickerL10n":{"hex_string":"Hex String","rgba_string":"RGBA String"},"mimeTypeIcon":"https:\/\/rammb2.cira.colostate.edu\/wp-includes\/images\/media\/default.png","mimeTypes":{"jpg|jpeg|jpe":"image\/jpeg","gif":"image\/gif","png":"image\/png","bmp":"image\/bmp","tiff|tif":"image\/tiff","webp":"image\/webp","ico":"image\/x-icon","heic":"image\/heic","asf|asx":"video\/x-ms-asf","wmv":"video\/x-ms-wmv","wmx":"video\/x-ms-wmx","wm":"video\/x-ms-wm","avi":"video\/avi","divx":"video\/divx","flv":"video\/x-flv","mov|qt":"video\/quicktime","mpeg|mpg|mpe":"video\/mpeg","mp4|m4v":"video\/mp4","ogv":"video\/ogg","webm":"video\/webm","mkv":"video\/x-matroska","3gp|3gpp":"video\/3gpp","3g2|3gp2":"video\/3gpp2","txt|asc|c|cc|h|srt":"text\/plain","csv":"text\/csv","tsv":"text\/tab-separated-values","ics":"text\/calendar","rtx":"text\/richtext","css":"text\/css","vtt":"text\/vtt","dfxp":"application\/ttaf+xml","mp3|m4a|m4b":"audio\/mpeg","aac":"audio\/aac","ra|ram":"audio\/x-realaudio","wav":"audio\/wav","ogg|oga":"audio\/ogg","flac":"audio\/flac","mid|midi":"audio\/midi","wma":"audio\/x-ms-wma","wax":"audio\/x-ms-wax","mka":"audio\/x-matroska","rtf":"application\/rtf","pdf":"application\/pdf","class":"application\/java","tar":"application\/x-tar","zip":"application\/zip","gz|gzip":"application\/x-gzip","rar":"application\/rar","7z":"application\/x-7z-compressed","psd":"application\/octet-stream","xcf":"application\/octet-stream","doc":"application\/msword","pot|pps|ppt":"application\/vnd.ms-powerpoint","wri":"application\/vnd.ms-write","xla|xls|xlt|xlw":"application\/vnd.ms-excel","mdb":"application\/vnd.ms-access","mpp":"application\/vnd.ms-project","docx":"application\/vnd.openxmlformats-officedocument.wordprocessingml.document","docm":"application\/vnd.ms-word.document.macroEnabled.12","dotx":"application\/vnd.openxmlformats-officedocument.wordprocessingml.template","dotm":"application\/vnd.ms-word.template.macroEnabled.12","xlsx":"application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet","xlsm":"application\/vnd.ms-excel.sheet.macroEnabled.12","xlsb":"application\/vnd.ms-excel.sheet.binary.macroEnabled.12","xltx":"application\/vnd.openxmlformats-officedocument.spreadsheetml.template","xltm":"application\/vnd.ms-excel.template.macroEnabled.12","xlam":"application\/vnd.ms-excel.addin.macroEnabled.12","pptx":"application\/vnd.openxmlformats-officedocument.presentationml.presentation","pptm":"application\/vnd.ms-powerpoint.presentation.macroEnabled.12","ppsx":"application\/vnd.openxmlformats-officedocument.presentationml.slideshow","ppsm":"application\/vnd.ms-powerpoint.slideshow.macroEnabled.12","potx":"application\/vnd.openxmlformats-officedocument.presentationml.template","potm":"application\/vnd.ms-powerpoint.template.macroEnabled.12","ppam":"application\/vnd.ms-powerpoint.addin.macroEnabled.12","sldx":"application\/vnd.openxmlformats-officedocument.presentationml.slide","sldm":"application\/vnd.ms-powerpoint.slide.macroEnabled.12","onetoc|onetoc2|onetmp|onepkg":"application\/onenote","oxps":"application\/oxps","xps":"application\/vnd.ms-xpsdocument","odt":"application\/vnd.oasis.opendocument.text","odp":"application\/vnd.oasis.opendocument.presentation","ods":"application\/vnd.oasis.opendocument.spreadsheet","odg":"application\/vnd.oasis.opendocument.graphics","odc":"application\/vnd.oasis.opendocument.chart","odb":"application\/vnd.oasis.opendocument.database","odf":"application\/vnd.oasis.opendocument.formula","wp|wpd":"application\/wordperfect","key":"application\/vnd.apple.keynote","numbers":"application\/vnd.apple.numbers","pages":"application\/vnd.apple.pages"},"admin_url":"https:\/\/rammb2.cira.colostate.edu\/wp-admin\/","ajaxurl":"https:\/\/rammb2.cira.colostate.edu\/wp-admin\/admin-ajax.php","nonce":"cef7e48163","acf_version":"5.11.4","wp_version":"5.9","browser":"","locale":"en_US","rtl":false,"screen":null,"post_id":null,"validation":null,"editor":"classic"};
+</script>
+<script>
+acf.doAction( 'prepare' );
+</script>
+	</body>
+
+<!-- Mirrored from rammb2.cira.colostate.edu/training/tutorials/goes_39um/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 15 Feb 2022 12:36:05 GMT -->
+</html> <!-- end of site. what a ride! -->

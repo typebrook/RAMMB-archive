@@ -1,0 +1,1216 @@
+--- Site: KABQ ---
+
+   Line of reference from AFD:  ['as mentioned yesterday...water vapor imagery and blended tpw product ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=201201131042
+   Line of reference from AFD:  ['valley /as indicated by modis and visible satellite imagery/ will ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=201201132145
+   Line of reference from AFD:  ['but the modis airmass rgb/goes h20 imagery suggests there may be']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=201203252047
+   Line of reference from AFD:  ['07z cira blended tpw shows pwats 1.3-1.5 inch associated with this']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=201207040911
+   Line of reference from AFD:  ['latest blended tpw satellite product. pwats above one inch were ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=201207150934
+   Line of reference from AFD:  ['500mb. experimental modis rgb airmass imagery from nasa sport this']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=201208090918
+   Line of reference from AFD:  ['700mb per 00z nam bufkit at ktcc and klvs. latest modis night-time']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=201208120930
+   Line of reference from AFD:  ['no significant changes made from previous forecast. cira blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=201208152100
+   Line of reference from AFD:  ['the rio grande valley westward. modis rgb imagery and obs verify']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=201209271148
+   Line of reference from AFD:  ['consider more than 24 hrs out. looking at modis rgb air mass h2o']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=201210230936
+   Line of reference from AFD:  ['well as from moriarty to tucumcari. modis rgb airmass water vapor']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=201210232114
+   Line of reference from AFD:  ['snow cover visible on the 1741z modis rgb snow product sunday will']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=201211121022
+   Line of reference from AFD:  ['water. blended tpw satellite imagery depicts pw values around 25 ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=201211142211
+         * In 2012,  KABQ had  13  AFDs with unique polar-orbiting satellite product references out of  1883  total AFDs.
+ 
+--- Site: KABR ---
+
+         * In 2012,  KABR had  0  AFDs with unique polar-orbiting satellite product references out of  2889  total AFDs.
+ 
+--- Site: KAKQ ---
+
+   Line of reference from AFD:  ['been seen in low light visible satellites images. therefore...still']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAKQ&e=201208071922
+         * In 2012,  KAKQ had  1  AFDs with unique polar-orbiting satellite product references out of  3490  total AFDs.
+ 
+--- Site: KALY ---
+
+   Line of reference from AFD:  ['ny attm. per satellite derived scatterometer winds...upper jet']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDALY&e=201202182036
+         * In 2012,  KALY had  1  AFDs with unique polar-orbiting satellite product references out of  4159  total AFDs.
+ 
+--- Site: KAMA ---
+
+         * In 2012,  KAMA had  0  AFDs with unique polar-orbiting satellite product references out of  2610  total AFDs.
+ 
+--- Site: KAPX ---
+
+         * In 2012,  KAPX had  0  AFDs with unique polar-orbiting satellite product references out of  3173  total AFDs.
+ 
+--- Site: KARX ---
+
+         * In 2012,  KARX had  0  AFDs with unique polar-orbiting satellite product references out of  2383  total AFDs.
+ 
+--- Site: KBGM ---
+
+   Line of reference from AFD:  ['through the mid-atlantic coastal plain. blended tpw satellite product']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBGM&e=201205100834
+   Line of reference from AFD:  ['evidenced by blended tpw imagery)...persistent shwrs will be with']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBGM&e=201206120905
+   Line of reference from AFD:  ['northward. latest blended tpw graphics showing precipitable water']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBGM&e=201206121908
+   Line of reference from AFD:  ['water vapor and blended tpw products showing a little more']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBGM&e=201207111414
+   Line of reference from AFD:  ['evening. latest blended tpw satellite graphics are now beginning']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBGM&e=201209032338
+   Line of reference from AFD:  ['nern u.s. by mid-week. blended tpw product indicates high moisture ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBGM&e=201209151822
+   Line of reference from AFD:  ['inches poised to enter into the nern u.s. by mid-week. blended tpw']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBGM&e=201209160520
+   Line of reference from AFD:  ['bit to 75 kt early this mrng. water vapor/blended tpw imagery also']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBGM&e=201210290958
+         * In 2012,  KBGM had  8  AFDs with unique polar-orbiting satellite product references out of  3943  total AFDs.
+ 
+--- Site: KBIS ---
+
+         * In 2012,  KBIS had  0  AFDs with unique polar-orbiting satellite product references out of  2998  total AFDs.
+ 
+--- Site: KBMX ---
+
+         * In 2012,  KBMX had  0  AFDs with unique polar-orbiting satellite product references out of  2979  total AFDs.
+ 
+--- Site: KBOI ---
+
+         * In 2012,  KBOI had  0  AFDs with unique polar-orbiting satellite product references out of  1545  total AFDs.
+ 
+--- Site: KBOU ---
+
+         * In 2012,  KBOU had  0  AFDs with unique polar-orbiting satellite product references out of  1585  total AFDs.
+ 
+--- Site: KBOX ---
+
+         * In 2012,  KBOX had  0  AFDs with unique polar-orbiting satellite product references out of  3801  total AFDs.
+ 
+--- Site: KBRO ---
+
+   Line of reference from AFD:  ['blended tpw...and a slightly weaker pressure gradient to allow for']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBRO&e=201208180218
+   Line of reference from AFD:  ['dry airmass overall tonight. however amsu/ssmi blended tpw']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBRO&e=201208190123
+   Line of reference from AFD:  ['by visible satellite and amsu/ssmi blended tpw estimates...so will ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBRO&e=201208251847
+   Line of reference from AFD:  ['amsu/ssmi blended tpw estimates showing little has changed since']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBRO&e=201209030933
+   Line of reference from AFD:  ['corners region. amsu/ssmi blended tpw shows moisture just offshore']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBRO&e=201209130035
+   Line of reference from AFD:  ['blended tpw estimates and goes derived soundings show the region']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBRO&e=201209260928
+         * In 2012,  KBRO had  6  AFDs with unique polar-orbiting satellite product references out of  2450  total AFDs.
+ 
+--- Site: KBTV ---
+
+   Line of reference from AFD:  ['england...captured nicely by amsu/ssm-i blended tpw. this rain']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBTV&e=201209301900
+   Line of reference from AFD:  ['blended tpw. this rain band will continue to pivot back to the']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBTV&e=201210010001
+         * In 2012,  KBTV had  2  AFDs with unique polar-orbiting satellite product references out of  5078  total AFDs.
+ 
+--- Site: KBUF ---
+
+   Line of reference from AFD:  ['valleys as per blended total precipitable water /tpw/ and water ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBUF&e=201207131931
+         * In 2012,  KBUF had  1  AFDs with unique polar-orbiting satellite product references out of  3521  total AFDs.
+ 
+--- Site: KBYZ ---
+
+         * In 2012,  KBYZ had  0  AFDs with unique polar-orbiting satellite product references out of  1630  total AFDs.
+ 
+--- Site: KCAE ---
+
+         * In 2012,  KCAE had  0  AFDs with unique polar-orbiting satellite product references out of  3945  total AFDs.
+ 
+--- Site: KCAR ---
+
+         * In 2012,  KCAR had  0  AFDs with unique polar-orbiting satellite product references out of  3086  total AFDs.
+ 
+--- Site: KCHS ---
+
+   Line of reference from AFD:  ['kclx radar data as well as 1km modis satellite imagery show']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCHS&e=201201302151
+   Line of reference from AFD:  ['moves back toward the coast...and the latest modis sst images show ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCHS&e=201205240812
+   Line of reference from AFD:  ['with modis tpw products showing pwats in the 2 inch range as far']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCHS&e=201205280718
+   Line of reference from AFD:  ['finally...this mornings blended tpws are showing a very strong']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCHS&e=201206091344
+   Line of reference from AFD:  ['at the blended tpws...but there is still a very impressive dry layer']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCHS&e=201206091950
+   Line of reference from AFD:  ['fact...high resolution modis water temperature data indicate the']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCHS&e=201212282011
+         * In 2012,  KCHS had  6  AFDs with unique polar-orbiting satellite product references out of  3336  total AFDs.
+ 
+--- Site: KCLE ---
+
+         * In 2012,  KCLE had  0  AFDs with unique polar-orbiting satellite product references out of  3952  total AFDs.
+ 
+--- Site: KCRP ---
+
+   Line of reference from AFD:  ['enhanced modis sst composite.) as the sfc ridge axis enters the cwa ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201201010959
+   Line of reference from AFD:  ['enhanced modis sst composite product. the after early wednesday... ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201201211028
+   Line of reference from AFD:  ['sst values (sport enhanced modis sst composite)...increased']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201201301551
+   Line of reference from AFD:  ['(buoys/sport enhanced modis sst composite) to the mid/upper 60s sst ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201202111039
+   Line of reference from AFD:  ['based on the modis enhanced sst composite product.) sca conditions']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201202241039
+   Line of reference from AFD:  ['high.) when considering sst values (sport modis sst composite)...']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201202282146
+   Line of reference from AFD:  ['adiabatic with 20-25kt 925mb onshore wind. yet...the 2-km modis sst ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201211082120
+   Line of reference from AFD:  ['the nrn bays/nearshore waters when considering the 2-km modis']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201211091708
+   Line of reference from AFD:  ['waters per 2-km modis composite sst combined with caa.)']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201211102136
+   Line of reference from AFD:  ['output/nam 0-1km lapse rates combined with 925mb wind/2-km modis']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201211160318
+   Line of reference from AFD:  ['near 70f sst values over the nearshore waters based on modis 2-km ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201211241031
+   Line of reference from AFD:  ['68 degrees f /per modis imagery/ and with dewpoints in the upper']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201211252129
+   Line of reference from AFD:  ['values per 2-km modis sst composite.) anticipate noctural isold']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201211302139
+   Line of reference from AFD:  ['values (2-km modis sst composite) over the bays/nearshore waters for ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201212032159
+   Line of reference from AFD:  ['offshore waters based on 2-km modis sst composite.) expect min temp ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201212161035
+   Line of reference from AFD:  ['waters per modis sst composite) adds credence to the 30-35kt soln. ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201212181050
+         * In 2012,  KCRP had  16  AFDs with unique polar-orbiting satellite product references out of  2778  total AFDs.
+ 
+--- Site: KCTP ---
+
+   Line of reference from AFD:  ['yesterday. modis 11-3.7um imagery already showing patchy fog']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201205180940
+   Line of reference from AFD:  ['end the risk of showers by arnd 12z. modis 11-3.7um product']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201206230938
+   Line of reference from AFD:  ['early am modis 11-3.7um imagery showing dendritic pattern of fog']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201208230840
+   Line of reference from AFD:  ['early am modis 11-3.7um imagery showing dentritic pattern of']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201208241012
+   Line of reference from AFD:  ['early am modis 11-3.7um imagery showing typical dendritic pattern']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201208311026
+   Line of reference from AFD:  ['early am modis 11-3.7um imagery showing dendritic pattern of fog']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201209200958
+   Line of reference from AFD:  ['late evening modis 11-3.7um satl imagery showing extensive valley']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201210010359
+   Line of reference from AFD:  ['early morning modis 11-3.7um satl imagery showing extensive ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201210010712
+   Line of reference from AFD:  ['early morning modis 11-3.7um imagery showing some valley fog this']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201210051026
+   Line of reference from AFD:  ['tonight...expect patchy valley fog to form. modis 11-3.7um imagery']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201210090620
+         * In 2012,  KCTP had  10  AFDs with unique polar-orbiting satellite product references out of  4592  total AFDs.
+ 
+--- Site: KCYS ---
+
+         * In 2012,  KCYS had  0  AFDs with unique polar-orbiting satellite product references out of  2583  total AFDs.
+ 
+--- Site: KDDC ---
+
+   Line of reference from AFD:  ['satellite blended total precipitable water was increasing rapidly ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDDDC&e=201212140931
+         * In 2012,  KDDC had  1  AFDs with unique polar-orbiting satellite product references out of  3035  total AFDs.
+ 
+--- Site: KDLH ---
+
+         * In 2012,  KDLH had  0  AFDs with unique polar-orbiting satellite product references out of  2870  total AFDs.
+ 
+--- Site: KDMX ---
+
+         * In 2012,  KDMX had  0  AFDs with unique polar-orbiting satellite product references out of  2376  total AFDs.
+ 
+--- Site: KDTX ---
+
+         * In 2012,  KDTX had  0  AFDs with unique polar-orbiting satellite product references out of  2404  total AFDs.
+ 
+--- Site: KDVN ---
+
+         * In 2012,  KDVN had  0  AFDs with unique polar-orbiting satellite product references out of  2450  total AFDs.
+ 
+--- Site: KEAX ---
+
+         * In 2012,  KEAX had  0  AFDs with unique polar-orbiting satellite product references out of  2303  total AFDs.
+ 
+--- Site: KEKA ---
+
+   Line of reference from AFD:  ['.aviation...05z modis 11-4u imagery showed fg across interior']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201203021128
+   Line of reference from AFD:  ['north coast. water vapor and blended total precipitable water (tpw)']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201203291610
+   Line of reference from AFD:  ['a scatterometer pass yesterday showed a core of stronger winds in']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201208201051
+   Line of reference from AFD:  ['in the outer waters. scatterometer wind pass this morning and last ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201208232223
+   Line of reference from AFD:  ['.aviation...06z modis pass showed some fg in the van duzen river']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201208241033
+   Line of reference from AFD:  ['aviation...06z modis pass showed some fg in the van duzen river']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201208241648
+   Line of reference from AFD:  ['in the outer waters. scatterometer wind pass last night showed winds ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201208242233
+         * In 2012,  KEKA had  7  AFDs with unique polar-orbiting satellite product references out of  999  total AFDs.
+ 
+--- Site: KEPZ ---
+
+   Line of reference from AFD:  ['eastward in texas...while look at blended tpw product shows .9-1.0 ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEPZ&e=201204082031
+   Line of reference from AFD:  ["morning's epz sounding showed 1.1 inches and current blended tpw "]
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEPZ&e=201207032051
+   Line of reference from AFD:  ["inches and latest blended tpw image shows pw's still around 1.5 "]
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEPZ&e=201207042125
+   Line of reference from AFD:  ["this evening. early morning blended tpw product shows pw's around "]
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEPZ&e=201207061016
+   Line of reference from AFD:  ["across the cwa from east to west today. this morning's blended tpw "]
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEPZ&e=201208071023
+   Line of reference from AFD:  ["arizona. blended tpw product confirms this with pw's of 1.5 to "]
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEPZ&e=201208212106
+   Line of reference from AFD:  ['moving down over new mexico. 18z epz sounding and blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEPZ&e=201208252112
+   Line of reference from AFD:  ["blended tpw image shows pw's ranging from about .8 inches north to "]
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEPZ&e=201208281028
+   Line of reference from AFD:  ["high levels. blended tpw product shows pw's ranging from about 1.1 "]
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEPZ&e=201209272125
+   Line of reference from AFD:  ["blended tpw product does show pw's about .5 inches just upstream."]
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEPZ&e=201212161137
+         * In 2012,  KEPZ had  10  AFDs with unique polar-orbiting satellite product references out of  764  total AFDs.
+ 
+--- Site: KEWX ---
+
+   Line of reference from AFD:  ['from those of a few days ago..but blended tpw values in the']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEWX&e=201207150805
+   Line of reference from AFD:  ['models...blended total precipitable water product and satellite']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEWX&e=201210121715
+         * In 2012,  KEWX had  2  AFDs with unique polar-orbiting satellite product references out of  3002  total AFDs.
+ 
+--- Site: KFFC ---
+
+         * In 2012,  KFFC had  0  AFDs with unique polar-orbiting satellite product references out of  2860  total AFDs.
+ 
+--- Site: KFGF ---
+
+         * In 2012,  KFGF had  0  AFDs with unique polar-orbiting satellite product references out of  1574  total AFDs.
+ 
+--- Site: KFGZ ---
+
+   Line of reference from AFD:  ['moisture across arizona with most sites (gps data from the suomi ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDFGZ&e=201207141021
+   Line of reference from AFD:  ['sounding...with satellite blended total precipitable water imagery ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDFGZ&e=201208201621
+         * In 2012,  KFGZ had  2  AFDs with unique polar-orbiting satellite product references out of  1597  total AFDs.
+ 
+--- Site: KFSD ---
+
+         * In 2012,  KFSD had  0  AFDs with unique polar-orbiting satellite product references out of  2810  total AFDs.
+ 
+--- Site: KFWD ---
+
+         * In 2012,  KFWD had  0  AFDs with unique polar-orbiting satellite product references out of  2964  total AFDs.
+ 
+--- Site: KGGW ---
+
+   Line of reference from AFD:  ['probably caused by differential snow cover. modis satellite shows']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGGW&e=201211160321
+   Line of reference from AFD:  ['the thursday 18z modis imagery shows the snow-pack to be']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGGW&e=201211162110
+         * In 2012,  KGGW had  2  AFDs with unique polar-orbiting satellite product references out of  1573  total AFDs.
+ 
+--- Site: KGID ---
+
+         * In 2012,  KGID had  0  AFDs with unique polar-orbiting satellite product references out of  2569  total AFDs.
+ 
+--- Site: KGJT ---
+
+         * In 2012,  KGJT had  0  AFDs with unique polar-orbiting satellite product references out of  1819  total AFDs.
+ 
+--- Site: KGLD ---
+
+         * In 2012,  KGLD had  0  AFDs with unique polar-orbiting satellite product references out of  2876  total AFDs.
+ 
+--- Site: KGRB ---
+
+   Line of reference from AFD:  ['just n of sue where modis stlt imagery indicated lake surface']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGRB&e=201208271955
+   Line of reference from AFD:  ['.marine...glerl surface water temperature analyses and modis stlt']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGRB&e=201210240856
+   Line of reference from AFD:  ['marine...glerl surface water temperature analyses and modis stlt']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGRB&e=201210241413
+         * In 2012,  KGRB had  3  AFDs with unique polar-orbiting satellite product references out of  2218  total AFDs.
+ 
+--- Site: KGRR ---
+
+   Line of reference from AFD:  ['16z poes sounding near rqb shows moisture almost up to the 700 mb ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGRR&e=201201071934
+         * In 2012,  KGRR had  1  AFDs with unique polar-orbiting satellite product references out of  2705  total AFDs.
+ 
+--- Site: KGSP ---
+
+   Line of reference from AFD:  ['data/blended total precipitable water product shows pw/s running 200 ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGSP&e=201205040750
+   Line of reference from AFD:  ['front...with pwats 150-200% of normal per blended tpw sat product. ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGSP&e=201205081821
+   Line of reference from AFD:  ['blended tpw imagery. the plume of tropical gulf moisture will ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGSP&e=201206110006
+   Line of reference from AFD:  ['recent goes...and one modis...visible images indicated a ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGSP&e=201212221949
+         * In 2012,  KGSP had  4  AFDs with unique polar-orbiting satellite product references out of  3538  total AFDs.
+ 
+--- Site: KGYX ---
+
+         * In 2012,  KGYX had  0  AFDs with unique polar-orbiting satellite product references out of  2684  total AFDs.
+ 
+--- Site: KHGX ---
+
+   Line of reference from AFD:  ['values ranging from 1.8 to near 2 inches. blended tpw imagery for']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHGX&e=201207150216
+   Line of reference from AFD:  ['per blended tpw product. seems like fewer clouds on satellite this']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHGX&e=201209031456
+         * In 2012,  KHGX had  2  AFDs with unique polar-orbiting satellite product references out of  2849  total AFDs.
+ 
+--- Site: KHNX ---
+
+         * In 2012,  KHNX had  0  AFDs with unique polar-orbiting satellite product references out of  1603  total AFDs.
+ 
+--- Site: KHUN ---
+
+         * In 2012,  KHUN had  0  AFDs with unique polar-orbiting satellite product references out of  3021  total AFDs.
+ 
+--- Site: KICT ---
+
+         * In 2012,  KICT had  0  AFDs with unique polar-orbiting satellite product references out of  2439  total AFDs.
+ 
+--- Site: KILM ---
+
+   Line of reference from AFD:  ['blended total precipitable water products show the 2.0 inch pw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDILM&e=201208052330
+   Line of reference from AFD:  ['gulf states...and blended total precipitable water measurements from ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDILM&e=201209171912
+   Line of reference from AFD:  ['gulf states...and blended total precipitable water measurements']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDILM&e=201209180000
+         * In 2012,  KILM had  3  AFDs with unique polar-orbiting satellite product references out of  3804  total AFDs.
+ 
+--- Site: KILN ---
+
+         * In 2012,  KILN had  0  AFDs with unique polar-orbiting satellite product references out of  3052  total AFDs.
+ 
+--- Site: KILX ---
+
+         * In 2012,  KILX had  0  AFDs with unique polar-orbiting satellite product references out of  3005  total AFDs.
+ 
+--- Site: KIND ---
+
+   Line of reference from AFD:  ['satellite blended tpw imagery reveals a bullseye of over 2.5']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDIND&e=201208300819
+         * In 2012,  KIND had  1  AFDs with unique polar-orbiting satellite product references out of  4912  total AFDs.
+ 
+--- Site: KIWX ---
+
+         * In 2012,  KIWX had  0  AFDs with unique polar-orbiting satellite product references out of  2252  total AFDs.
+ 
+--- Site: KJAN ---
+
+   Line of reference from AFD:  ['around 1 inch over our wrn half on the blended tpw images with 1.2 to']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAN&e=201201161636
+   Line of reference from AFD:  ['blended tpw images show 1 inch pwat values over wrn half of the cwfa']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAN&e=201201162207
+   Line of reference from AFD:  ['east as per blended tpw imagery with less than 1 inch in the east and']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAN&e=201203151622
+   Line of reference from AFD:  ['the pine belt region per latest blended total precipitable water ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAN&e=201205020925
+   Line of reference from AFD:  ['blended total precipitable water product showed a slug of 2in pws ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAN&e=201206171942
+   Line of reference from AFD:  ['pw value of around 2 inches per 12z kjan sounding and blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAN&e=201207272032
+   Line of reference from AFD:  ['local area. blended total precipitable water satellite imagery shows ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAN&e=201208080837
+   Line of reference from AFD:  ['inches centered along the ms river per latest blended tpw imagery. no']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAN&e=201210201452
+   Line of reference from AFD:  ['centered along the ms river in latest blended tpw imagery rises only']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAN&e=201210201931
+         * In 2012,  KJAN had  9  AFDs with unique polar-orbiting satellite product references out of  1682  total AFDs.
+ 
+--- Site: KJAX ---
+
+   Line of reference from AFD:  ['sparse over se ga. blended total precipitable water (pwat) product']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAX&e=201207071809
+         * In 2012,  KJAX had  1  AFDs with unique polar-orbiting satellite product references out of  1686  total AFDs.
+ 
+--- Site: KJKL ---
+
+         * In 2012,  KJKL had  0  AFDs with unique polar-orbiting satellite product references out of  3564  total AFDs.
+ 
+--- Site: KKEY ---
+
+   Line of reference from AFD:  ['overnight. the derived blended tpw imagery shows this fairly']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=201203121341
+   Line of reference from AFD:  ['reports from the cman stations as well as a scatterometer pass from']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=201205050825
+   Line of reference from AFD:  ['a very recent scatterometer satellite pass shows 20 to 25 knots out']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=201206190732
+   Line of reference from AFD:  ['recent oceansat-2 scatterometer pass shows 10 knots of less across']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=201211020705
+   Line of reference from AFD:  ['zones...patchy fog. a noaa-18 sst analysis depicts believable water']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=201212121007
+         * In 2012,  KKEY had  5  AFDs with unique polar-orbiting satellite product references out of  1493  total AFDs.
+ 
+--- Site: KLBF ---
+
+         * In 2012,  KLBF had  0  AFDs with unique polar-orbiting satellite product references out of  2486  total AFDs.
+ 
+--- Site: KLCH ---
+
+   Line of reference from AFD:  ['southeast texas. total blended tpw product generally shows no']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLCH&e=201208010906
+         * In 2012,  KLCH had  1  AFDs with unique polar-orbiting satellite product references out of  2893  total AFDs.
+ 
+--- Site: KLIX ---
+
+         * In 2012,  KLIX had  0  AFDs with unique polar-orbiting satellite product references out of  2077  total AFDs.
+ 
+--- Site: KLKN ---
+
+         * In 2012,  KLKN had  0  AFDs with unique polar-orbiting satellite product references out of  1072  total AFDs.
+ 
+--- Site: KLMK ---
+
+         * In 2012,  KLMK had  0  AFDs with unique polar-orbiting satellite product references out of  3132  total AFDs.
+ 
+--- Site: KLOT ---
+
+   Line of reference from AFD:  ['also of note...on the modis and goes visible images today and this']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLOT&e=201207050227
+         * In 2012,  KLOT had  1  AFDs with unique polar-orbiting satellite product references out of  5649  total AFDs.
+ 
+--- Site: KLOX ---
+
+   Line of reference from AFD:  ['the blended tpw product shows up to 1.35 inches of water in this ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLOX&e=201201151745
+   Line of reference from AFD:  ['ascat scatterometer indicated surface winds 35030kt and few 35kt ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLOX&e=201211082231
+         * In 2012,  KLOX had  2  AFDs with unique polar-orbiting satellite product references out of  2895  total AFDs.
+ 
+--- Site: KLSX ---
+
+         * In 2012,  KLSX had  0  AFDs with unique polar-orbiting satellite product references out of  2873  total AFDs.
+ 
+--- Site: KLUB ---
+
+         * In 2012,  KLUB had  0  AFDs with unique polar-orbiting satellite product references out of  2386  total AFDs.
+ 
+--- Site: KLWX ---
+
+         * In 2012,  KLWX had  0  AFDs with unique polar-orbiting satellite product references out of  2017  total AFDs.
+ 
+--- Site: KLZK ---
+
+         * In 2012,  KLZK had  0  AFDs with unique polar-orbiting satellite product references out of  2542  total AFDs.
+ 
+--- Site: KMAF ---
+
+         * In 2012,  KMAF had  0  AFDs with unique polar-orbiting satellite product references out of  2454  total AFDs.
+ 
+--- Site: KMEG ---
+
+         * In 2012,  KMEG had  0  AFDs with unique polar-orbiting satellite product references out of  3013  total AFDs.
+ 
+--- Site: KMFL ---
+
+   Line of reference from AFD:  ['cuba...with recent satellite scatterometer winds indicating a weak']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFL&e=201202050915
+   Line of reference from AFD:  ['blended tpw product shows drier air to the northeast...moving']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFL&e=201203160703
+         * In 2012,  KMFL had  2  AFDs with unique polar-orbiting satellite product references out of  2926  total AFDs.
+ 
+--- Site: KMFR ---
+
+   Line of reference from AFD:  ['streaming westward per cira blended tpw imagery. after the coquille ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=201203191044
+   Line of reference from AFD:  ['low...and respectable moisture per blended tpw readings...is']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=201204072123
+   Line of reference from AFD:  ['the cutoff low...and respectable moisture per blended tpw']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=201204080350
+   Line of reference from AFD:  ['system near 40n 140w.  blended tpw imagery shows values of 1.7in to ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=201206022128
+         * In 2012,  KMFR had  4  AFDs with unique polar-orbiting satellite product references out of  1543  total AFDs.
+ 
+--- Site: KMHX ---
+
+   Line of reference from AFD:  ['coast and coastal waters. an ascat scatterometer winds pass at']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201203070609
+   Line of reference from AFD:  ['as of 120 am fri...latest surface/buoy/scatterometer data indicate']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201205040527
+   Line of reference from AFD:  ['scatterometer winds indicated 15 to 20 knot north to north-']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201206140622
+   Line of reference from AFD:  ['nne winds 10-15 knots with an ascat satellite scatterometer winds']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201209210549
+   Line of reference from AFD:  ['and 1-3 ft south. an 02z ascat scatterometer winds pass also']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201209220628
+   Line of reference from AFD:  ['as of 1am thurs...an 0200z ascat scatterometer winds pass revealed']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201212130604
+   Line of reference from AFD:  ['as of 340 am thurs...an 0200z ascat scatterometer winds pass']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201212130840
+         * In 2012,  KMHX had  7  AFDs with unique polar-orbiting satellite product references out of  3268  total AFDs.
+ 
+--- Site: KMKX ---
+
+   Line of reference from AFD:  ['towards the open waters. modis imagery shows lake surface temp']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201201092358
+   Line of reference from AFD:  ['warm front. recent modis imagery shows the lake sfc temperature']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201201300335
+   Line of reference from AFD:  ['rates. new modis imagery shows lake mi sea sfc temp around 3.5c.  ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201202082124
+   Line of reference from AFD:  ['waters through early this morning.  latest modis imagery shows ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201202180907
+   Line of reference from AFD:  ['this evening...and continuing thru tonight.  modis imagery shows ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201202200941
+   Line of reference from AFD:  ['considerably cooler.  latest modis images show lake mi lake sfc ', 'temps were between 37 and 40 degrees fahrenheit per modis imagery ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201203142041
+   Line of reference from AFD:  ['shore on sat. modis imagery from 18z friday shows lake sfc temps']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201204070235
+   Line of reference from AFD:  ['next 24 hours.  modis imagery from 17z/09 measured lake surface ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201204100831
+   Line of reference from AFD:  ['michigan...winds remain southeast.  latest modis imagery from around ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201204130830
+   Line of reference from AFD:  ['.marine...latest modis sea surface temperature imagery from monday ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201205150846
+   Line of reference from AFD:  ['marine...latest modis sea surface temperature imagery from monday ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201205151747
+   Line of reference from AFD:  ['rates.  latest modis imagery from 03z/07 had mid-lake temps in the ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201207070825
+   Line of reference from AFD:  ['60s in the modis sst pass from 0709z/sun. would think areas of']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201208270237
+   Line of reference from AFD:  ['seen from modis 8-day sst...didn\\t go that high in the far east. ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201208291634
+   Line of reference from AFD:  ['nearshore waters.  latest modis imagery shows water temps have ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201208310839
+   Line of reference from AFD:  ['saturday.  latest modis imagery shows lake surface temperature in ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201209070830
+   Line of reference from AFD:  ['lake surface. modis imagery shows the lake temp in the near shore']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201209110356
+   Line of reference from AFD:  ['with parched air mass above 700.  modis sea surface temp image from ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201209232008
+   Line of reference from AFD:  ['sunday. latest modis images has uniform lake sfc temps around 16c']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201209300306
+   Line of reference from AFD:  ['thursday. latest modis imagery and buoy sea surface temperature']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201210220830
+   Line of reference from AFD:  ['for a time.  modis measurement from 16z shows average sea surface ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201210262017
+   Line of reference from AFD:  ['the lake with the cold front fri morning. 19z modis sea surface ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201211152053
+   Line of reference from AFD:  ['clouds over srn wi for a time this mrng. timely viirs day/night band ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201211260909
+         * In 2012,  KMKX had  23  AFDs with unique polar-orbiting satellite product references out of  1634  total AFDs.
+ 
+--- Site: KMLB ---
+
+   Line of reference from AFD:  ['on some timely 0358 and 0633 utc high-res modis images furnished by ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMLB&e=201211040749
+         * In 2012,  KMLB had  1  AFDs with unique polar-orbiting satellite product references out of  1549  total AFDs.
+ 
+--- Site: KMOB ---
+
+         * In 2012,  KMOB had  0  AFDs with unique polar-orbiting satellite product references out of  1959  total AFDs.
+ 
+--- Site: KMPX ---
+
+         * In 2012,  KMPX had  0  AFDs with unique polar-orbiting satellite product references out of  2286  total AFDs.
+ 
+--- Site: KMQT ---
+
+   Line of reference from AFD:  ['melt the remaining snow across upper michigan. modis satellite']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMQT&e=201203161012
+   Line of reference from AFD:  ['a little snow cover left at kcmx per latest modis imagery...expect ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMQT&e=201203202340
+         * In 2012,  KMQT had  2  AFDs with unique polar-orbiting satellite product references out of  2385  total AFDs.
+ 
+--- Site: KMRX ---
+
+         * In 2012,  KMRX had  0  AFDs with unique polar-orbiting satellite product references out of  2979  total AFDs.
+ 
+--- Site: KMSO ---
+
+         * In 2012,  KMSO had  0  AFDs with unique polar-orbiting satellite product references out of  1062  total AFDs.
+ 
+--- Site: KMTR ---
+
+   Line of reference from AFD:  ['advisory at this time. ascat scatterometer winds are indc']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMTR&e=201203271112
+   Line of reference from AFD:  ['low light visible satellite image is showing mostly clear skies']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMTR&e=201204061607
+   Line of reference from AFD:  ['blended tpw imagery is showing less than one inch of tpw. the cold']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMTR&e=201212112206
+         * In 2012,  KMTR had  3  AFDs with unique polar-orbiting satellite product references out of  3061  total AFDs.
+ 
+--- Site: KOAX ---
+
+         * In 2012,  KOAX had  0  AFDs with unique polar-orbiting satellite product references out of  2274  total AFDs.
+ 
+--- Site: KOHX ---
+
+         * In 2012,  KOHX had  0  AFDs with unique polar-orbiting satellite product references out of  3021  total AFDs.
+ 
+--- Site: KOKX ---
+
+         * In 2012,  KOKX had  0  AFDs with unique polar-orbiting satellite product references out of  4851  total AFDs.
+ 
+--- Site: KOTX ---
+
+         * In 2012,  KOTX had  0  AFDs with unique polar-orbiting satellite product references out of  2697  total AFDs.
+ 
+--- Site: KOUN ---
+
+         * In 2012,  KOUN had  0  AFDs with unique polar-orbiting satellite product references out of  2697  total AFDs.
+ 
+--- Site: KPAH ---
+
+         * In 2012,  KPAH had  0  AFDs with unique polar-orbiting satellite product references out of  2155  total AFDs.
+ 
+--- Site: KPBZ ---
+
+   Line of reference from AFD:  ['1km modis pic at 1522z reveals the shallowest cu over nrn wv']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPBZ&e=201203311727
+         * In 2012,  KPBZ had  1  AFDs with unique polar-orbiting satellite product references out of  3446  total AFDs.
+ 
+--- Site: KPDT ---
+
+         * In 2012,  KPDT had  0  AFDs with unique polar-orbiting satellite product references out of  2690  total AFDs.
+ 
+--- Site: KPHI ---
+
+         * In 2012,  KPHI had  0  AFDs with unique polar-orbiting satellite product references out of  3070  total AFDs.
+ 
+--- Site: KPIH ---
+
+         * In 2012,  KPIH had  0  AFDs with unique polar-orbiting satellite product references out of  1028  total AFDs.
+ 
+--- Site: KPQR ---
+
+   Line of reference from AFD:  ['precipitable water per gfs just under 1 inch. blended tpw observation']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPQR&e=201205270944
+         * In 2012,  KPQR had  1  AFDs with unique polar-orbiting satellite product references out of  1638  total AFDs.
+ 
+--- Site: KPSR ---
+
+   Line of reference from AFD:  ['san diego this afternoon. blended tpw imagery shows a corridor of ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201202072157
+   Line of reference from AFD:  ['height falls. latest satellite pics and blended tpw show the deepest ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201204110345
+   Line of reference from AFD:  ['west of northern baja mexico and moving northeastward. blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201204231138
+   Line of reference from AFD:  ['latest blended tpw shows a plume of deeper subtropical moisture ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201204242238
+   Line of reference from AFD:  ['blended tpw product and sfc dew point values/trends. precipitable ', 'concentrated in the 850-500 mb layer. blended tpw product indicates ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201206261659
+   Line of reference from AFD:  ['satellite blended tpw images showing estimates under the 1.75 inches ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201207051027
+   Line of reference from AFD:  ['and moistened within the past 24 hours. cira blended tpw analyzed ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201207111659
+   Line of reference from AFD:  ['cooled and moistened within the past 24 hours. cira blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201207111906
+   Line of reference from AFD:  ['quite moist with latest blended tpw estimating between 1.75 and 2.0 ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201207141109
+   Line of reference from AFD:  ['eastward through az. latest blended tpw estimates are near 1.6 ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201207161056
+   Line of reference from AFD:  ['higher terrain north and east of phoenix per blended tpw product. ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201207161703
+   Line of reference from AFD:  ['including the central deserts. blended tpw imagery shows decreasing ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201207251149
+   Line of reference from AFD:  ['moisture availability isn\\t a concern in the least /blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201208160930
+   Line of reference from AFD:  ['blended tpw product indicating nearly 1.8 inches of pw /nearly 200 ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201209080924
+   Line of reference from AFD:  ['mexico. moisture has been trending down per blended tpw imagery and ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201209301038
+   Line of reference from AFD:  ['evident in the blended tpw imagery showing an axis of elevated pw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201210110905
+   Line of reference from AFD:  ['yuma proving ground as well as blended tpw imagery indicate pw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201210182042
+   Line of reference from AFD:  ['remains over mexico. blended tpw imagery shows a modest increase in ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201210201112
+   Line of reference from AFD:  ['this afternoon...yet blended tpw imagery and gps ipw only indicate ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201210211605
+   Line of reference from AFD:  ['pwats around 0.7 inches per blended tpw and gps ipw datasets...but ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201210221652
+   Line of reference from AFD:  ['southeastern third of arizona and across much of mexico. blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201211210512
+   Line of reference from AFD:  ['dew points down 15-25 f while blended total precipitable water is ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201212260450
+   Line of reference from AFD:  ['blended tpw imagery indicates pwats around 0.35 inches across the ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201212301644
+   Line of reference from AFD:  ['increase in precipitable water noted in the blended tpw and gps ipw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201212302125
+         * In 2012,  KPSR had  24  AFDs with unique polar-orbiting satellite product references out of  2250  total AFDs.
+ 
+--- Site: KPUB ---
+
+         * In 2012,  KPUB had  0  AFDs with unique polar-orbiting satellite product references out of  1746  total AFDs.
+ 
+--- Site: KRAH ---
+
+   Line of reference from AFD:  ['precipitable water... currently observed on blended tpw imagery over ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201202031448
+   Line of reference from AFD:  ['blended total precipitable water imagery depicts an almost doubling ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201202041516
+   Line of reference from AFD:  ['rapidly with blended total precipitable water imagery depicting ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201202042022
+   Line of reference from AFD:  ['blended tpw imagery. models depict a resumption of moist isentropic ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201202051958
+   Line of reference from AFD:  ['blended total precipitable water imagery. models depict a']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201202060336
+   Line of reference from AFD:  ['moisture (blended tpw imagery showing values around 200% of normal) ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201202242021
+   Line of reference from AFD:  ['over the nw gulf and tx coast (as seen on blended tpw imagery) gets ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201203100802
+   Line of reference from AFD:  ['blended total precipitable water imagery reveal a drying trend over ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201203230149
+   Line of reference from AFD:  ['polar orbiting satellites show a healthier northern half of the ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201205191832
+   Line of reference from AFD:  ['nearly 200% of normal according to morning soundings and blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201205291409
+   Line of reference from AFD:  ['proximity soundings as well as blended tpw imagery show quite a bit ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201205311459
+   Line of reference from AFD:  ['inches per blended tpw data -- will continue to slowly expand north ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201206100722
+   Line of reference from AFD:  ['moisture persists over the area with 00z soundings and blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201206120713
+   Line of reference from AFD:  ['12z/28 kgso raob and blended tpw products.  despite limited ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201206181411
+   Line of reference from AFD:  ['the 12z/28 kgso raob and blended tpw products.  despite limited ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201206181413
+   Line of reference from AFD:  ['air mass over central nc with blended tpw imagery showing values of ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201208140154
+   Line of reference from AFD:  ['states...although the blended tpw product suggests the axis of ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201208210717
+   Line of reference from AFD:  ['the blended tpw product indicates the 2 inch pw air now reaches as ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201208281922
+   Line of reference from AFD:  ['according to blended tpw imagery. minor adjustments to temps will ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201210021446
+   Line of reference from AFD:  ['morning... and blended tpw imagery shows values over 200 percent of ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201212170806
+         * In 2012,  KRAH had  20  AFDs with unique polar-orbiting satellite product references out of  3903  total AFDs.
+ 
+--- Site: KREV ---
+
+   Line of reference from AFD:  ['thunderstorm event. blended tpw is now showing pwats over the sierra ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDREV&e=201207231028
+         * In 2012,  KREV had  1  AFDs with unique polar-orbiting satellite product references out of  1150  total AFDs.
+ 
+--- Site: KRIW ---
+
+         * In 2012,  KRIW had  0  AFDs with unique polar-orbiting satellite product references out of  1642  total AFDs.
+ 
+--- Site: KRLX ---
+
+         * In 2012,  KRLX had  0  AFDs with unique polar-orbiting satellite product references out of  3216  total AFDs.
+ 
+--- Site: KRNK ---
+
+   Line of reference from AFD:  ['plume of higher pwats...per blended tpw depiction...slides across']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRNK&e=201203130103
+   Line of reference from AFD:  ['the blended tpw indicating a nice plume of deeper rh just south.']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRNK&e=201205140112
+   Line of reference from AFD:  ['this evening with the blended tpw indicating a nice plume of deeper ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRNK&e=201205140624
+   Line of reference from AFD:  ['latest blended tpw product. this combo with sfc high pressure']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRNK&e=201206161409
+         * In 2012,  KRNK had  4  AFDs with unique polar-orbiting satellite product references out of  3395  total AFDs.
+ 
+--- Site: KSEW ---
+
+   Line of reference from AFD:  ['rates from polar orbiting microwave sensors are about 0.15-0.30 ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSEW&e=201203150952
+   Line of reference from AFD:  ['to near the dateline. the blended total precipitable water imagery ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSEW&e=201204290337
+   Line of reference from AFD:  ['strong cold front. per noaa polar satellite data...precipitable ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSEW&e=201205201615
+   Line of reference from AFD:  ['inland late monday afternoon. per noaa polar satellite ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSEW&e=201205202208
+   Line of reference from AFD:  ['evening. the ascat scatterometer wind field showed solid 15-20 kt ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSEW&e=201208252253
+   Line of reference from AFD:  ['tap as shown in the cira blended total precipitable water imagery ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSEW&e=201212031104
+         * In 2012,  KSEW had  6  AFDs with unique polar-orbiting satellite product references out of  1676  total AFDs.
+ 
+--- Site: KSGF ---
+
+         * In 2012,  KSGF had  0  AFDs with unique polar-orbiting satellite product references out of  2484  total AFDs.
+ 
+--- Site: KSGX ---
+
+   Line of reference from AFD:  ['blended tpw imagery at 14z shows an area of nearly 1.2 inches moving ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSGX&e=201201151722
+   Line of reference from AFD:  ['blended tpw imagery at 18z shows an area of 1-1.2 inches moving ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSGX&e=201201152113
+   Line of reference from AFD:  ['.75-.80 inch pws were indicated on blended tpw imagery ahead of the ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSGX&e=201203242029
+   Line of reference from AFD:  ['elsewhere. modis tpw image showed the 1-inch precip water values ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSGX&e=201207051026
+   Line of reference from AFD:  ['front...blended tpw has risen to around one inch. the front/wind ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSGX&e=201211081728
+   Line of reference from AFD:  ['it. blended tpw satellite imagery showed a moisture plume of 1-1.25 ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSGX&e=201211161655
+   Line of reference from AFD:  ['0.97&quot;...which is in line with the blended total precipitable water ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSGX&e=201211290524
+         * In 2012,  KSGX had  7  AFDs with unique polar-orbiting satellite product references out of  1621  total AFDs.
+ 
+--- Site: KSHV ---
+
+         * In 2012,  KSHV had  0  AFDs with unique polar-orbiting satellite product references out of  1616  total AFDs.
+ 
+--- Site: KSJT ---
+
+         * In 2012,  KSJT had  0  AFDs with unique polar-orbiting satellite product references out of  2498  total AFDs.
+ 
+--- Site: KSLC ---
+
+   Line of reference from AFD:  ['this is collaborated well by the blended total precipitable water']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=201207121540
+   Line of reference from AFD:  ['the blended total precipitable water satellite product indicates']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=201207122148
+   Line of reference from AFD:  ['blended tpw imagery indicates that pws in excess of 1 inch remain']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=201207151548
+   Line of reference from AFD:  ['blended tpw imagery indicates pw values remain between 0.80 and 1']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=201207161559
+   Line of reference from AFD:  ['across much of the cwa. blended tpw imagery indicates pw values']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=201207162111
+   Line of reference from AFD:  ['blended tpw values remain near or above 1 inch across southern and']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=201208061524
+   Line of reference from AFD:  ['locations across northern utah. blended tpw imagery indicates that']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=201208072127
+   Line of reference from AFD:  ['over the next several days. blended tpw imagery from this morning']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=201208081615
+   Line of reference from AFD:  ['region over the next several days. blended tpw imagery from this']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=201208082211
+   Line of reference from AFD:  ['colorado. blended tpw imagery indicates values have decreased']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=201208241530
+   Line of reference from AFD:  ['blended tpw imagery indicates pw values remain near 1 inch across']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=201208281540
+         * In 2012,  KSLC had  11  AFDs with unique polar-orbiting satellite product references out of  1554  total AFDs.
+ 
+--- Site: KSTO ---
+
+   Line of reference from AFD:  ['blended tpw showing a 1-1.6 pw plume extending from near hawaii into ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201201180521
+   Line of reference from AFD:  ['blended tpw showing a 1.0-1.8 inch moisture plume extending from the ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201201190515
+   Line of reference from AFD:  ['approaching the west coast. blended tpw indicating pws range from ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201201311655
+   Line of reference from AFD:  ['system...spreads inland. blended tpw indicating pws range from ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201201312306
+   Line of reference from AFD:  ['impressive cloud top cooling along baroclinic zone. blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201202061245
+   Line of reference from AFD:  ['sooner than currently advertised. blended tpw showing a decrease in ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201203131555
+   Line of reference from AFD:  ['this morning with blended tpw showing around 1.1 to 1.2 inch pws ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201203141555
+   Line of reference from AFD:  ['monday night...then down to near i-80 by 00z wed. blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201203260441
+   Line of reference from AFD:  ['blended tpw showing a narrow pw plume of up to an inch along the']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201203261138
+   Line of reference from AFD:  ['extends from the west coast to the hawaiian islands. blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201203301140
+   Line of reference from AFD:  ['inland. blended tpw showing pws around .9 to 1 inch along the ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201203311201
+   Line of reference from AFD:  ['blended tpw along the baroclinic zone. models suggest some light qpf ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201204161710
+   Line of reference from AFD:  ['in baroclinicity...however blended tpw has decreased below 1 inch']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201204162212
+   Line of reference from AFD:  ['drops down back side of building ridge. blended tpw image does show ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201204191647
+   Line of reference from AFD:  ['afternoon. blended tpw showing pws from 1.1 to 1.4 along the front. ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201206221105
+   Line of reference from AFD:  ['interior norcal over the weekend. blended tpw showing moisture plume ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201206290410
+   Line of reference from AFD:  ['but blended tpw showing pws along baroclinic zone ranging from 1.25 ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201206300410
+   Line of reference from AFD:  ['blended tpw product is showing roughly 0.60 to 0.75 in of']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201208041612
+   Line of reference from AFD:  ['thunderstorm development. blended tpw showing 1+ pws advecting ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201209060345
+   Line of reference from AFD:  ['tropical storm john into the region. satellite derived blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201209061047
+   Line of reference from AFD:  ['as low drops south tuesday night band of showers will develop over the']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201210082207
+   Line of reference from AFD:  ['blended total precipitable water is running at half an inch or']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201211081730
+   Line of reference from AFD:  ['of blended tpw imagery and model forecast tpw shows models have ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201211171256
+   Line of reference from AFD:  ['blended tpw imagery and model forecast tpw shows models have fairly ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201211171645
+   Line of reference from AFD:  ['blended tpw loop and satellite indicate is narrowing and eroding']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201211201812
+   Line of reference from AFD:  ['remains aimed an northern california with satellite blended tpw']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201212011301
+         * In 2012,  KSTO had  26  AFDs with unique polar-orbiting satellite product references out of  1527  total AFDs.
+ 
+--- Site: KTAE ---
+
+   Line of reference from AFD:  ['shoreline. modis 1km 11-3.9u satellite image from 0703z showed']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTAE&e=201201081011
+   Line of reference from AFD:  ['marine zones were reporting 17-19kt winds, so the scatterometer']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTAE&e=201201162015
+   Line of reference from AFD:  ['mid-upper level air - evident on water vapor and in blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTAE&e=201207141455
+   Line of reference from AFD:  ['up well on both water vapor loops and blended tpw products from']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTAE&e=201207201900
+   Line of reference from AFD:  ['blended tpw product, and lis per the goes sounder. an early start']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTAE&e=201207270735
+   Line of reference from AFD:  ['where the clouds may dissipate prior to sunrise. the blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTAE&e=201208230925
+   Line of reference from AFD:  ['additional confirmation from the ascat scatterometer) of 20kt']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTAE&e=201209060132
+   Line of reference from AFD:  ['around 70-80% of normal (per blended tpw) should keep any']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTAE&e=201209111441
+   Line of reference from AFD:  ['minimum in pwats per the satellite blended tpw product. this']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTAE&e=201209280824
+         * In 2012,  KTAE had  9  AFDs with unique polar-orbiting satellite product references out of  1847  total AFDs.
+ 
+--- Site: KTBW ---
+
+         * In 2012,  KTBW had  0  AFDs with unique polar-orbiting satellite product references out of  1552  total AFDs.
+ 
+--- Site: KTFX ---
+
+         * In 2012,  KTFX had  0  AFDs with unique polar-orbiting satellite product references out of  3123  total AFDs.
+ 
+--- Site: KTOP ---
+
+         * In 2012,  KTOP had  0  AFDs with unique polar-orbiting satellite product references out of  2218  total AFDs.
+ 
+--- Site: KTSA ---
+
+         * In 2012,  KTSA had  0  AFDs with unique polar-orbiting satellite product references out of  2944  total AFDs.
+ 
+--- Site: KTWC ---
+
+   Line of reference from AFD:  ['blended total precipitable water imagery with values up to 1.50&quot;. ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201202062120
+   Line of reference from AFD:  ['.discussion...rather dry with both 00z ktwc sounding and blended tpw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201205290829
+   Line of reference from AFD:  ['blended tpw estimates showing precipitable water values under 1/5 of ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201205291639
+   Line of reference from AFD:  ['arizona this morning. in fact...the blended total precipitable water ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201206251639
+   Line of reference from AFD:  ['increase of a modest 0.08 in. blended total precipitable water ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201207021600
+   Line of reference from AFD:  ['blended total precipitable water imagery showed tucson with around ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201207290917
+   Line of reference from AFD:  ['the latest satellite derived blended total precipitable water ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201207300902
+   Line of reference from AFD:  ['satellite derived blended total precipitable water product shows a ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201207310900
+   Line of reference from AFD:  ['derived blended total precipitable water product shows values of ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201209030920
+   Line of reference from AFD:  ['the satellite derived blended total precipitable water product ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201209040841
+         * In 2012,  KTWC had  10  AFDs with unique polar-orbiting satellite product references out of  1533  total AFDs.
+ 
+--- Site: KUNR ---
+
+         * In 2012,  KUNR had  0  AFDs with unique polar-orbiting satellite product references out of  2188  total AFDs.
+ 
+--- Site: KVEF ---
+
+   Line of reference from AFD:  ['area. blended tpw product over the eastern pacific shows moisture ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDVEF&e=201204101045
+   Line of reference from AFD:  ['blended tpw product over the eastern pacific shows moisture tap ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDVEF&e=201204101714
+   Line of reference from AFD:  ['and southern arizona. the latest nesdis blended tpw product ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDVEF&e=201207292103
+         * In 2012,  KVEF had  3  AFDs with unique polar-orbiting satellite product references out of  1653  total AFDs.
+ 
+--- Site: PAFC ---
+
+         * In 2012,  PAFC had  0  AFDs with unique polar-orbiting satellite product references out of  790  total AFDs.
+ 
+--- Site: PAFG ---
+
+   Line of reference from AFD:  ['this afternoons polar orbiting satellite imagery shows the clouds']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201201090125
+   Line of reference from AFD:  ['1225z poes shot continues to show areas of status along parts of']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201201171320
+   Line of reference from AFD:  ['this mornings polar orbiting weather satellite imagery shows clear']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201203051451
+   Line of reference from AFD:  ['this mornings polar orbiting satellite imagery shows an area of']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201203061430
+   Line of reference from AFD:  ['this mornings polar orbiting satellite imagery show a well defined']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201203071501
+   Line of reference from AFD:  ['early afternoon polar orbiting satellite imagery shows lingering']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201203122325
+   Line of reference from AFD:  ['this mornings polar orbiting satellite imagery shows stratocumulus']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201203271252
+   Line of reference from AFD:  ['polar orbiting satellite imagery shows mostly clear skies over the']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201203281300
+   Line of reference from AFD:  ['this mornings polar orbiting satellite imagery shows layered']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201205121342
+   Line of reference from AFD:  ['polar orbiting satellite imagery indicates that the weather system']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201205180007
+   Line of reference from AFD:  ['this mornings polar orbiting satellite imagery shows cloud cover']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201206051330
+   Line of reference from AFD:  ['this mornings polar orbiting satellite imagery shows mostly']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201206281313
+   Line of reference from AFD:  ['on this mornings polar orbiting satellite imagery there is a mass']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201206291318
+   Line of reference from AFD:  ['this mornings polar orbiting satellite imagery shows a shrinking']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201206301339
+   Line of reference from AFD:  ['todays polar orbiting satellite imagery shows a large cluster of']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201207032307
+   Line of reference from AFD:  ['todays polar orbiting satellite imagery shows cloudy skies nearly']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201207050013
+   Line of reference from AFD:  ['polar orbiting satellite imagery over the past three days has']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201207201358
+   Line of reference from AFD:  ['the early morning polar orbiting satellite imagery shows the cold']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201207211357
+   Line of reference from AFD:  ['an 08z scatterometer pass already had 30 kt winds in marine area']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201208051227
+   Line of reference from AFD:  ['early morning polar orbiting satellite imagery shows scattered']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201208111309
+   Line of reference from AFD:  ['early morning polar orbiting satellite imagery shows a large deck']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201208121410
+   Line of reference from AFD:  ['this mornings polar orbiting satellite imagery shows that the']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201208131407
+   Line of reference from AFD:  ['lisburne...last night. this mornings polar orbiting satellite']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201208141430
+   Line of reference from AFD:  ['the morning polar orbiting satellite imagery shows an increasingly']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201209061353
+   Line of reference from AFD:  ['this mornings polar orbiting satellite imagery shows breaks in']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201209071358
+   Line of reference from AFD:  ['polar orbiting satellite imagery has shown the weather front']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201209162224
+   Line of reference from AFD:  ['polar orbiting satellite imagery shows a low pressure circulation']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201209180050
+   Line of reference from AFD:  ['polar orbiting satellite imagery today has shown slightly granular']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201209192358
+   Line of reference from AFD:  ['early morning polar orbiting satellite imagery shows strong']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201209281330
+   Line of reference from AFD:  ['early morning polar orbiting satellite imagery shows a generally']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201209291406
+   Line of reference from AFD:  ['polar orbiting satellite imagery has shown extensive convective']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201210151301
+   Line of reference from AFD:  ['early morning polar satellite imagery over the mainland of alaska']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201210171414
+   Line of reference from AFD:  ['todays early morning polar orbiting satellite imagery shows']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201210201357
+   Line of reference from AFD:  ['this mornings polar orbiting satellite imagery shows a vast area']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201210211252
+   Line of reference from AFD:  ['conclusively...clearing this morning. early morning polar orbiting']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201210221303
+   Line of reference from AFD:  ['early morning polar orbiting satellite imagery shows overcast low']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201210231400
+   Line of reference from AFD:  ['reported such weather. no new polar orbiting satellite imagery has']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201210241418
+   Line of reference from AFD:  ['todays polar orbiting satellite imagery shows blurred areas of']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201211012359
+   Line of reference from AFD:  ['the recent polar orbiting satellite imagery over the arctic']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201211040000
+   Line of reference from AFD:  ['todays polar orbiting satellite imagery showed that the cold front']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201211050058
+   Line of reference from AFD:  ['the canadian archipelago and you can see stratus on the poes sat']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201211292047
+   Line of reference from AFD:  ['polar orbiting satellite imagery over night has shown the overcast']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201212081515
+   Line of reference from AFD:  ['afternoons polar orbiting satellite imagery as a solid band of']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201212180145
+         * In 2012,  PAFG had  43  AFDs with unique polar-orbiting satellite product references out of  759  total AFDs.
+ 
+--- Site: PAJK ---
+
+   Line of reference from AFD:  ['by current total precip water scans from the poes satellite that']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAJK&e=201205282338
+   Line of reference from AFD:  ['scatterometer satellite wind data. have small craft advisories in', 'scatterometer winds. blended nam, gem, and sref for pop and qpf.']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAJK&e=201207191351
+   Line of reference from AFD:  [' scatterometer winds from the polar orbiting ascat satellite']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAJK&e=201207301344
+   Line of reference from AFD:  ['circulation centers visible on ir and viirs nighttime visible']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAJK&e=201211211453
+         * In 2012,  PAJK had  4  AFDs with unique polar-orbiting satellite product references out of  751  total AFDs.
+ 
+--- Site: PGUM ---
+
+         * In 2012,  PGUM had  0  AFDs with unique polar-orbiting satellite product references out of  0  total AFDs.
+ 
+--- Site: PHFO ---
+
+   Line of reference from AFD:  ['to 48 hours or so. the blended tpw shows near normal moisture over ', 'front to the north. behind the front...blended tpw is at 50% of ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201201010135
+   Line of reference from AFD:  ['the blended total precipitable water upstream of the islands would']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201201102000
+   Line of reference from AFD:  ['overnight than normal. blended tpw shows this below normal air ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201201111335
+   Line of reference from AFD:  ['big island windward waters. surface observations and a scatterometer ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201201221327
+   Line of reference from AFD:  ['today and tonight to match buoy winds and recent scatterometer']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201201311719
+   Line of reference from AFD:  ['scatterometer passes from earlier today showed winds veering a']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201203190643
+   Line of reference from AFD:  ['with the help of polar orbiting satellites...filling the gap of ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201203231346
+   Line of reference from AFD:  ['moisture associated with this next band is shallower. poes amsu/ssmi ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201203250219
+   Line of reference from AFD:  ['lihue to 1.0 inches at hilo. early afternoon poes amsu/ssmi total ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201204010211
+   Line of reference from AFD:  ['amsu/ssmi blended total precipitable water imagery shows a pw ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201205151940
+   Line of reference from AFD:  ['blended total precipitable water imagery shows a pw gradient ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201205160139
+   Line of reference from AFD:  ['little change through the short run...but satellite scatterometer ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201206291334
+   Line of reference from AFD:  ['observation and scatterometer pass data showed below 25 kt winds. ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201207120214
+   Line of reference from AFD:  ['observations and scatterometer pass data showed below 25 kt winds. ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201207120426
+   Line of reference from AFD:  ['and scatterometer pass. expecting winds to only drop off slightly']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201207140915
+   Line of reference from AFD:  ['blended tpw product but visible imagery still shows a few incoming ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201207232009
+   Line of reference from AFD:  ['the nesdis blended tpw shows a slightly drier than normal airmass ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201207240130
+   Line of reference from AFD:  ['this afternoon. the scatterometer pass overnight showed below 25 ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201208051412
+   Line of reference from AFD:  ['latest scatterometer data and pressure trends indicate winds have ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201208110132
+   Line of reference from AFD:  ['the windward and mauka areas. blended total precipitable water from ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201209140630
+   Line of reference from AFD:  ['blended total precipitable water continues to show below normal ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201209141327
+   Line of reference from AFD:  ['scatterometer pass from early this morning showed marginal sca']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201209271412
+   Line of reference from AFD:  ['the ascat scatterometer pass from early this morning showed']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201209271744
+   Line of reference from AFD:  ['ascat scatterometer pass showed winds below sca criteria...and']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201209280205
+   Line of reference from AFD:  ['blended total precipitable water /pw/ shows moisture below normal ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201211111937
+   Line of reference from AFD:  ['the blended total precipitable water /pw/ satellite data shows above ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201212191951
+   Line of reference from AFD:  ['hawaiian islands this afternoon. blended total precipitable water ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201212200129
+   Line of reference from AFD:  ['the polar satellite showing drier air upstream. the current forecast ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201212201953
+   Line of reference from AFD:  ['the older pw imagery from the polar satellite showing drier air ']
+      Online link to AFD with reference:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201212210142
+         * In 2012,  PHFO had  29  AFDs with unique polar-orbiting satellite product references out of  1846  total AFDs.
+ 
+--- Site: TJSJ ---
+
+         * In 2012,  TJSJ had  0  AFDs with unique polar-orbiting satellite product references out of  0  total AFDs.
+ 
+--- Site: NSTU ---
+
+         * In 2012,  NSTU had  0  AFDs with unique polar-orbiting satellite product references out of  0  total AFDs.
+ 

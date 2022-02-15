@@ -1,0 +1,772 @@
+--- Site: KABQ ---
+
+* In 2016 , KABQ had  0  references out of  2387  total AFDs.
+ 
+--- Site: KABR ---
+
+* In 2016 , KABR had  0  references out of  2867  total AFDs.
+ 
+--- Site: KAKQ ---
+
+Reference:  ['mhx at 1.84&quot; pwat and 1.97&quot; at wal. satellite blended tpw shows']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAKQ&e=201605300140
+Reference:  ['around 1.5 to 1.75 inches per blended total precipitable water. a']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAKQ&e=201606211544
+Reference:  ['just south of the va/nc border. blended tpw satellite data showing']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAKQ&e=201608070812
+Reference:  ['blended tpw satellite data showing pw values 150-160% of normal']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAKQ&e=201608071102
+Reference:  ['pw values (~1-1.25&quot; per early morning blended tpw sat imagery)']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAKQ&e=201608080812
+Reference:  ['region per early morning blended tpw sat product.']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAKQ&e=201609240803
+Reference:  ['and south of the va/nc border per blended tpw satellite product']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAKQ&e=201609260818
+Reference:  ['nc/se va to the delmarva and into ern pa/nj. blended tpw imagery']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAKQ&e=201609291430
+Reference:  ['blended tpw imagery shows pw values of 1.5-2.0&quot;, which is around 150-']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAKQ&e=201609291956
+Reference:  ['water vapor imagery and blended total precipitable waters, a dry']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAKQ&e=201611040754
+Reference:  ['based on latest blended total precipitable water product). add in']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAKQ&e=201612060850
+* In 2016 , KAKQ had  11  references out of  3631  total AFDs.
+ 
+--- Site: KALY ---
+
+* In 2016 , KALY had  0  references out of  4085  total AFDs.
+ 
+--- Site: KAMA ---
+
+* In 2016 , KAMA had  0  references out of  2359  total AFDs.
+ 
+--- Site: KAPX ---
+
+* In 2016 , KAPX had  0  references out of  2990  total AFDs.
+ 
+--- Site: KARX ---
+
+* In 2016 , KARX had  0  references out of  2365  total AFDs.
+ 
+--- Site: KBGM ---
+
+* In 2016 , KBGM had  0  references out of  3272  total AFDs.
+ 
+--- Site: KBIS ---
+
+* In 2016 , KBIS had  0  references out of  3097  total AFDs.
+ 
+--- Site: KBMX ---
+
+Reference:  ['indicated by the blended tpw satellite product. given the hot,']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBMX&e=201607221613
+* In 2016 , KBMX had  1  references out of  2585  total AFDs.
+ 
+--- Site: KBOI ---
+
+* In 2016 , KBOI had  0  references out of  1547  total AFDs.
+ 
+--- Site: KBOU ---
+
+* In 2016 , KBOU had  0  references out of  1613  total AFDs.
+ 
+--- Site: KBOX ---
+
+* In 2016 , KBOX had  0  references out of  3232  total AFDs.
+ 
+--- Site: KBRO ---
+
+* In 2016 , KBRO had  0  references out of  2303  total AFDs.
+ 
+--- Site: KBTV ---
+
+* In 2016 , KBTV had  0  references out of  3955  total AFDs.
+ 
+--- Site: KBUF ---
+
+* In 2016 , KBUF had  0  references out of  3531  total AFDs.
+ 
+--- Site: KBYZ ---
+
+* In 2016 , KBYZ had  0  references out of  1674  total AFDs.
+ 
+--- Site: KCAE ---
+
+Reference:  ['the southeastern states with a very dry airmass in place. nucaps']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCAE&e=201601140756
+Reference:  ['however...mid afternoon nucaps sounding showed a very dry airmass']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCAE&e=201601310151
+* In 2016 , KCAE had  2  references out of  3371  total AFDs.
+ 
+--- Site: KCAR ---
+
+Reference:  ['north with blended tpw product now indicating 2 inch values']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCAR&e=201608132354
+* In 2016 , KCAR had  1  references out of  3005  total AFDs.
+ 
+--- Site: KCHS ---
+
+Reference:  ['where the latest usable noaa-18 avhrr sst analysis from 13 january']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCHS&e=201601150904
+Reference:  ['per latest viirs nighttime visible satellite imagery.']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCHS&e=201608161042
+Reference:  ['inversion strengthens. a late afternoon modis image clearly ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCHS&e=201611172319
+* In 2016 , KCHS had  3  references out of  3318  total AFDs.
+ 
+--- Site: KCLE ---
+
+* In 2016 , KCLE had  0  references out of  3828  total AFDs.
+ 
+--- Site: KCRP ---
+
+Reference:  ['side of the wave. scatterometer pass today clipped the edge of the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=201609152032
+* In 2016 , KCRP had  1  references out of  2808  total AFDs.
+ 
+--- Site: KCTP ---
+
+Reference:  ['at this hour as per goes east and modis imagery. strong inversion']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201605311830
+Reference:  ['early am modis imagery showing patchy in the valleys of western']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201608071019
+Reference:  ['blended total precipitable water indicates an axis of 2&quot; extending']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201608101806
+Reference:  ['where gps satellite derived blended total precipitable water']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201608102145
+Reference:  ['viirs low cloud product showing extensive valley fog across the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201610140857
+Reference:  ['viirs satellite imagery showing patchy valley fog across north']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCTP&e=201611181100
+* In 2016 , KCTP had  6  references out of  4315  total AFDs.
+ 
+--- Site: KCYS ---
+
+* In 2016 , KCYS had  0  references out of  2412  total AFDs.
+ 
+--- Site: KDDC ---
+
+* In 2016 , KDDC had  0  references out of  2698  total AFDs.
+ 
+--- Site: KDLH ---
+
+* In 2016 , KDLH had  0  references out of  2607  total AFDs.
+ 
+--- Site: KDMX ---
+
+* In 2016 , KDMX had  0  references out of  2239  total AFDs.
+ 
+--- Site: KDTX ---
+
+* In 2016 , KDTX had  0  references out of  2500  total AFDs.
+ 
+--- Site: KDVN ---
+
+* In 2016 , KDVN had  0  references out of  2457  total AFDs.
+ 
+--- Site: KEAX ---
+
+* In 2016 , KEAX had  0  references out of  2228  total AFDs.
+ 
+--- Site: KEKA ---
+
+Reference:  ['craft advisory...ascat scatterometer and ship observation data']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201602212341
+Reference:  ['warning there but scatterometer passes do not indicate a true gale']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201608012230
+Reference:  ['friday. the scatterometer pass from yesterday evening confirmed']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201608032151
+Reference:  ['.marine...scatterometer pass from yesterday evening and today']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201608152303
+Reference:  ['marine...scatterometer pass from yesterday evening and today']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201608160307
+Reference:  ['.marine...scatterometer pass from yesterday evening and today']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201608162124
+Reference:  ['northerlies through mid week. scatterometer pass from sunday evening']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201608221101
+Reference:  ['northerlies through mid week. scatterometer pass from monday evening']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201608231151
+Reference:  ['northerlies over the waters today and tonight. scatterometer pass']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201608241159
+Reference:  ['buoy observations and the scatterometer derived winds. will keep']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=201609072246
+* In 2016 , KEKA had  10  references out of  906  total AFDs.
+ 
+--- Site: KEPZ ---
+
+* In 2016 , KEPZ had  0  references out of  753  total AFDs.
+ 
+--- Site: KEWX ---
+
+Reference:  ['blended tpw product shows some deeper moisture moving in from the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEWX&e=201606201612
+* In 2016 , KEWX had  1  references out of  2651  total AFDs.
+ 
+--- Site: KFFC ---
+
+* In 2016 , KFFC had  0  references out of  2664  total AFDs.
+ 
+--- Site: KFGF ---
+
+* In 2016 , KFGF had  0  references out of  2911  total AFDs.
+ 
+--- Site: KFGZ ---
+
+* In 2016 , KFGZ had  0  references out of  1548  total AFDs.
+ 
+--- Site: KFSD ---
+
+* In 2016 , KFSD had  0  references out of  2210  total AFDs.
+ 
+--- Site: KFWD ---
+
+Reference:  ['convection. water vapor and blended total precipitable water']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDFWD&e=201608190851
+Reference:  ['possible across the metoplex taf sites through sunset, but much']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDFWD&e=201611032345
+* In 2016 , KFWD had  2  references out of  2662  total AFDs.
+ 
+--- Site: KGGW ---
+
+* In 2016 , KGGW had  0  references out of  1530  total AFDs.
+ 
+--- Site: KGID ---
+
+* In 2016 , KGID had  0  references out of  2430  total AFDs.
+ 
+--- Site: KGJT ---
+
+* In 2016 , KGJT had  0  references out of  2071  total AFDs.
+ 
+--- Site: KGLD ---
+
+* In 2016 , KGLD had  0  references out of  3081  total AFDs.
+ 
+--- Site: KGRB ---
+
+* In 2016 , KGRB had  0  references out of  2209  total AFDs.
+ 
+--- Site: KGRR ---
+
+* In 2016 , KGRR had  0  references out of  2885  total AFDs.
+ 
+--- Site: KGSP ---
+
+* In 2016 , KGSP had  0  references out of  3330  total AFDs.
+ 
+--- Site: KGYX ---
+
+Reference:  ['with blended total precipitable water imagery showing a building']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGYX&e=201606041929
+Reference:  ['deeper moisture /see blended tpw pwats of 2+ inches over']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGYX&e=201608100801
+Reference:  ['along the us east coast.  blended tpw imagery corroborates 00z raobs']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGYX&e=201608110802
+Reference:  ['blended tpw imagery/ behind it over southern quebec.  over the past']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGYX&e=201609010725
+* In 2016 , KGYX had  4  references out of  2818  total AFDs.
+ 
+--- Site: KHGX ---
+
+Reference:  ['low light visible satellite this morning at sunrise showed the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHGX&e=201607091522
+* In 2016 , KHGX had  1  references out of  2915  total AFDs.
+ 
+--- Site: KHNX ---
+
+Reference:  ['a moist wsw flow aloft over central ca. blended tpw plume around']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHNX&e=201601311301
+Reference:  ['a gulf of alaska low and an upper ridge to its south. blended tpw']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHNX&e=201612091248
+Reference:  ['move south. blended tpw shows the finger of 1.5&quot; moisture just off']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHNX&e=201612111218
+* In 2016 , KHNX had  3  references out of  974  total AFDs.
+ 
+--- Site: KHUN ---
+
+Reference:  ['the snowpack can even be seen in viirs day-night band imagery provided']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHUN&e=201601241046
+Reference:  ['imagery (goes and modis) are showing river valley fog in parts of']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHUN&e=201607170652
+Reference:  ['multi- spectral sat imagery and cira blended tpw show this region of']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHUN&e=201608151533
+Reference:  ['in keeping winds out of the ne/e. modis satellite imagery this']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHUN&e=201611122056
+* In 2016 , KHUN had  4  references out of  3014  total AFDs.
+ 
+--- Site: KICT ---
+
+* In 2016 , KICT had  0  references out of  2368  total AFDs.
+ 
+--- Site: KILM ---
+
+* In 2016 , KILM had  0  references out of  3971  total AFDs.
+ 
+--- Site: KILN ---
+
+Reference:  ['low light visible am seeing some development already as dewpoint']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDILN&e=201607290551
+Reference:  ['current low light visible is not showing much at all and gfs']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDILN&e=201611110516
+* In 2016 , KILN had  2  references out of  3031  total AFDs.
+ 
+--- Site: KILX ---
+
+* In 2016 , KILX had  0  references out of  2971  total AFDs.
+ 
+--- Site: KIND ---
+
+* In 2016 , KIND had  0  references out of  4818  total AFDs.
+ 
+--- Site: KIWX ---
+
+* In 2016 , KIWX had  0  references out of  2423  total AFDs.
+ 
+--- Site: KJAN ---
+
+Reference:  ['the blended total precipitable water product showed 1.9-2.0 inch']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAN&e=201603111004
+Reference:  ['evidenced by the blended total precipitable water imagery this']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAN&e=201606110900
+Reference:  ['our northeast per the blended total precipitable water product. over']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAN&e=201609052049
+* In 2016 , KJAN had  3  references out of  1875  total AFDs.
+ 
+--- Site: KJAX ---
+
+Reference:  ['scatterometer pass) to tell what the winds are but based on model']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJAX&e=201604031326
+* In 2016 , KJAX had  1  references out of  1530  total AFDs.
+ 
+--- Site: KJKL ---
+
+Reference:  ['latest low-light visible satellite reveals fog along the river']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJKL&e=201606261141
+Reference:  ['the latest modis imagery suggests the heaviest smoke remains']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJKL&e=201611131742
+Reference:  ['concentration based on the modis was in the far south and', 'latest modis data showing some light smoke is being seen across']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDJKL&e=201611141827
+* In 2016 , KJKL had  3  references out of  3620  total AFDs.
+ 
+--- Site: KKEY ---
+
+Reference:  ['reports...and scatterometer data. ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=201601061005
+Reference:  ['late tuesday evening scatterometer pass revealed the surface ridge']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=201603160848
+Reference:  ['as well. a timely scatterometer pass and reports from the noaa ship']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=201605110910
+* In 2016 , KKEY had  3  references out of  1480  total AFDs.
+ 
+--- Site: KLBF ---
+
+* In 2016 , KLBF had  0  references out of  2341  total AFDs.
+ 
+--- Site: KLCH ---
+
+* In 2016 , KLCH had  0  references out of  2840  total AFDs.
+ 
+--- Site: KLIX ---
+
+Reference:  ['feet. nucaps soundings from the npp viirs pass around 730z south']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLIX&e=201603261329
+Reference:  ['not everywhere has had a drop in their pw just yet. 19z nucaps', "19z nucaps data and latest water vapor imagery, it's likely that"]  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLIX&e=201609290052
+Reference:  ['a residual nocturnal boundary layer as 18z nucaps data showed a']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLIX&e=201611110103
+* In 2016 , KLIX had  3  references out of  1810  total AFDs.
+ 
+--- Site: KLKN ---
+
+Reference:  ['blended tpw...clearly shows a fetch of moisture moving into the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLKN&e=201602271043
+* In 2016 , KLKN had  1  references out of  942  total AFDs.
+ 
+--- Site: KLMK ---
+
+* In 2016 , KLMK had  0  references out of  2924  total AFDs.
+ 
+--- Site: KLOT ---
+
+Reference:  ['southern 2/3 of the forecast area where modis-terra satellite']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLOT&e=201612270948
+* In 2016 , KLOT had  1  references out of  3815  total AFDs.
+ 
+--- Site: KLOX ---
+
+* In 2016 , KLOX had  0  references out of  3058  total AFDs.
+ 
+--- Site: KLSX ---
+
+* In 2016 , KLSX had  0  references out of  2422  total AFDs.
+ 
+--- Site: KLUB ---
+
+* In 2016 , KLUB had  0  references out of  2362  total AFDs.
+ 
+--- Site: KLWX ---
+
+Reference:  ['blended tpw product indicating dry air advection taking place. as']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201605031344
+Reference:  ['blended tpw product shows a pool of 1.5 inch pwat over the area']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201605271413
+Reference:  ['blended tpw product shows a front becoming stationary across']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201606011430
+Reference:  ['southern md, central and southeastern va per blended tpw. only']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201606011854
+Reference:  ['air advection is already underway based on latest blended tpw']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201606120759
+Reference:  ['the wednesday night band, too). the wave will push south thursday']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201606140800
+Reference:  ['into central/srn va based on pw gradient on blended tpw product']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201608021424
+Reference:  ['blended tpw product. showers and isold t-storms firing where best']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201608051852
+Reference:  ['flow. pws now up to 2.2 inches per blended tpw product. showers']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201608052052
+Reference:  ['.fire weather...modis and viirs true color images from yesterday']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201609130802
+Reference:  ['modis and viirs true color images from yesterday revealed that']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201609131430
+Reference:  ['is evident over the shenandoah valley on the latest modis- aqua']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201610030755
+Reference:  ['in eastern wv. obs and an avhrr pass at 0856 utc show widespread']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201610041010
+Reference:  ['fire activity...a high resolution viirs pass at 0730z showed two']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=201611210851
+* In 2016 , KLWX had  14  references out of  1779  total AFDs.
+ 
+--- Site: KLZK ---
+
+* In 2016 , KLZK had  0  references out of  2398  total AFDs.
+ 
+--- Site: KMAF ---
+
+* In 2016 , KMAF had  0  references out of  2320  total AFDs.
+ 
+--- Site: KMEG ---
+
+* In 2016 , KMEG had  0  references out of  2937  total AFDs.
+ 
+--- Site: KMFL ---
+
+Reference:  ['current guidance and an ascat scatterometer pass during the late ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFL&e=201612262145
+* In 2016 , KMFL had  1  references out of  2902  total AFDs.
+ 
+--- Site: KMFR ---
+
+Reference:  ['continue into next week, as well. polar orbiting satellite data']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=201607271358
+Reference:  ['.aviation...21/12z taf cycle...nasa sport viirs nighttime microphyics']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=201608211149
+Reference:  ['aviation...21/12z taf cycle...nasa sport viirs nighttime microphyics', '.aviation...21/12z taf cycle...nasa sport viirs nighttime']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=201608211539
+Reference:  ['scatterometer pass shows much lighter wind in the coastal waters']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=201609101013
+Reference:  ['scatterometer pass shoed evidence of a coastal jet forming over the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=201610132256
+Reference:  ['latest scatterometer pass showed evidence of a coastal jet']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=201610140300
+Reference:  ['scatterometer pass showed south winds have decreased to 25-30kt']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=201610141235
+Reference:  ['this evening then onshore early tonight. a scatterometer pass']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=201611182320
+* In 2016 , KMFR had  8  references out of  2127  total AFDs.
+ 
+--- Site: KMHX ---
+
+Reference:  ['in place with latest satellite blended total precipitable water']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201601200041
+Reference:  ['place with latest satellite blended total precipitable water']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201601200530
+Reference:  ['large hail and isolated damaging wind gusts. 17z nucaps soundings']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201603141926
+Reference:  ['nucaps soundings indicate moisture limited to 850 mb and below']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201603312022
+Reference:  ['region. latest laps and nucaps soundings indicate moisture limited']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201603312301
+Reference:  ['moisture. satellite blended total precipitable water values have']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201604012018
+Reference:  ['coast. satellite blended total precipitable waters continues to']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201604061433
+Reference:  ['latest satellite blended total precipitable waters indicates']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201604061949
+Reference:  ['blended tpw vals between 1 and 1.5 inches, showers and some iso']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201605221030
+Reference:  ['latest satellite blended total precipitable water values at above']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201606062355
+Reference:  ['blended total precipitable water values ranged 0.8-0.9 inches']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201606202300
+Reference:  ['blended tpw satellite product. current high chance pops look good']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMHX&e=201612170300
+* In 2016 , KMHX had  12  references out of  3077  total AFDs.
+ 
+--- Site: KMKX ---
+
+Reference:  ['decreasing winds on sunday. recent modis image estimates the lake']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201601030312
+Reference:  ['.marine...recent modis imagery from monday measured lake surface temp']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201601050946
+Reference:  ['marine...recent modis imagery from monday measured lake surface temp']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201601051628
+Reference:  ['recent modis imagery from monday measured lake surface temp in the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201601052134
+Reference:  ['latest modis image...especially south of port washington. waves in']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201601192109
+Reference:  ['too much cloud cover on latest hi res modis image from sat to']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201601241630
+Reference:  ['nearshore waters thu into thu ngt. latest modis imagery and glerl']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201604200834
+Reference:  ['recent satellite modis imagery measured lake mi surface temp still']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201605090830
+Reference:  ['area is offshore from ozaukee and sheboygan counties where modis']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201605270842
+Reference:  ['warm, humid air flows across cooler lake mi.  recent buoys and modis']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201606110836
+Reference:  ['corresponds with modis satellite imagery from sun aftn.  the lighter']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201607180823
+Reference:  ['latest modis imagery showed lake mi surface temp has risen into the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201608101455
+Reference:  ['to the south on monday. latest modis imagery shows that the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201608210831
+Reference:  ['enough breaks in the clouds last night to get a modis snapshot of']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201608281554
+Reference:  ['recent upwelling of cooler waters in the nearshore waters. modis', 'recent modis imagery from sunday continued to show the effect of']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201608291657
+Reference:  ['recent modis imagery measured lake surface temperatures in the mid']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201608301509
+Reference:  ['.marine...recent modis imagery showed upwelling of colder sub-']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201609180156
+Reference:  ['recent modis imagery measuring lake surface temperature in the lower']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201611051559
+Reference:  ['recent modis imagery is showing lake surface temperatures in the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201611051955
+Reference:  ['temperature remains in the 50-55 degree range per recent modis']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201611071615
+Reference:  ['afternoon and evening. recent modis imagery showing lake surface', 'temp remaining mostly in the mid-upper 30s. hi-res modis vsbl']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201612210949
+Reference:  ['the afternoon, ending later tonight. recent modis lake surface']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201612230943
+Reference:  ['ending later tonight. recent modis lake surface temperature image']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201612231643
+Reference:  ['tonight. recent modis lake surface temperature image continues to']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMKX&e=201612232108
+* In 2016 , KMKX had  24  references out of  1591  total AFDs.
+ 
+--- Site: KMLB ---
+
+* In 2016 , KMLB had  0  references out of  1515  total AFDs.
+ 
+--- Site: KMOB ---
+
+Reference:  ['with the goes blended total precipitable water product indicating']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMOB&e=201607041447
+* In 2016 , KMOB had  1  references out of  2622  total AFDs.
+ 
+--- Site: KMPX ---
+
+* In 2016 , KMPX had  0  references out of  2215  total AFDs.
+ 
+--- Site: KMQT ---
+
+Reference:  ['conformation from the viirs day/night band before finalizing the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMQT&e=201601130825
+* In 2016 , KMQT had  1  references out of  3014  total AFDs.
+ 
+--- Site: KMRX ---
+
+Reference:  ['chattanooga coupled with latest visible satellite imagery and modis']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMRX&e=201611132011
+* In 2016 , KMRX had  1  references out of  2947  total AFDs.
+ 
+--- Site: KMSO ---
+
+* In 2016 , KMSO had  0  references out of  851  total AFDs.
+ 
+--- Site: KMTR ---
+
+Reference:  ['least a short period of sunshine. the final low light visible']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMTR&e=201604040320
+Reference:  ['area. the final low light visible satellite image was showing a']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMTR&e=201605140354
+Reference:  ['plenty of heat showing up on satellite and modis scans. best']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMTR&e=201606051621
+Reference:  ['been pretty active overnight per satellite imagery and modis heat']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMTR&e=201608071045
+* In 2016 , KMTR had  4  references out of  3120  total AFDs.
+ 
+--- Site: KOAX ---
+
+* In 2016 , KOAX had  0  references out of  2266  total AFDs.
+ 
+--- Site: KOHX ---
+
+* In 2016 , KOHX had  0  references out of  2940  total AFDs.
+ 
+--- Site: KOKX ---
+
+* In 2016 , KOKX had  0  references out of  4366  total AFDs.
+ 
+--- Site: KOTX ---
+
+* In 2016 , KOTX had  0  references out of  2564  total AFDs.
+ 
+--- Site: KOUN ---
+
+* In 2016 , KOUN had  0  references out of  2636  total AFDs.
+ 
+--- Site: KPAH ---
+
+* In 2016 , KPAH had  0  references out of  1981  total AFDs.
+ 
+--- Site: KPBZ ---
+
+* In 2016 , KPBZ had  0  references out of  3555  total AFDs.
+ 
+--- Site: KPDT ---
+
+* In 2016 , KPDT had  0  references out of  2648  total AFDs.
+ 
+--- Site: KPHI ---
+
+* In 2016 , KPHI had  0  references out of  2861  total AFDs.
+ 
+--- Site: KPIH ---
+
+Reference:  ['morning. the difference is polar satellite imagery shows and area']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPIH&e=201601261019
+Reference:  ['latest viirs imagery shows this region extremely well with another']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPIH&e=201602111037
+* In 2016 , KPIH had  2  references out of  943  total AFDs.
+ 
+--- Site: KPQR ---
+
+Reference:  ['night and thursday. the blended tpw product indicated the incoming']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPQR&e=201601261804
+Reference:  ['front that will push across the area today. blended rain rate']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPQR&e=201601291041
+Reference:  ['surface wind field seen in obsevations and scatterometer data']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPQR&e=201609221010
+Reference:  ['blended total precipitable water graphics valid 01z suggest 1.2 to']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPQR&e=201610260356
+* In 2016 , KPQR had  4  references out of  1601  total AFDs.
+ 
+--- Site: KPSR ---
+
+Reference:  ['blended tpw imagery clearly reveals an atmospheric river moving']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201601052128
+Reference:  ['been underway per blended tpw trends but dry lower levels have as yet']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201604072120
+Reference:  ['overnight, where blended tpw overnight loops indicate 0.70&quot; are']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201605171018
+Reference:  ['nucaps soundings in about 30-45 minutes if they can provide some']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201607312054
+Reference:  ['with a decent cap. this corroborated well with the 10.20z nucaps']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201608110400
+Reference:  ['extending into sonora. blended tpw imagery shows a subtle increase in']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201610072117
+Reference:  ['lobe rotating through the northeast quadrant of the low. blended tpw']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201612211044
+Reference:  ['of the low. blended tpw imagery shows 1 inch pwat values just south']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201612211650
+Reference:  ['tropics and subtropics, with blended tpw readings cresting 1 inch']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=201612212227
+* In 2016 , KPSR had  9  references out of  2088  total AFDs.
+ 
+--- Site: KPUB ---
+
+Reference:  ['blended total precipitable water (tpw) values across southern']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPUB&e=201607181011
+* In 2016 , KPUB had  1  references out of  1871  total AFDs.
+ 
+--- Site: KRAH ---
+
+Reference:  ['blended tpw, but should remain above normal overnight, especially']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201605171850
+Reference:  ['(according to blended tpw imagery) is near or just slightly above']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201606301905
+Reference:  ['into the area and stall out. observed blended tpw values are under']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201608070700
+Reference:  ['with heating. the column remains anomalously moist, with blended tpw']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201608080655
+Reference:  ['(seen well in blended tpw imagery) spreads to the nnw and over nc']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201608080708
+Reference:  ['according to blended tpw imagery is low (1.0-1.4&quot;). with deeply dry']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=201609240705
+* In 2016 , KRAH had  6  references out of  3783  total AFDs.
+ 
+--- Site: KREV ---
+
+Reference:  ['of where the friday night band sets up. this would focus heavier']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDREV&e=201605040942
+* In 2016 , KREV had  1  references out of  1107  total AFDs.
+ 
+--- Site: KRIW ---
+
+* In 2016 , KRIW had  0  references out of  1636  total AFDs.
+ 
+--- Site: KRLX ---
+
+* In 2016 , KRLX had  0  references out of  3473  total AFDs.
+ 
+--- Site: KRNK ---
+
+Reference:  ['the latest blended tpw imagery continues to show well defined pw']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRNK&e=201602240959
+* In 2016 , KRNK had  1  references out of  3045  total AFDs.
+ 
+--- Site: KSEW ---
+
+Reference:  ['satellite derived blended total precipitable water product']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSEW&e=201601171151
+Reference:  ['derived blended total precipitable water product showed amounts of']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSEW&e=201602160523
+Reference:  ['scatterometer winds over the offshore waters early this morning and']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSEW&e=201607261730
+Reference:  ['central pacific. the wave is seen well in an ascat scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSEW&e=201609172153
+Reference:  ['observations and scatterometer data show winds over the coastal']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSEW&e=201610042200
+* In 2016 , KSEW had  5  references out of  1613  total AFDs.
+ 
+--- Site: KSGF ---
+
+* In 2016 , KSGF had  0  references out of  2237  total AFDs.
+ 
+--- Site: KSGX ---
+
+Reference:  ['the 50s west of the mts today, and according to the blended tpw']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSGX&e=201612102117
+Reference:  ['west of the mts today, and according to the blended tpw imagery,']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSGX&e=201612110446
+* In 2016 , KSGX had  2  references out of  1547  total AFDs.
+ 
+--- Site: KSHV ---
+
+Reference:  ['threat. the blended tpw imagery currently shows precipitable']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSHV&e=201603301040
+Reference:  ['serious threat. the blended tpw imagery currently shows']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSHV&e=201603301247
+* In 2016 , KSHV had  2  references out of  3052  total AFDs.
+ 
+--- Site: KSJT ---
+
+* In 2016 , KSJT had  0  references out of  2358  total AFDs.
+ 
+--- Site: KSLC ---
+
+Reference:  ['valleys. blended total precipitable water product indicates there']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=201603031552
+* In 2016 , KSLC had  1  references out of  1535  total AFDs.
+ 
+--- Site: KSTO ---
+
+Reference:  ['blended tpw image shows moisture feed with this system at over an']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=201602031206
+* In 2016 , KSTO had  1  references out of  1410  total AFDs.
+ 
+--- Site: KTAE ---
+
+* In 2016 , KTAE had  0  references out of  2526  total AFDs.
+ 
+--- Site: KTBW ---
+
+* In 2016 , KTBW had  0  references out of  2301  total AFDs.
+ 
+--- Site: KTFX ---
+
+Reference:  ['and stable conditions. modis satellite imagery continues to show']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTFX&e=201608020328
+* In 2016 , KTFX had  1  references out of  3030  total AFDs.
+ 
+--- Site: KTOP ---
+
+* In 2016 , KTOP had  0  references out of  2222  total AFDs.
+ 
+--- Site: KTSA ---
+
+* In 2016 , KTSA had  0  references out of  2916  total AFDs.
+ 
+--- Site: KTWC ---
+
+Reference:  ['seen in blended tpw and cira lpw imagery. unlike this time']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201605191600
+Reference:  ['imagery and the blended total precipitable water imagery both show']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201608071513
+Reference:  ['state where the blended total precipitable water imagery shows a']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201609100925
+Reference:  ['blended total precipitable water imagery shows values of near 2']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=201609120925
+* In 2016 , KTWC had  4  references out of  1531  total AFDs.
+ 
+--- Site: KUNR ---
+
+* In 2016 , KUNR had  0  references out of  2106  total AFDs.
+ 
+--- Site: KVEF ---
+
+* In 2016 , KVEF had  0  references out of  1508  total AFDs.
+ 
+--- Site: PAFC ---
+
+Reference:  ['coast from the south. the latest ascat scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201602280136
+Reference:  ['(70 mph) this morning and scatterometer data suggests 50 to 60 kt']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201603161346
+Reference:  ['moisture with this feature. the scatterometer wind imagery is']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201603201337
+Reference:  ['toward the southern gulf. scatterometer winds (satellite derived)']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201603230010
+Reference:  ['bay this morning according to scatterometer data and surface']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201604011231
+Reference:  ['to buoy observations and limited scatterometer data...which is']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201604061242
+Reference:  ['per hour as per the polar satellite blended rain rate product.']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201604170048
+Reference:  ['alaska peninsula and eastern aleutians. scatterometer data show']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201604251318
+Reference:  ['beaufort sea. the ascat scatterometer wind imagery is showing the', 'stratus and fog over the central gulf region. while the modis']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201605101333
+Reference:  ['aleutians through thursday. the ascat scatterometer wind imagery']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201605111252
+Reference:  ['of alaska this morning. this coincides with the modis nighttime']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201605131326
+Reference:  ['by the ascat scatterometer wind imagery this morning. in the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201605141256
+Reference:  ['with the ascat scatterometer wind imagery displaying weak flow']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201605151244
+Reference:  ['bering sea this morning with scatterometer data showing gale']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201605251259
+Reference:  ['mountains. the modis nighttime microphysics satellite imagery is']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201606121303
+Reference:  ['bering sea. a lot of warm, moist air (as seen in the blended tpw']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201606150036
+Reference:  ['bering has low stratus, and the scatterometer wind imagery is']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201606171303
+Reference:  ['scatterometer wind imagery is showing small craft winds on the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201606191248
+Reference:  ['under the subsidence inversion. the scatterometer wind imagery is']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201606201258
+Reference:  ['scatterometer data shows a weak area of low pressure has developed', 'scatterometer data from 0700z matches up well with the 06z']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201606251324
+Reference:  ['latest observations including scatterometer data puts the frontal']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201606291246
+Reference:  ['located near 53n 159w with the scatterometer wind imagery showing']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201607141151
+Reference:  ['develop along the alaska peninsula. in addition...scatterometer', 'is also evident on scatterometer data.']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201607261243
+Reference:  ['flow with the scatterometer winds depicting this through the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201607301300
+Reference:  ['latest satellite imagery and scatterometer data shows a weakening']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201608010050
+Reference:  ['aleutians extending into the central aleutians. the scatterometer', 'morning the scatterometer wind imagery is showing small craft']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201608011239
+Reference:  ['kodiak island. an earlier scatterometer pass shows gale force']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201608171259
+Reference:  ['south of the western aleutians this morning. ascat scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201609091233
+Reference:  ['latest scatterometer data shows a developing warm front south of']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201609301246
+Reference:  ['region. the scatterometer winds are depicting gale-force']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201610011213
+Reference:  ['latest ascat scatterometer passes over the area. over the past 24']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201610061201
+Reference:  ['aleutians. scatterometer (satellite derived winds) earlier this']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201610072348
+Reference:  ['along the central aleutians. scatterometer winds show solid gale']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201610110025
+Reference:  ['range. scatterometer wind imagery is depicting gale force']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201610190048
+Reference:  ['ir satellite imagery and scatterometer data shows a triple point']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201610191231
+Reference:  ['where a low deepens 24 mb within a 24 hour period. scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201610241322
+Reference:  ['scatterometer imagery is showing a broad swath of 45 to 50 kt']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201610310024
+Reference:  ['gale force wind in advance of it as indicated by the scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201611070124
+Reference:  ['scatterometer wind imagery reflected small craft advisory']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201611081357
+Reference:  ['upstream weather front is approaching the area. the scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201611161333
+Reference:  ['pacific this morning as ir imagery and scatterometer data shows']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201611191334
+Reference:  ['quite evident on ir imagery and scatterometer data. a nice swath']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201611201302
+Reference:  ['to the northeast. satellite scatterometer data confirm a fairly']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=201612160138
+* In 2016 , PAFC had  43  references out of  776  total AFDs.
+ 
+--- Site: PAFG ---
+
+Reference:  ['modis and npp viirs 24 hours microphysics combined image from']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201602091157
+Reference:  ['west. the sport modis and npp viirs 24 hours microphysics combined']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201602101130
+Reference:  ['lower than the last couple days. sport npp viirs product at']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201602132143
+Reference:  ['microphysics npp viirs product. it has remained stationary the', 'viirs at 14/1829z shows a good band of stratus over the northwest']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201602142212
+Reference:  ['satellite...sport avhrr nighttime microphysics at 02/0717z is', 'filling in the gap tonight between the viirs and modis images and']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201603021130
+Reference:  ['again filling in the gap tonight between the viirs and modis', 'satellite...sport avhrr nighttime microphysics at 02/0655z is', 'images. using the avhrr in conjunction with the goes mvfr/ifr']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201603031245
+Reference:  ['satellite...sport avhrr nighttime microphysics at 04/0634z and']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201603041126
+Reference:  ['satellite...sport 24 hours microphysics composite of viirs at', '15/1408z and modis at 15/1422z clearly shows a band of stratus']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201603152030
+Reference:  ['satellite...sport 24 hours microphysics viirs at 16/1350z shows']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201603162102
+Reference:  ['satellite...sport leo npp viirs 24 hr microphysics product at']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201603241051
+Reference:  ['stratus is pretty obvious on the 24/1319z sport npp viirs']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201604242003
+Reference:  ['from continuity. stratus on the 26/1601z sport npp viirs']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201604262057
+Reference:  ['arctic coast and brooks range...the leo-npp viirs 24 hour']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201605192031
+Reference:  ['arctic coast and brooks range...the sport npp viirs imagery at']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201605251048
+Reference:  ['arctic coast and brooks range: latest viirs satellite imagery and']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201605262221
+Reference:  ['solution as it matches up better with current polar orbiting sat']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201609021101
+Reference:  ['arctic coast and brooks range...sport npp viirs 24 hour']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201609101956
+Reference:  ['npp viirs 24 hour microphysics product at 13/1715z as the high']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201609132112
+Reference:  ['arctic coast and brooks range...sport npp-viirs 24 hour']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201610031859
+Reference:  ['as can be seen on the 14/1414z npp-viirs sport nighttime']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201610142012
+Reference:  ['pass over the next couple days. the 15/1356z npp- viirs sport 24']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201610152029
+Reference:  ['satellite...the sport npp-viirs nighttime microphysics rgb']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201610312059
+Reference:  ['eagle. the npp- viirs sport nighttime microphysics product at']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201611192102
+Reference:  ['of healy lake and south of eagle. the npp- viirs sport nighttime']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201611202213
+Reference:  ['and south of eagle. the npp-viirs sport nighttime microphysics', 'viirs sport nighttime microphysics product at 21/1859z shows a']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201611212239
+Reference:  ['east of barrow as the front moves in. npp-viirs sport nighttime']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201611222150
+Reference:  ['west coast and western interior...npp-viirs sport nighttime', 'as the gradient tightens, to 15 to 25 mph. npp-viirs sport']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201611232158
+Reference:  ['identified on the npp-viirs sport nighttime microphysics product']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=201612071127
+* In 2016 , PAFG had  28  references out of  775  total AFDs.
+ 
+--- Site: PAJK ---
+
+Reference:  ['between 500-1kft. polar satellite imagery overnight showed fog in']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAJK&e=201601051507
+Reference:  ['couple days. polar orbiting satellite showed some fog still in']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAJK&e=201601061527
+Reference:  ['precipitable water in blended tpw imagery. as a result, have']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAJK&e=201601190003
+Reference:  ['support for this in blended total precipitable water imagery which']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAJK&e=201604252334
+Reference:  ['flow going for the foreseeable future. blended tpw imagery']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAJK&e=201605301343
+Reference:  ['with the front. but ascat scatterometer pass overnight did']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAJK&e=201608081405
+* In 2016 , PAJK had  6  references out of  787  total AFDs.
+ 
+--- Site: PGUM ---
+
+* In 2016 , PGUM had  0  references out of  0  total AFDs.
+ 
+--- Site: PHFO ---
+
+Reference:  ['scatterometer data and cloud motions did suggest fairly strong winds ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201601010600
+Reference:  ['storm pali late saturday night through monday. scatterometer passes']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201601091405
+Reference:  ['storm pali from tonight through monday. scatterometer passes']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201601092003
+Reference:  ['storm pali tonight through monday. scatterometer passes reflected']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201601100204
+Reference:  ['however...the latest scatterometer passes over pali have not']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201601121344
+Reference:  ['see another scatterometer pass this evening.', 'behind the front...as well as if we receive a good scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201603080201
+Reference:  ['saturday. satellite blended total precipitable waters shows']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201603251408
+Reference:  ['in several other coastal zones...however today/s scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201604270144
+Reference:  ['a scatterometer pass over the islands last evening confirmed that']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201605011413
+Reference:  ['scatterometer data supports small craft advisory /sca/ trade wind']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201605101954
+Reference:  ['scatterometer data supports dropping the small craft advisory']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201605110207
+Reference:  ['advisory-level winds were depicted from the overnight scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201605181321
+Reference:  ['scatterometer pass, mainly over the waters extending east from']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201605181942
+Reference:  ['moves further down the island chain. the latest scatterometer from']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201605310148
+Reference:  ['earlier today. will monitor trends and scatterometer data to ensure']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201606110643
+Reference:  ['and scatterometer passes today for evidence of this.']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201608042007
+Reference:  ["morning's weaker than expected trade winds in the scatterometer"]  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201608050208
+Reference:  ['low-light visible satellite imagery from dusk this evening']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201608140642
+Reference:  ['wednesday. scatterometer pass from this morning showed winds had']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201608160158
+Reference:  ['blended tpw products show that there is another surge of moisture']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201609152017
+Reference:  ['and nesdis blended tpw as the goes sounder dpi lifted index']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201609170210
+Reference:  ['scatterometer pass missed the most of the main hawaiian islands']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201610070206
+Reference:  ['a scatterometer pass across the islands friday evening confirmed']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201611051405
+Reference:  ['over most of the islands overnight. a recent viirs day/night band']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201611101403
+Reference:  ['tonight. this was done due to evidence presented by a scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201611200159
+Reference:  ['weather pattern over the next several days. a scatterometer pass']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201611221354
+Reference:  ['the earlier scatterometer pass showed a fairly solid area of 30 kt']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201611230205
+Reference:  ['the mid-morning scatterometer pass still showed winds over 25 kt']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=201612030223
+* In 2016 , PHFO had  28  references out of  1684  total AFDs.
+ 
+--- Site: TJSJ ---
+
+* In 2016 , TJSJ had  0  references out of  0  total AFDs.
+ 
+--- Site: NSTU ---
+
+* In 2016 , NSTU had  0  references out of  0  total AFDs.
+
+*** In 2016, there were 278 AFDs with polar satellite product references out of 296135 total AFDs.
+ 

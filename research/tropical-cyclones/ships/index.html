@@ -1,0 +1,1568 @@
+
+<!doctype html>
+	
+<!-- Mirrored from rammb2.cira.colostate.edu/research/tropical-cyclones/ships/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 15 Feb 2022 12:00:55 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<html lang="en">
+		<title>Regional and Mesoscale Meteorology Branch  Statistical Tropical Cyclone Intensity Forecast Technique Development</title>
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<link rel="icon" href="../../../wp-content/themes/RAMMB-WP/favicon.png">
+		<meta name="msapplication-TileColor" content="#f01d4f">
+		<link rel="pingback" href="../../../xmlrpc.html">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300" rel="stylesheet"> 
+		
+		<script src='../../../wp-content/themes/RAMMB-WP/library/js/modernizr.js'></script>
+		<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Regional and Mesoscale Meteorology Branch &raquo; Feed" href="../../../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Regional and Mesoscale Meteorology Branch &raquo; Comments Feed" href="../../../comments/feed/index.html" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/rammb2.cira.colostate.edu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='../../../wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='../../../wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ivory-search-styles-css'  href='../../../wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bones-stylesheet-css'  href='../../../wp-content/themes/RAMMB-WP/library/css/style.css' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='bones-ie-only-css'  href='https://rammb2.cira.colostate.edu/wp-content/themes/RAMMB-WP/library/css/ie.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='../../../wp-content/themes/RAMMB-WP/library/js/libs/modernizr.custom.min.js' id='bones-modernizr-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="../../../wp-json/index.html" /><link rel="canonical" href="index.html" />
+<link rel='shortlink' href='../../../index0b7e.html?p=8287' />
+<link rel="alternate" type="application/json+oembed" href="../../../wp-json/oembed/1.0/embedce81.json?url=https%3A%2F%2Frammb2.cira.colostate.edu%2Fresearch%2Ftropical-cyclones%2Fships%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../../../wp-json/oembed/1.0/embed19ee?url=https%3A%2F%2Frammb2.cira.colostate.edu%2Fresearch%2Ftropical-cyclones%2Fships%2F&amp;format=xml" />
+		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		<link rel="icon" href="../../../wp-content/uploads/2019/10/cropped-cropped-cropped-cropped-rammb_logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="../../../wp-content/uploads/2019/10/cropped-cropped-cropped-cropped-rammb_logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="../../../wp-content/uploads/2019/10/cropped-cropped-cropped-cropped-rammb_logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://rammb2.cira.colostate.edu/wp-content/uploads/2019/10/cropped-cropped-cropped-cropped-rammb_logo-270x270.png" />
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-S1FDQ1DW1M"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-S1FDQ1DW1M');
+		</script>
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-115779003-12"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-115779003-12');
+</script>
+
+	</head>
+	<body class="projectpages-template projectpages-template-page-multi projectpages-template-page-multi-php single single-projectpages postid-8287 RAMMB-WP" itemscope itemtype="http://schema.org/WebPage">
+		<a class="skip-to-content-link" href="#nav-1">
+		  Skip to Navigation
+		</a>
+		<a class="skip-to-content-link" href="#main">
+		  Skip to content
+		</a>
+					<header>
+				<div class="d-1of6 t-1of6 m-1of4">
+					<div class="rammbLogo">
+						<a href="../../../index.html" rel="nofollow">
+							<img  alt="Regional and Mesoscale Meteorology Branch" data-src="https://rammb2.cira.colostate.edu/wp-content/themes/RAMMB-WP/library/images/rammb_logo.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="../../../wp-content/themes/RAMMB-WP/library/images/rammb_logo.png" alt="Regional and Mesoscale Meteorology Branch" /></noscript>
+						</a>
+					</div>
+				</div>
+				<div class="d-4of6 t-5of6 m-3of4">
+					<h1>
+						<a href="../../../index.html" rel="nofollow">
+							Regional and Mesoscale Meteorology Branch						</a>
+					</h1>
+					<nav class="nav-1" id="nav-1">
+						<div class="nav-mobile">
+							<p>Show Menu</p>
+						</div>
+						<ul id="menu-main-menu" class="nav-list"><li id="menu-item-5170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5170"><a href="../../../index.html">Home</a></li>
+<li id="menu-item-5171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-5171"><a href="../../../projies/index.html">Real-Time Data</a>
+<ul class="sub-menu">
+	<li id="menu-item-6391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6391"><a target="_blank" rel="noopener" href="http://rammb-slider.cira.colostate.edu/">SLIDER</a></li>
+	<li id="menu-item-10781" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10781"><a href="https://rammb-data.cira.colostate.edu/tc_realtime/">TC Real-Time</a></li>
+	<li id="menu-item-8475" class="menu-item menu-item-type-post_type menu-item-object-ram menu-item-8475"><a href="../../../ramsdis/online/index.html">RAMSDIS</a></li>
+	<li id="menu-item-10505" class="menu-item menu-item-type-post_type menu-item-object-tcprojects menu-item-10505"><a href="../../../projects/tc_genesis/index.html">TC Genesis</a></li>
+</ul>
+</li>
+<li id="menu-item-5177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-5177"><a href="../../index.html">Research Projects</a>
+<ul class="sub-menu">
+	<li id="menu-item-11247" class="menu-item menu-item-type-post_type menu-item-object-projectpages menu-item-11247"><a href="../../goes-r-research/index.html">GOES-R Research</a></li>
+	<li id="menu-item-8474" class="menu-item menu-item-type-post_type menu-item-object-projectpages menu-item-8474"><a href="../../calibration_validation_and_visualization/index.html">JPSS VIIRS Calibration/Validation and Visualization</a></li>
+	<li id="menu-item-8330" class="menu-item menu-item-type-post_type menu-item-object-projectpages current-projectpages-ancestor menu-item-8330"><a href="../index.html">Tropical Cyclones</a></li>
+	<li id="menu-item-11243" class="menu-item menu-item-type-post_type menu-item-object-projectpages menu-item-11243"><a href="../../ai/index.html">Artificial Intelligence &#038; Machine Learning</a></li>
+</ul>
+</li>
+<li id="menu-item-5182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-5182"><a href="../../../training/index.html">Training/Outreach</a>
+<ul class="sub-menu">
+	<li id="menu-item-8328" class="menu-item menu-item-type-post_type menu-item-object-visit menu-item-8328"><a href="../../../training/rmtc/index.html">International</a></li>
+	<li id="menu-item-8325" class="menu-item menu-item-type-post_type menu-item-object-visit menu-item-8325"><a href="../../../training/shymet/index.html">SHyMet</a></li>
+	<li id="menu-item-8334" class="menu-item menu-item-type-post_type menu-item-object-visit menu-item-8334"><a href="../../../training/visit/index.html">VISIT</a></li>
+</ul>
+</li>
+<li id="menu-item-5187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-children menu-item-5187"><a href="../../../resources/index.html">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-8340" class="menu-item menu-item-type-post_type menu-item-object-repages2 menu-item-8340"><a href="../../../resources/acronyms/index.html">Acronyms</a></li>
+	<li id="menu-item-8339" class="menu-item menu-item-type-post_type menu-item-object-repages2 menu-item-8339"><a href="../../../resources/blogs/index.html">Blogs</a></li>
+	<li id="menu-item-11329" class="menu-item menu-item-type-post_type menu-item-object-repages2 menu-item-11329"><a href="../../../resources/contact-directory/index.html">Contact Directory</a></li>
+	<li id="menu-item-5192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5192"><a href="../../../resources/publications/index.html">Publications</a></li>
+	<li id="menu-item-8338" class="menu-item menu-item-type-post_type menu-item-object-repages2 menu-item-8338"><a href="../../../resources/personnel/index.html">Personnel</a></li>
+	<li id="menu-item-10506" class="menu-item menu-item-type-post_type menu-item-object-staffpages menu-item-10506"><a href="../../../intranet/mainpage/index.html">Staff Login</a></li>
+</ul>
+</li>
+</ul>						<div class="searchBoxOpen close"><i class="fas fa-search"></i></div>	
+					</nav>
+				</div>
+				<div class="ciraLogo d-1of6 t-none m-none last-col">
+					<a href="https://www.cira.colostate.edu/">
+						<img  alt="CIRA" data-src="https://rammb2.cira.colostate.edu/wp-content/themes/RAMMB-WP/library/images/cira_logo.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="../../../wp-content/themes/RAMMB-WP/library/images/cira_logo.png" alt="CIRA" /></noscript>
+					</a>
+				</div>
+			</header>
+			<!-- Back to top button --> 
+			<a id="totopbutton"></a>
+			<div class="wrap">
+				<div class="homeSearchBox closed">
+					<div class="searchClose">
+						<i class="far fa-window-close"></i>
+						<h4>Search the RAMMB website</h4>
+					</div>
+					<div class="searchBox">
+						<form  class="is-search-form is-form-style is-form-style-1 is-form-id-10075 " action="https://rammb2.cira.colostate.edu/" method="get" role="search" ><label for="is-search-input-10075"><span class="is-screen-reader-text">Search for:</span><input  type="search" id="is-search-input-10075" name="s" value="" class="is-search-input" placeholder="Search RAMMB..." autocomplete=off /></label><input type="submit" value="Search" class="is-search-submit" /><input type="hidden" name="id" value="10075" /></form>					</div>
+					<div class="topLinks">
+						<h6>Top searched terms:</h6>
+											    								    <a class="button" href="../../../training/index.html" target="_self">Training and Outreach</a>
+						    				    						    								    <a class="button" href="http://rammb-slider.cira.colostate.edu/" target="_self">SLIDER</a>
+						    				    						    								    <a class="button" href="http://rammb.cira.colostate.edu/ramsdis/online/loop_of_the_day/" target="_self">Loop of the Day</a>
+						    				    						    								    <a class="button" href="../../calibration_validation_and_visualization/index.html" target="_self">Calibration/Validation and Visualization</a>
+						    				    						    								    <a class="button" href="../../proving_ground/index.html" target="_self">GOES-R Proving Ground</a>
+						    				    							</div>
+				</div>
+			</div>
+						<div id="main"></div><div class="wrap">
+	<div class="whiteBox">
+    
+
+
+  <div class="sidebarNav d-3of12 t-2of6 m-all row" id="sidebarNav">
+  <a style="font-size:0; height:5px; position: absolute;" href="#sidebarContent">
+      Section Navigation - Skip to Section Content
+    </a>
+<div class="navHide">
+  <p><a href="#"><i class="fas fa-bars" aria-hidden="true"></i> <h5>Toggle Navigation</h5></a></p>
+</div>
+<div class="navigation">
+    <li><a href="../index.html" >
+    <i class="fas fa-caret-right"></i> Tropical Cyclones    </a></li>
+    <ul id="multi_sidemenu">
+
+      <li><h3>
+    <i class="fas fa-caret-right"></i> SHIPS    </h3></li>
+        <li><a href="#home-content" class="open"><i class="fas fa-caret-right"></i> Overview</a></li>
+        <li>
+      <a href="#1-content"><i class="fas fa-caret-right"></i> Developmental Data</a>
+    </li>
+      <li>
+      <a href="#2-content"><i class="fas fa-caret-right"></i> Outlier Analysis</a>
+    </li>
+      <li>
+      <a href="#3-content"><i class="fas fa-caret-right"></i> Project Team</a>
+    </li>
+      <li>
+      <a href="#4-content"><i class="fas fa-caret-right"></i> References</a>
+    </li>
+    </ul>
+  </div>
+  </div>
+  <div id="sidebarContent" class="d-9of12 t-4of6 m-all row withSideBar" tabindex="0">
+  <div id="multi_content">
+    <h2>Statistical Tropical Cyclone Intensity Forecast Technique Development</h2>
+      <div id="home-content" class="contentblock">
+        <h3>Overview</h3><hr>
+        <p><strong>April 1st, 2020:</strong> The Developmental Data page has been updated with new SHIPS predictor files through 2019 for the Atlantic, Central Pacific, and Eastern North Pacific basins.</p>
+<p><strong>June 27th, 2019:</strong> The Developmental Data page has been updated with new SHIPS predictor files through 2017 for the Western North Pacific, Southern Hemisphere, and North Indian Ocean.</p>
+<p><strong>December 5th, 2018:</strong> The SHIPS Milestones and References sub-pages have been updated. Also, <strong>Matthew Onderlinde (NOAA/NCEP/NHC)</strong> has been added to the Project Team page.</p>
+<p><strong>December 4th, 2018:</strong> The Outlier Analysis page has been updated with all of the <strong>2018</strong> season D-SHIPS, LGEM, HWFI, and HMNI model TANIE (Mean Average Error, Bias) graphs for the Atlantic and East Pacific basins.</p>
+<p><strong>November 27th, 2018:</strong> The Outlier Analysis page has been updated with all of the <strong>2018</strong> season D-SHIPS, LGEM, HWFI, and HMNI model storm-by-storm graphs for the Atlantic and East Pacific basins.</p>
+<p><strong>August 20th, 2018:</strong> The Outlier Analysis page has been updated with all of the <strong>2017</strong> season HMNI model storm-by-storm graphs for the Atlantic and East Pacific basins.</p>
+<p><strong>August 1st, 2018:</strong> The Outlier Analysis page has been updated with all of the <strong>2017</strong> season HWFI model storm-by-storm graphs for the Atlantic and East Pacific basins.</p>
+<p><strong>July 27th, 2018:</strong> The Developmental Data page has been updated with all of the <strong>2017</strong> season cases and new sub-surface predictors from NCODA.</p>
+<p><strong>July 26th, 2018:</strong> The Outlier Analysis page has been updated with all of the <strong>2017</strong> season D-SHIPS and LGEM storm-by-storm graphs for the Atlantic and East Pacific basins.</p>
+<p><strong>November 16th, 2017:</strong> The Outlier Analysis page has been updated to include 2017 D-SHIPS, LGEM, and HWFI TANIE graphs for the Atlantic and East Pacific basins.</p>
+<p><strong>January 24th, 2017:</strong> The Developmental Data page has been updated to include new 2016 SHIPS predictor files for the Atlantic, East Pacific, and Central Pacific basins.</p>
+<p><strong>December 20th, 2016:</strong> The Outlier Analysis page has been updated to include EP20 (Seymour) in the 2016 East Pacific D-SHIPS and LGEM graphs section.</p>
+<p><strong>December 1st, 2016:</strong> The Outlier Analysis page has been updated to include AL16 (Otto) in the 2016 Atlantic D-SHIPS and LGEM graphs section.</p>
+<p><strong>November 7th, 2016:</strong> The Outlier Analysis page has been updated to include 2016 data and D-SHIPS and LGEM graphs for the Atlantic and East Pacific basins.</p>
+<p><strong>June 15th, 2016:</strong> The 2016 SHIPS predictor file received error corrections.</p>
+<p><strong>May 17th, 2016:</strong> Data from the Atlantic, East Pacific, and Central Pacific basins for 2015 was added.</p>
+<p><strong>November 5th, 2015:</strong> Data from the Atlantic, East Pacific, and Central Pacific basins for 2014 was added.</p>
+<p><strong>September 11th, 2014:</strong> Data from the Atlantic, East Pacific, and Central Pacific basins for 2013 was added.</p>
+<p><strong>January 7th, 2014:</strong> The Developmental Data sub-page was updated with data from the Southern Hemisphere and the Northern Indian Ocean.</p>
+<p><strong>May 10th, 2013:</strong> The Central and East Pacific files are now separated. Atlantic, East Pacific, Central Pacific and Western Pacific files were updated and now include data from 2012.</p>
+<p><strong>September 4th, 2012:</strong> The Western Pacific developmental data file was updated to include data from 2000 to 2011.</p>
+<h3><strong>Introduction to SHIPS</strong></h3>
+<hr />
+<p>Tropical cyclone (TC) track forecast errors have decreased considerably over the past several decades. However, there have only been modest intensity forecast improvements. Because of the complex physical processes affecting intensity changes, statistical forecast models have remained competitive with much more general prediction systems. For this reason the National Hurricane Center (NHC) continues to run a hierarchy of operational intensity models that range from the simple Statistical Hurricane Intensity Prediction Scheme (SHIPS) to the fully-coupled atmosphere-ocean Hurricane Weather Research and Forecast (HWRF) system. Several projects are underway at CIRA and RAMMB to improve SHIPS and related statistical intensity forecast models. This website provides a summary of this work and links to publications and data sets used in this research.</p>
+<table>
+<tbody>
+<tr>
+<td><img   alt="" width="300" height="225" data-src="https://rammb2.cira.colostate.edu/wp-content/uploads/2019/11/charley_label-300x225.jpg" class="size-medium wp-image-6406 aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="size-medium wp-image-6406 aligncenter" src="../../../wp-content/uploads/2019/11/charley_label-300x225.jpg" alt="" width="300" height="225" /></noscript></td>
+<td><img   alt="" width="308" height="228" data-src="https://rammb2.cira.colostate.edu/wp-content/uploads/2019/11/frances_thumb.jpg" class=" wp-image-6405 aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class=" wp-image-6405 aligncenter" src="../../../wp-content/uploads/2019/11/frances_thumb.jpg" alt="" width="308" height="228" /></noscript></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>A Brief History of SHIPS</strong></h3>
+<hr />
+<p>The original motivation for developing the SHIPS model occurred in 1988 when John Kaplan from the Hurricane Research Division (HRD) participated in a visiting forecaster program at NHC during Hurricane Joan. It quickly became apparent that NHC had limited objective guidance for intensity prediction. Aware of these limitations, John worked with Mark DeMaria (also from HRD at that time) on a new project that led to the development of the Statistical Hurricane Intensity Prediction Scheme (SHIPS). The SHIPS model built on a previous effort at statistical intensity forecasting by Bob Merrill, and combines predictors from climatology, persistence, the atmosphere and ocean to estimate changes in the maximum sustained surface winds of tropical cyclones.</p>
+<p>The first real time runs of SHIPS were performed in 1990, and only provided forecasts to 48 hrs at 00 and 12 UTC. The output was available to NHC only in hardcopy format. Beginning in 1991, the digital forecasts were saved the Automated Tropical Cyclone Forecast (ATCF) A-decks, and are available from NHC’s archive at <a href="ftp://ftp.nhc.noaa.gov/atcf/archive">ftp://ftp.nhc.noaa.gov/atcf/archive</a>. The model name in the ATCF is SHIP for the version without land effects (since 1991), DSHP for the version with land effects (since 2000) and LGEM for a related logistic growth equation model (since 2006). For the three year period 1996-1998, the ATCF model name for SHIP was changed to LBAR, which provided the track forecast for SHIPS at that time.</p>
+<p>The original SHIPS model was &#8220;statistical-synoptic&#8221; where no information from large-scale forecast models were used. (all synoptic predictors were from model analyses) The model was converted to a &#8220;statistical-dynamical&#8221; model in 1997, where predictors were obtained from atmospheric forecast models, in addition to analyses. <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/index.asp#milestones">Table 1</a> shows a summary of the major milestones in the SHIPS and related models.</p>
+<p>Although SHIPS forecasts since about 1997 have shown some skill compared to climatology and persistence forecasts, they have not performed well for rapidly intensifying cases. For this reason, the rapid intensity index (RII) was developed to provide an estimate of the probability of rapid intensification in the next 24 hr. The RII probabilities are provided as part of the SHIPS model text file, and use a subset of the SHIPS predictors most related to rapid intensification in a discriminant analysis algorithm. The SHIPS model provides intensity forecasts for the Atlantic, eastern and central North Pacific. A similar model called the Statistical Typhoon Intensity Prediction Scheme (STIPS) was developed for the western North Pacific, and later for the Indian Ocean and southern hemisphere.</p>
+<p>The SHIPS and STIPS models use a linear regression technique, with the impacts of land applied as a correction in a post-processing step. To overcome some of the limitations of this formulation, the Logistic Growth Equation Model (LGEM) was developed. LGEM uses a simple nonlinear differential equation commonly used to model population growth to forecast intensity changes. LGEM is more sensitive to time variations in the predictors, and overcomes some of the limitations of the linear assumptions in the SHIPS model.</p>
+<p>LGEM can be run with a much smaller number of predictors than SHIPS. A 2-predictor version is under development that provides a simple phase-space interpretation of the results. Further details are available <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/tc_phase_space/">here</a>.</p>
+<table>
+<tbody>
+<tr>
+<td><img   alt="" width="200" height="150" data-src="https://rammb2.cira.colostate.edu/wp-content/uploads/2019/11/jeanne_thumb.jpg" class="size-full wp-image-6408 aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="size-full wp-image-6408 aligncenter" src="../../../wp-content/uploads/2019/11/jeanne_thumb.jpg" alt="" width="200" height="150" /></noscript></td>
+<td><img   alt="" width="200" height="150" data-src="https://rammb2.cira.colostate.edu/wp-content/uploads/2019/11/katrina_thumb.jpg" class="size-full wp-image-6407 aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="size-full wp-image-6407 aligncenter" src="../../../wp-content/uploads/2019/11/katrina_thumb.jpg" alt="" width="200" height="150" /></noscript></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Current Research</strong></h3>
+<hr />
+<p>Current research involves improving SHIPS, LGEM and RII by better utilizing GOES imagery, new information from satellite-based total precipitable water products, and surface flux estimates. Methods for using the adjoint of the LGEM model to better include persistence are also under development. Lightning data is also being examined for possible use in SHIPS, LGEM and RII. The projects are partially sponsored by the Joint Hurricane Testbed (JHT), GOES-R Risk Reduction Program and Hurricane Forecast Improvement Project (HFIP).</p>
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 50%;"><img   alt="" width="200" height="150" data-src="https://rammb2.cira.colostate.edu/wp-content/uploads/2019/11/ivan_thumb.jpg" class="size-full wp-image-6410 aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="size-full wp-image-6410 aligncenter" src="../../../wp-content/uploads/2019/11/ivan_thumb.jpg" alt="" width="200" height="150" /></noscript></td>
+<td style="width: 50%;"><img   alt="" width="200" height="150" data-src="https://rammb2.cira.colostate.edu/wp-content/uploads/2019/11/wilma_thumb.jpg" class="size-full wp-image-6409 aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="size-full wp-image-6409 aligncenter" src="../../../wp-content/uploads/2019/11/wilma_thumb.jpg" alt="" width="200" height="150" /></noscript></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Milestones in the Operational SHIPS and Related Model Development</strong></h3>
+<hr />
+<ul>
+<li>1990 &#8211; First real-time runs of SHIPS for the Atlantic</li>
+<li>1991 &#8211; Intensity forecasts to 72 h written to ATCF</li>
+<li>1996 &#8211; East Pacific SHIPS developed and processing moved from HRD to NHC.</li>
+<li>1997 &#8211; Model converted from &#8220;statistical-synoptic&#8221; to &#8220;statistical-dynamical&#8221;.</li>
+<li>2000 &#8211; Decay component added to account for land effects (D-SHIPS).</li>
+<li>2001 &#8211; Forecasts extended from 3 to 5 days, predictors from NCEP global model.</li>
+<li>2003 &#8211; Rapid intensification index added for Atlantic.</li>
+<li>2003 &#8211; STIPS model for the western North Pacific.</li>
+<li>2004 &#8211; Oceanic heat content predictor added to Atlantic model.</li>
+<li>2004 &#8211; GOES infrared predictors added to Atlantic and east Pacific models.</li>
+<li>2004 &#8211; Rapid intensification index added for east Pacific.</li>
+<li>2005 &#8211; STIPS model for the Indian Ocean and southern hemisphere.</li>
+<li>2006 &#8211; Logistic Growth Equation Model formulation added to SHIPS processing.</li>
+<li>2009 &#8211; Oceanic heat content predictor added to east Pacific model.</li>
+<li>2011 &#8211; Storm type classification (tropical, subtropical, extratropical) algorithm added.</li>
+<li>2013 &#8211; Versions of SHIPS and LGEM developed for the western North Pacific, Indian Ocean and Southern Hemisphere.</li>
+<li>2013 &#8211; Basic versions of the rapid intensification index (30 kt threshold for 24 hr) developed for the western North Pacific, Indian Ocean and Southern Hemisphere.</li>
+<li>2018 &#8211; New Deterministic-To-Probabilistic Statistical (DToPS) rapid intensification model added. DToPS uses the intensity forecasts from HWRF and several other deterministic intensity models as input to a logistic regression scheme to estimate the probability of rapid intensification.</li>
+</ul>
+<p><strong>Disclaimer:</strong> These environmental data and related items of information have not been formally disseminated by NOAA and do not represent and should not be construed to represent any agency determination, view, or policy.</p>
+<p><img   alt="" width="200" height="150" data-src="https://rammb2.cira.colostate.edu/wp-content/uploads/2019/11/andrew_thumb.jpg" class="size-full wp-image-6411 aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="size-full wp-image-6411 aligncenter" src="../../../wp-content/uploads/2019/11/andrew_thumb.jpg" alt="" width="200" height="150" /></noscript></p>
+      </div>
+      
+            <div id="1-content" class="contentblock hidden">
+      <h3>Developmental Data</h3><hr>
+        <p><strong>Updates</strong></p>
+<ul>
+<li><strong>6/27/2019: </strong>The Western North Pacific, Southern Hemisphere, and North Indian Ocean SHIPS predictor files have been updated through 2017.</li>
+<li><strong>7/27/2018: </strong>The Atlantic, Eastern North Pacific, and Central Pacific SHIPS predictor files have been updated through 2017.</li>
+<li><strong>1/24/2017: </strong>The Atlantic, Eastern North Pacific, and Central Pacific SHIPS predictor files have been updated through 2016.</li>
+<li><strong>1/20/2017: </strong>The 2017 File Format and Predictor Descriptions document has been added.</li>
+<li><strong>1/20/2017: </strong>2016 files for the Atlantic, Eastern Pacific and Central Pacific basins have been added.</li>
+</ul>
+<p>&nbsp;</p>
+<p>To download the files below right-click on the &#8220;here&#8221; link and select &#8220;save link as&#8230;&#8221;</p>
+<p><strong>Atlantic</strong> data from 1982 to 2017 is available <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/AL/lsdiaga_1982_2017_sat_ts.dat">here.</a></p>
+<p><strong>Eastern North Pacific</strong> data from 1982 to 2017 is available <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/EP/lsdiage_1982_2017_sat_ts.dat">here.</a></p>
+<p><strong>Central Pacific</strong> data from 1982 to 2017 is available <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/CP/lsdiagc_1982_2017_sat_ts.dat">here.</a></p>
+<p><strong>Western North Pacific</strong> data from 1990 to 2017 is available <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/WP/lsdiagw_1990_2017.dat">here.</a></p>
+<p><strong>North Indian Ocean</strong> data from 1990 to 2017 is available <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/IO/lsdiagi_1990_2017.dat">here.</a></p>
+<p><strong>Southern Hemisphere</strong> data from 1998 to 2017 is available <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/SH/lsdiags_1998_2017.dat">here.</a></p>
+<p><strong>File Format and Predictor Descriptions (2018)</strong> are available <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/ships_predictor_file_2018.doc">here.</a></p>
+<p><strong>Disclaimer:</strong> These environmental data and related items of information have not been formally disseminated by NOAA and do not represent and should not be construed to represent any agency determination, view, or policy.</p>
+      </div>
+            <div id="2-content" class="contentblock hidden">
+      <h3>Outlier Analysis</h3><hr>
+        <p>To improve the SHIPS and LGEM models, cases with large forecast cases are being analyzed in greater detail. Cases with both high and low forecast biases are considered. The outlier cases are identified by looking at all forecasts for individual storms.</p>
+<p>Another way to identify large errors is to average the intensity errors for all the forecast times out to 120 h for each forecast. Before the errors are averaged, they are normalized by dividing by the error standard deviation for that time period. The resulting average is called the Time Averaged Normalized Intensity Error (TANIE). The error standard deviations used in TANIE are from the NHC official intensity forecasts from 2008-2013 for a combined Atlantic and east Pacific sample. The error standard deviations range from 12 kt at 12 hr to 35 kt at 120 hr. A TANIE value of 1 or greater indicates that the model forecast error was 1 standard deviation above the mean of the NHC official forecast error. The bias associated with the normalized intensity errors is also calculated to identify errors that are systematically too high or low on average throughout the 120 h forecast period.</p>
+<p>TANIE Graphs (MAE, Bias)</p>
+<ul>
+<li>2015
+<ul>
+<li>Atlantic
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2015_al_dshp_and_lgem_graphs.png">D-SHIPS and LGEM</a></li>
+</ul>
+</li>
+<li>East Pacific
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2015_ep_dshp_and_lgem_graphs.png">D-SHIPS and LGEM</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>2016
+<ul>
+<li>Atlantic
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2016_atlantic_with_dshp_v2_graphs.png">D-SHIPS and LGEM</a></li>
+</ul>
+</li>
+<li>East Pacific
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2016_ep_dshp_and_lgem_graphs.png">D-SHIPS and LGEM</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>2017
+<ul>
+<li>Atlantic
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2017_al_dshp.png">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2017_al_lgem.png">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2017_al_hwfi.png">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2017_al_dshp_lgem_hwfi.png">D-SHIPS, LGEM, and HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2017_al_error.png">D-SHIPS, LGEM, HWFI Error</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2017_al_bias.png">D-SHIPS, LGEM, HWFI Bias</a></li>
+</ul>
+</li>
+<li>East Pacific
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2017_ep_dshp.png">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2017_ep_lgem.png">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2017_ep_hwfi.png">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2017_ep_dshp_lgem_hwfi.png">D-SHIPS, LGEM, and HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2017_ep_error.png">D-SHIPS, LGEM, HWFI Error</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2017_ep_bias.png">D-SHIPS, LGEM, HWFI Bias</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>2018
+<ul>
+<li>Atlantic
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2018_al_dshp.png">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2018_al_lgem.png">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2018_al_hwfi.png">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2018_al_hmni.png">HMNI</a></li>
+</ul>
+</li>
+<li>East Pacific
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2018_ep_dshp.png">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2018_ep_lgem.png">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2018_ep_hwfi.png">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/images/tanie_2018_ep_hmni.png">HMNI</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Storm-by-Storm Forecasts</p>
+<ul>
+<li>
+<ul>
+<li>2018
+<ul>
+<li>Atlantic (2018)
+<ul>
+<li>AL01 &#8211; Alberto
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0118_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0118_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0118_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0118_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL02 &#8211; Beryl
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0218_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0218_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0218_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0218_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL03 &#8211; Chris
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0318_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0318_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0318_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0318_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL04 &#8211; Debby
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0418_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0418_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0418_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0418_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL05 &#8211; Ernesto
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0518_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0518_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0518_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0518_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL06 &#8211; Florence
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0618_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0618_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0618_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0618_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL07 &#8211; Gordon
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0718_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0718_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0718_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0718_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL08 &#8211; Helene
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0818_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0818_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0818_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0818_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL09 &#8211; Isaac
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0918_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0918_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0918_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL0918_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL10 &#8211; Joyce
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1018_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1018_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1018_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1018_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL11 &#8211; Eleven
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1118_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1118_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1118_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1118_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL12 &#8211; Kirk
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1218_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1218_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1218_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1218_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL13 &#8211; Leslie
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1318_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1318_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1318_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1318_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL14 &#8211; Michael
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1418_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1418_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1418_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1418_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL15 &#8211; Nadine
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1518_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1518_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1518_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1518_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL16 &#8211; Oscar
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1618_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1618_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1618_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/AL/AL1618_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<ul>
+<li>East Pacific (2018)
+<ul>
+<li>EP01 &#8211; One
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0118_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0118_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0118_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0118_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP02 &#8211; Aletta
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0218_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0218_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0218_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0218_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP03 &#8211; Bud
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0318_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0318_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0318_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0318_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP04 &#8211; Carlotta
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0418_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0418_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0418_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0418_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP05 &#8211; Daniel
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0518_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0518_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0518_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0518_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP06 &#8211; Emilia
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0618_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0618_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0618_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0618_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP07 &#8211; Fabio
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0718_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0718_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0718_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0718_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP08 &#8211; Gilma
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0818_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0818_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0818_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0818_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP09 &#8211; Nine
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0918_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0918_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0918_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP0918_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP10 &#8211; Hector
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1018_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1018_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1018_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1018_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP11 &#8211; Ileana
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1118_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1118_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1118_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1118_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP12 &#8211; John
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1218_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1218_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1218_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1218_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP13 &#8211; Kristy
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1318_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1318_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1318_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1318_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP14 &#8211; Lane
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1418_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1418_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1418_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1418_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP15 &#8211; Miriam
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1518_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1518_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1518_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1518_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP16 &#8211; Norman
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1618_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1618_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1618_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1618_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP17 &#8211; Olivia
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1718_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1718_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1718_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1718_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP18 &#8211; Paul
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1818_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1818_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1818_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1818_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP19 &#8211; Nineteen
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1918_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1918_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1918_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP1918_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP20 &#8211; Rosa
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2018_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2018_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2018_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2018_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP21 &#8211; Sergio
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2118_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2118_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2118_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2118_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP22 &#8211; Tara
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2218_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2218_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2218_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2218_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP23 &#8211; Vicente
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2318_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2318_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2318_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2318_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP24 &#8211; Willa
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2418_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2418_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2418_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2418_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP25 &#8211; Xavier
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2518_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2518_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2518_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2018/EP/EP2518_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<ul>
+<li>2017
+<ul>
+<li>Atlantic (2017)
+<ul>
+<li>AL01 &#8211; Arlene
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0117_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0117_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0117_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0117_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL02 &#8211; Bret
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0217_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0217_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0217_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0217_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL03 &#8211; Cindy
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0317_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0317_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0317_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0317_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL04 &#8211; TD04
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0417_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0417_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0417_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0417_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL05 &#8211; Don
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0517_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0517_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0517_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0517_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL06 &#8211; Emily
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0617_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0617_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0617_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0617_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL07 &#8211; Franklin
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0717_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0717_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0717_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0717_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL08 &#8211; Gert
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0817_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0817_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0817_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0817_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL09 &#8211; Harvey
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0917_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0917_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0917_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL0917_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL10 &#8211; PTC10
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1017_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1017_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1017_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1017_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL11 &#8211; Irma
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1117_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1117_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1117_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1117_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL12 &#8211; Jose
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1217_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1217_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1217_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1217_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL13 &#8211; Katia
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1317_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1317_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1317_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1317_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL14 &#8211; Lee
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1417_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1417_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1417_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1417_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL15 &#8211; Maria
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1517_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1517_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1517_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1517_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL16 &#8211; Nate
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1617_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1617_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1617_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1617_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL17 &#8211; Ophelia
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1717_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1717_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1717_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1717_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL18 &#8211; Philippe
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1817_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1817_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1817_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1817_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>AL19 &#8211; Rina
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1917_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1917_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1917_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/AL/AL1917_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<ul>
+<li>East Pacific (2017)
+<ul>
+<li>EP01 &#8211; Adrian
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0117_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0117_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0117_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0117_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP02 &#8211; Beatriz
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0217_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0217_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0217_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0217_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP03 &#8211; Calvin
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0317_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0317_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0317_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0317_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP04 &#8211; Dora
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0417_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0417_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0417_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0417_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP05 &#8211; Eugene
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0517_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0517_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0517_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0517_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP06 &#8211; Fernanda
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0617_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0617_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0617_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0617_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP07 &#8211; Greg
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0717_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0717_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0717_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0717_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP08 &#8211; TD08
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0817_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0817_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0817_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0817_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP09 &#8211; Hilary
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0917_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0917_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0917_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP0917_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP10 &#8211; Irwin
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1017_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1017_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1017_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1017_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP11 &#8211; TD11
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1117_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1117_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1117_HWFI.GIF">HWFI</a></li>
+</ul>
+</li>
+<li>EP12 &#8211; Jova
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1217_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1217_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1217_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1217_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP13 &#8211; Kenneth
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1317_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1317_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1317_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1317_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP14 &#8211; Lidia
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1417_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1417_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1417_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1417_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP15 &#8211; Otis
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1517_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1517_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1517_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1517_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP16 &#8211; Max
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1617_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1617_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1617_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1617_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP17 &#8211; Norma
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1717_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1717_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1717_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1717_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP18 &#8211; Pilar
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1817_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1817_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1817_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1817_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP19 &#8211; Ramon
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1917_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1917_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1917_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP1917_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+<li>EP20 &#8211; Selma
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP2017_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP2017_LGEM.GIF">LGEM</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP2017_HWFI.GIF">HWFI</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2017/EP/EP2017_HMNI.GIF">HMNI</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<ul>
+<li>2016
+<ul>
+<li>Atlantic (2016)
+<ul>
+<li>AL01 &#8211; Alex
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0116_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0116_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL02 &#8211; Bonnie
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0216_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0216_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL03 &#8211; Colin
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0316_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0316_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL04 &#8211; Danielle
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0416_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0416_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL05 &#8211; Earl
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0516_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0516_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL06 &#8211; Fiona
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0616_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0616_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL07 &#8211; Gaston
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0716_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0716_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL08 &#8211; TD08
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0816_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0816_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL09 &#8211; Hermine
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0916_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL0916_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL10 &#8211; Ian
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1016_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1016_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL11 &#8211; Julia
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1116_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1116_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL12 &#8211; Karl
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1216_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1216_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL13 &#8211; Lisa
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1316_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1316_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL14 &#8211; Matthew
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1416_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1416_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL15 &#8211; Nicole
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1516_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1516_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>AL16 &#8211; Otto
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1616_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/AL/AL1616_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<ul>
+<li>East Pacific (2016)
+<ul>
+<li>EP01 &#8211; TD01
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0116_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0116_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP02 &#8211; Agatha
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0216_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0216_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP03 &#8211; Blas
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0316_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0316_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP04 &#8211; Celia
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0416_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0416_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP05 &#8211; Darby
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0516_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0516_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP06 &#8211; Estelle
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0616_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0616_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP07 &#8211; Frank
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0716_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0716_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP08 &#8211; Georgette
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0816_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0816_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP09 &#8211; Howard
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0916_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP0916_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP10 &#8211; Ivette
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1016_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1016_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP11 &#8211; Javier
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1116_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1116_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP12 &#8211; Kay
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1216_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1216_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP13 &#8211; Lester
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1316_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1316_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP14 &#8211; Madeline
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1416_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1416_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP15 &#8211; Newton
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1516_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1516_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP16 &#8211; Orlene
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1616_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1616_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP17 &#8211; Paine
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1716_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1716_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP18 &#8211; Roslyn
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1816_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1816_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP19 &#8211; Ulika
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1916_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP1916_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+<li>EP20 &#8211; Seymour
+<ul>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP2016_DSHP.GIF">D-SHIPS</a></li>
+<li><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/outlier/images/2016/EP/EP2016_LGEM.GIF">LGEM</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+      </div>
+            <div id="3-content" class="contentblock hidden">
+      <h3>Project Team</h3><hr>
+        <p>The following people have made significant contributions to the SHIPS and related model development and operational implementation. Contributing scientists&#8217; names and institutional affiliations are listed in alphabetical order.</p>
+<ul>
+<li><strong>Andrea Schumacher</strong> (CIRA/CSU)</li>
+<li><strong>Buck Sampson</strong> (NRLMRY)</li>
+<li><strong>Chris Sisko</strong> (NOAA/NWS/NHC)</li>
+<li><strong>Jim Gross (Retired)</strong> (NOAA/NWS/NHC)</li>
+<li><strong>Joe Cione</strong> (NOAA/OAR/HRD)</li>
+<li><strong>John Kaplan</strong> (NOAA/OAR/HRD)</li>
+<li><strong>John Knaff</strong> (NOAA/NESDIS/STAR)</li>
+<li><strong>Mark DeMaria</strong> (NOAA/NCEP/NHC)</li>
+<li><strong>Matthew Onderlinde</strong> (NOAA/NCEP/NHC)</li>
+<li><strong>Michelle Mainelli</strong> (NOAA/NCEP/NCO)</li>
+<li><strong>Nick Shay</strong> (RSMAS/UM)</li>
+</ul>
+      </div>
+            <div id="4-content" class="contentblock hidden">
+      <h3>References</h3><hr>
+        <h3><strong>SHIPS Model References</strong></h3>
+<hr />
+<ul>
+<li>DeMaria, M., and J. Kaplan, 1994: A statistical hurricane intensity prediction scheme (SHIPS) for the Atlantic basin. Wea. Forecasting, <b>9</b>, 209 220. <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/1994_WAF_DeMaria_SHIPS.pdf">PDF</a></li>
+<li>Kaplan, J., and M. DeMaria, 1995: A simple empirical model for predicting the decay of tropical cyclone winds after landfall. J. Appl. Meteor., <b>34</b>, 2499 2512. <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/1995_JAM_Kaplan_inland-wind.pdf">PDF</a></li>
+<li>DeMaria, M., and J. Kaplan, 1999: An updated statistical hurricane intensity prediction scheme (SHIPS) for the Atlantic and eastern north Pacific basins. Wea. Forecasting, <b>14</b>, 326-337. <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/1999_WAF_DeMaria_SHIPS.pdf">PDF</a></li>
+<li>Kaplan, J., and M. DeMaria, 2001: On the decay of tropical cyclone winds after landfall in the New England area. J. Appl. Meteor., <b>40</b>, 280-286. <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/2001_JAMC_Kaplan_inland-wind.pdf">PDF</a></li>
+<li>DeMaria, M., M. Mainelli, L.K. Shay, J.A. Knaff and J. Kaplan, 2005: Further Improvements in the Statistical Hurricane Intensity Prediction Scheme (SHIPS). Wea. Forecasting, <b>20</b>, 531-543. <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/2005_WAF_DeMaria_SHIPS.pdf">PDF</a></li>
+<li>DeMaria, M., J.A. Knaff, and J. Kaplan, 2006: On the decay of tropical cyclone winds crossing narrow landmasses, J. Appl. Meteor., <b>45</b>, 491-499. <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/2006_JAMC_DeMaria_AHland-winds.pdf">PDF</a></li>
+<li>Jones, T. A., D. J. Cecil, and M. DeMaria, 2006: Passive Microwave-Enhanced Statistical Hurricane Intensity Prediction Scheme. Wea. and Forecasting, <b>21</b>, 613-635. <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/2006_WAF_Jones_SHIPSMI.pdf">PDF</a></li>
+<li>DeMaria, M., 2010: Tropical cyclone intensity change predictability estimates using a statistical-dynamical model. Extended Abstract, 29th AMS Conference on Hurricanes and Tropical Meteorology, May 10-14, 2010, Tucson, AZ. <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/demaria_hurr10_predictability.pdf">PDF</a></li>
+<li>Schumacher, A.S., M. DeMaria, and J. Knaff, 2013: Summary of the New Statistical-Dynamical Intensity Foreast Models for the Indian Ocean and Southern Hemisphere and Resulting Performance. <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/JTWC_project_final_report_oct_2013.docx">JTWC Project Final Report</a>.</li>
+</ul>
+<h3><strong>STIPS Model References</strong></h3>
+<hr />
+<ul>
+<li>Knaff, J.A., C.R. Sampson, and M. DeMaria, 2005: An Operational Statistical Typhoon Intensity Prediction Scheme for the Western North Pacific. Wea. Forecasting, <b>20</b>, 688-699. <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/2005_WAF_Knaff_STIPS.pdf">PDF</a></li>
+<li>Knaff, J.A., and C.R. Sampson, 2009: Southern Hemisphere Tropical Cyclone Intensity Forecast Methods Used at the Joint Typhoon Warning Center, Part II: Statistical-Dynamical Forecasts. <i>Australian Meteorological and Oceanographic Journal</i>, <b>58</b>:1, 9-18 <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/2009_AMOJ_Knaff_SH-STIPS.pdf">PDF</a></li>
+</ul>
+<h3><strong>LGEM Model References</strong></h3>
+<hr />
+<ul>
+<li>DeMaria, M., 2009: A simplified dynamical system for tropical cyclone intensity prediction. Mon. Wea. Rev., 137, 68-82. <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/2009_MWR_DeMaria_LGEM.pdf">PDF</a></li>
+<li>DeMaria, M. 2010: Tropical Cyclone Intensity Change Predictability Estimates Using a Statistical-Dynamical Model, 29th AMS Conference on Hurricanes and Tropical Meteorology, Tucson, AZ. <a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/demaria_hurr10_predictability.pdf">PDF</a></li>
+</ul>
+<h3><strong>Rapid Intensification Index References</strong></h3>
+<hr />
+<ul>
+<li>Kaplan, J., and M. DeMaria, 2003: Large-scale characteristics of rapidly intensifying tropical cyclones in the North Atlantic basin, Wea. Forecasting, 18,1093-1108. <strong><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/2003_WAF_Kaplan_RII.pdf">PDF</a></strong></li>
+<li>Kaplan, J., M. DeMaria, and J.A. Knaff, 2010: A Revised Tropical Cyclone Rapid Intensification Index for the Atlantic and Eastern North Pacific Basins. <strong><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/2010_WAF_Kaplan.pdf">PDF</a></strong></li>
+<li>Kaplan, J., C.M. Rozoff, M. DeMaria, C.R.Sampson, J.P. Kossin, C.S. Velden, J.J. Cione, J.P. Dunion, J.A. Knaff, J.A. Zhang, J.F. Dostalek, J.D. Hawkins, T.F. Lee, and J.E. Solbrig, 2015: Evaluating environmental impacts on tropical cyclone rapid intensification predictability utilizing statistical models. Wea. Forecasting, 30, 1374-1396. <strong><a href="http://rammb.cira.colostate.edu/research/tropical_cyclones/ships/docs/2015_WAF_Kaplan_DeMaria_RII_updates.pdf">PDF</a></strong></li>
+<li>Onderlinde, M., and M. DeMaria, 2018: Deterministic to Probabilistic Statistical Rapid Intensification Index (DTOPS): A New Method for Forecasting RI Probability. 33rd Conference on Hurricanes and Tropical Meteorology, Amer. Meteor. Soc, April 2018, Ponte Vedra, FL. Available from: <strong><a href="https://ams.confex.com/ams/33HURRICANE/webprogram/Paper339346.html">https://ams.confex.com/ams/33HURRICANE/webprogram/Paper339346.html</a></strong></li>
+</ul>
+      </div>
+        </div>
+</div>
+ 
+</div>
+
+</div>
+<style>
+  
+#multi_sidemenu{
+  margin-top:0;
+}
+#multi_sidemenu li:first-child {
+    padding: 0;
+}
+#multi_content {
+  display: block;
+  background: #fff;
+  padding: 0px 15px;
+  min-height: 300px;
+}
+
+
+.contentblock {
+  display: block;
+  padding: 15px 20px;
+}
+
+.contentblock.hidden {
+  display: none;
+}
+
+
+</style>
+<script>
+
+jQuery(document).ready(function($){
+  $('#multi_sidemenu a').on('click', function(e){
+    e.preventDefault();
+
+    if($(this).hasClass('open')) {
+      // do nothing because the link is already open
+    } else {
+      var oldcontent = $('#multi_sidemenu a.open').attr('href');
+      var newcontent = $(this).attr('href');
+      
+      $(oldcontent).fadeOut('fast', function(){
+        $(newcontent).fadeIn().removeClass('hidden');
+        $(oldcontent).addClass('hidden');
+      });
+      
+     
+      $('#multi_sidemenu a').removeClass('open');
+      $(this).addClass('open');
+    }
+  });
+});
+
+</script>
+
+
+</div>
+</div>
+	<footer class="footer margin-top" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+		<div id="inner-footer" class="wrap cf">
+			<div class="d-4of10 t-3of5 m-all">
+				<h4>Contact Us</h4>
+				<div id="text-2" class="widget widget_text">			<div class="textwidget"><p>Regional and Mesoscale Meteorology Branch<br />
+Cooperative Institute for Research in the Atmosphere<br />
+3925A West Laporte Ave.<br />
+Fort Collins, CO 80523-1375<br />
+Phone: <a href="tel:+9704918448">970.491.8448</a><br />
+Fax: 970.491.8241</p>
+</div>
+		</div>			</div>
+			<div class="d-3of10 t-1of5 m-all">
+				<h4>More Details:</h4>
+				<div class="menu-footer-detail-menu-container"><ul id="menu-footer-detail-menu" class="menu"><li id="menu-item-11328" class="menu-item menu-item-type-post_type menu-item-object-repages2 menu-item-11328"><a href="../../../resources/contact-directory/index.html">Contact Directory</a></li>
+<li id="menu-item-5197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5197"><a href="http://www.noaa.gov/privacy.html">Privacy Policy</a></li>
+<li id="menu-item-5198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5198"><a href="http://www.noaa.gov/disclaimer.html">Disclaimer</a></li>
+<li id="menu-item-5199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5199"><a href="http://www.cio.noaa.gov/services_programs/info_quality.html">Information Quality</a></li>
+<li id="menu-item-5200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5200"><a href="../../../resources/experimental_products_disclaimer/index.html">Experimental Products Disclaimer</a></li>
+<li id="menu-item-9136" class="menu-item menu-item-type-post_type menu-item-object-staffpages menu-item-9136"><a href="../../../intranet/mainpage/index.html">Staff Login</a></li>
+</ul></div>			</div>
+			<div class="d-3of10 t-1of5 m-all">
+				<h4>Our Partners:</h4>
+				<div class="menu-footer-partners-menu-container"><ul id="menu-footer-partners-menu" class="menu"><li id="menu-item-5201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5201"><a href="http://www.doc.gov/">US Dept. of Commerce</a></li>
+<li id="menu-item-5202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5202"><a href="http://www.noaa.gov/">NOAA</a></li>
+<li id="menu-item-5203" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5203"><a href="http://www.nesdis.noaa.gov/">NESDIS</a></li>
+<li id="menu-item-5204" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5204"><a href="https://www.star.nesdis.noaa.gov/star/index.php">STAR</a></li>
+<li id="menu-item-5205" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5205"><a href="https://www.star.nesdis.noaa.gov/star/CoRP_index.php">CoRP</a></li>
+</ul></div>			</div>
+			<div class="d-all t-all m-all">
+			<p class="source-org copyright">&copy; 2022 Regional and Mesoscale Meteorology Branch.</p>
+		</div>
+		</div>
+	</footer>
+</div>	
+		<!-- 
+ 		<script src="https://code.jquery.com/ui/1.9.1/jquery-ui.js"></script> -->
+
+
+ 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+ 		
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.28.14/js/jquery.tablesorter.min.js"></script>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+		<style type="text/css" media="screen">.is-menu path.search-icon-path { fill: #848484;}body .popup-search-close:after, body .search-close:after { border-color: #848484;}body .popup-search-close:before, body .search-close:before { border-color: #848484;}</style><link rel='stylesheet' id='dashicons-css'  href='../../../wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-global-css'  href='../../../wp-content/plugins/advanced-custom-fields-pro/assets/build/css/acf-global.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-input-css'  href='../../../wp-content/plugins/advanced-custom-fields-pro/assets/build/css/acf-input.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-pro-input-css'  href='../../../wp-content/plugins/advanced-custom-fields-pro/assets/build/css/pro/acf-pro-input.css' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='../../../wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-datepicker-css'  href='../../../wp-content/plugins/advanced-custom-fields-pro/assets/inc/datepicker/jquery-ui.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-timepicker-css'  href='../../../wp-content/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-color-picker-css'  href='../../../wp-admin/css/color-picker.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-input-table-css'  href='../../../wp-content/plugins/advanced-custom-fields-table-field/css/input.css' type='text/css' media='all' />
+<script type='text/javascript' src='../../../wp-includes/js/dist/vendor/regenerator-runtime.min.js' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/rammb2.cira.colostate.edu\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../wp-content/plugins/contact-form-7/includes/js/index.js' id='contact-form-7-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js' id='smush-lazy-load-js'></script>
+<script type='text/javascript' src='../../../wp-content/themes/RAMMB-WP/library/js/scripts.js' id='bones-js-js'></script>
+<script type='text/javascript' id='ivory-search-scripts-js-extra'>
+/* <![CDATA[ */
+var IvorySearchVars = {"is_analytics_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js' id='ivory-search-scripts-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/mouse.min.js' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/sortable.min.js' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/resizable.min.js' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-pro/assets/build/js/acf.min.js' id='acf-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-pro/assets/build/js/acf-input.min.js' id='acf-input-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-pro/assets/build/js/pro/acf-pro-input.min.js' id='acf-pro-input-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.full.min.js' id='select2-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/datepicker.min.js' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.js' id='acf-timepicker-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/draggable.min.js' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/ui/slider.min.js' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.ui.touch-punch.js' id='jquery-touch-punch-js'></script>
+<script type='text/javascript' src='../../../wp-admin/js/iris.min.js' id='iris-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/dist/hooks.min.js' id='wp-hooks-js'></script>
+<script type='text/javascript' src='../../../wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='wp-color-picker-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='../../../wp-admin/js/color-picker.min.js' id='wp-color-picker-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-pro/assets/inc/color-picker-alpha/wp-color-picker-alpha.js' id='acf-color-picker-alpha-js'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/advanced-custom-fields-table-field/js/input-v5.js' id='acf-input-table-js'></script>
+<script>
+acf.data = {"select2L10n":{"matches_1":"One result is available, press enter to select it.","matches_n":"%d results are available, use up and down arrow keys to navigate.","matches_0":"No matches found","input_too_short_1":"Please enter 1 or more characters","input_too_short_n":"Please enter %d or more characters","input_too_long_1":"Please delete 1 character","input_too_long_n":"Please delete %d characters","selection_too_long_1":"You can only select 1 item","selection_too_long_n":"You can only select %d items","load_more":"Loading more results&hellip;","searching":"Searching&hellip;","load_fail":"Loading failed"},"google_map_api":"https:\/\/maps.googleapis.com\/maps\/api\/js?libraries=places&ver=3&callback&language=en_US","datePickerL10n":{"closeText":"Done","currentText":"Today","nextText":"Next","prevText":"Prev","weekHeader":"Wk","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesMin":["S","M","T","W","T","F","S"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"dateTimePickerL10n":{"timeOnlyTitle":"Choose Time","timeText":"Time","hourText":"Hour","minuteText":"Minute","secondText":"Second","millisecText":"Millisecond","microsecText":"Microsecond","timezoneText":"Time Zone","currentText":"Now","closeText":"Done","selectText":"Select","amNames":["AM","A"],"pmNames":["PM","P"]},"colorPickerL10n":{"hex_string":"Hex String","rgba_string":"RGBA String"},"mimeTypeIcon":"https:\/\/rammb2.cira.colostate.edu\/wp-includes\/images\/media\/default.png","mimeTypes":{"jpg|jpeg|jpe":"image\/jpeg","gif":"image\/gif","png":"image\/png","bmp":"image\/bmp","tiff|tif":"image\/tiff","webp":"image\/webp","ico":"image\/x-icon","heic":"image\/heic","asf|asx":"video\/x-ms-asf","wmv":"video\/x-ms-wmv","wmx":"video\/x-ms-wmx","wm":"video\/x-ms-wm","avi":"video\/avi","divx":"video\/divx","flv":"video\/x-flv","mov|qt":"video\/quicktime","mpeg|mpg|mpe":"video\/mpeg","mp4|m4v":"video\/mp4","ogv":"video\/ogg","webm":"video\/webm","mkv":"video\/x-matroska","3gp|3gpp":"video\/3gpp","3g2|3gp2":"video\/3gpp2","txt|asc|c|cc|h|srt":"text\/plain","csv":"text\/csv","tsv":"text\/tab-separated-values","ics":"text\/calendar","rtx":"text\/richtext","css":"text\/css","vtt":"text\/vtt","dfxp":"application\/ttaf+xml","mp3|m4a|m4b":"audio\/mpeg","aac":"audio\/aac","ra|ram":"audio\/x-realaudio","wav":"audio\/wav","ogg|oga":"audio\/ogg","flac":"audio\/flac","mid|midi":"audio\/midi","wma":"audio\/x-ms-wma","wax":"audio\/x-ms-wax","mka":"audio\/x-matroska","rtf":"application\/rtf","pdf":"application\/pdf","class":"application\/java","tar":"application\/x-tar","zip":"application\/zip","gz|gzip":"application\/x-gzip","rar":"application\/rar","7z":"application\/x-7z-compressed","psd":"application\/octet-stream","xcf":"application\/octet-stream","doc":"application\/msword","pot|pps|ppt":"application\/vnd.ms-powerpoint","wri":"application\/vnd.ms-write","xla|xls|xlt|xlw":"application\/vnd.ms-excel","mdb":"application\/vnd.ms-access","mpp":"application\/vnd.ms-project","docx":"application\/vnd.openxmlformats-officedocument.wordprocessingml.document","docm":"application\/vnd.ms-word.document.macroEnabled.12","dotx":"application\/vnd.openxmlformats-officedocument.wordprocessingml.template","dotm":"application\/vnd.ms-word.template.macroEnabled.12","xlsx":"application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet","xlsm":"application\/vnd.ms-excel.sheet.macroEnabled.12","xlsb":"application\/vnd.ms-excel.sheet.binary.macroEnabled.12","xltx":"application\/vnd.openxmlformats-officedocument.spreadsheetml.template","xltm":"application\/vnd.ms-excel.template.macroEnabled.12","xlam":"application\/vnd.ms-excel.addin.macroEnabled.12","pptx":"application\/vnd.openxmlformats-officedocument.presentationml.presentation","pptm":"application\/vnd.ms-powerpoint.presentation.macroEnabled.12","ppsx":"application\/vnd.openxmlformats-officedocument.presentationml.slideshow","ppsm":"application\/vnd.ms-powerpoint.slideshow.macroEnabled.12","potx":"application\/vnd.openxmlformats-officedocument.presentationml.template","potm":"application\/vnd.ms-powerpoint.template.macroEnabled.12","ppam":"application\/vnd.ms-powerpoint.addin.macroEnabled.12","sldx":"application\/vnd.openxmlformats-officedocument.presentationml.slide","sldm":"application\/vnd.ms-powerpoint.slide.macroEnabled.12","onetoc|onetoc2|onetmp|onepkg":"application\/onenote","oxps":"application\/oxps","xps":"application\/vnd.ms-xpsdocument","odt":"application\/vnd.oasis.opendocument.text","odp":"application\/vnd.oasis.opendocument.presentation","ods":"application\/vnd.oasis.opendocument.spreadsheet","odg":"application\/vnd.oasis.opendocument.graphics","odc":"application\/vnd.oasis.opendocument.chart","odb":"application\/vnd.oasis.opendocument.database","odf":"application\/vnd.oasis.opendocument.formula","wp|wpd":"application\/wordperfect","key":"application\/vnd.apple.keynote","numbers":"application\/vnd.apple.numbers","pages":"application\/vnd.apple.pages"},"admin_url":"https:\/\/rammb2.cira.colostate.edu\/wp-admin\/","ajaxurl":"https:\/\/rammb2.cira.colostate.edu\/wp-admin\/admin-ajax.php","nonce":"7d04c068d7","acf_version":"5.11.4","wp_version":"5.9","browser":"","locale":"en_US","rtl":false,"screen":null,"post_id":null,"validation":null,"editor":"classic"};
+</script>
+<script>
+acf.doAction( 'prepare' );
+</script>
+	</body>
+
+<!-- Mirrored from rammb2.cira.colostate.edu/research/tropical-cyclones/ships/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 15 Feb 2022 12:01:04 GMT -->
+</html> <!-- end of site. what a ride! -->

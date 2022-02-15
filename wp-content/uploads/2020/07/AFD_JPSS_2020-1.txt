@@ -1,0 +1,711 @@
+--- Site: KABQ ---
+
+Reference:  ['climb from around 0.80&quot; this morning per blended tpw, to near 1 inch ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDABQ&e=202007210900
+* In 2020 , KABQ had  1  references out of  2367  total AFDs.
+ 
+--- Site: KABR ---
+
+* In 2020 , KABR had  0  references out of  2871  total AFDs.
+ 
+--- Site: KAKQ ---
+
+Reference:  ['the blended total precipitable water product (tpw) and is also ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAKQ&e=202011102026
+* In 2020 , KAKQ had  1  references out of  3595  total AFDs.
+ 
+--- Site: KALY ---
+
+* In 2020 , KALY had  0  references out of  4153  total AFDs.
+ 
+--- Site: KAMA ---
+
+* In 2020 , KAMA had  0  references out of  2245  total AFDs.
+ 
+--- Site: KAPX ---
+
+* In 2020 , KAPX had  0  references out of  3006  total AFDs.
+ 
+--- Site: KARX ---
+
+* In 2020 , KARX had  0  references out of  2278  total AFDs.
+ 
+--- Site: KBGM ---
+
+* In 2020 , KBGM had  0  references out of  3739  total AFDs.
+ 
+--- Site: KBIS ---
+
+Reference:  ['a 19z nucaps sounding pass showed steep mid-level lapse rates of']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBIS&e=202003312207
+Reference:  ['temperatures, the 20z nucaps pass suggests mid- level lapse rates']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBIS&e=202006232211
+Reference:  ['level shortwave will approach from the west. the 19z nucaps sounding ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBIS&e=202006252150
+Reference:  ['an early afternoon nucaps sounding pass (detecting 9 c at 700mb at']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBIS&e=202007102149
+Reference:  ['area, the early afternoon nucaps sounding product indicated a ', 'lapse rates of 8+ c/km on the nucaps sounding show ample ', 'nucaps sounding). with current satellite trends (including ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBIS&e=202008072112
+* In 2020 , KBIS had  5  references out of  3180  total AFDs.
+ 
+--- Site: KBMX ---
+
+* In 2020 , KBMX had  0  references out of  2419  total AFDs.
+ 
+--- Site: KBOI ---
+
+* In 2020 , KBOI had  0  references out of  1519  total AFDs.
+ 
+--- Site: KBOU ---
+
+* In 2020 , KBOU had  0  references out of  1550  total AFDs.
+ 
+--- Site: KBOX ---
+
+* In 2020 , KBOX had  0  references out of  3211  total AFDs.
+ 
+--- Site: KBRO ---
+
+* In 2020 , KBRO had  0  references out of  2305  total AFDs.
+ 
+--- Site: KBTV ---
+
+Reference:  ['photo from polar satellites on the change in ice coverage over lake']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBTV&e=202002112021
+* In 2020 , KBTV had  1  references out of  3482  total AFDs.
+ 
+--- Site: KBUF ---
+
+Reference:  ['tier with nucaps-confirmed mlcape near 1500j/kg while areas']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDBUF&e=202008072102
+* In 2020 , KBUF had  1  references out of  3502  total AFDs.
+ 
+--- Site: KBYZ ---
+
+* In 2020 , KBYZ had  0  references out of  1553  total AFDs.
+ 
+--- Site: KCAE ---
+
+* In 2020 , KCAE had  0  references out of  2662  total AFDs.
+ 
+--- Site: KCAR ---
+
+* In 2020 , KCAR had  0  references out of  3071  total AFDs.
+ 
+--- Site: KCHS ---
+
+* In 2020 , KCHS had  0  references out of  3278  total AFDs.
+ 
+--- Site: KCLE ---
+
+* In 2020 , KCLE had  0  references out of  3072  total AFDs.
+ 
+--- Site: KCRP ---
+
+Reference:  ['during the period. satellite-based blended tpw imagery indicates ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCRP&e=202009120940
+* In 2020 , KCRP had  1  references out of  2418  total AFDs.
+ 
+--- Site: KCTP ---
+
+* In 2020 , KCTP had  0  references out of  3987  total AFDs.
+ 
+--- Site: KCYS ---
+
+Reference:  ['at the blended total precipitable water guidance which shows a']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDCYS&e=202006142044
+* In 2020 , KCYS had  1  references out of  2489  total AFDs.
+ 
+--- Site: KDDC ---
+
+* In 2020 , KDDC had  0  references out of  2660  total AFDs.
+ 
+--- Site: KDLH ---
+
+* In 2020 , KDLH had  0  references out of  2850  total AFDs.
+ 
+--- Site: KDMX ---
+
+* In 2020 , KDMX had  0  references out of  2239  total AFDs.
+ 
+--- Site: KDTX ---
+
+* In 2020 , KDTX had  0  references out of  2406  total AFDs.
+ 
+--- Site: KDVN ---
+
+* In 2020 , KDVN had  0  references out of  2486  total AFDs.
+ 
+--- Site: KEAX ---
+
+* In 2020 , KEAX had  0  references out of  2193  total AFDs.
+ 
+--- Site: KEKA ---
+
+Reference:  ['ascat scatterometer wind data showed the coastal southerly wind ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=202009092258
+Reference:  ['the early afternoon hours, with scatterometer winds generally ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDEKA&e=202010262210
+* In 2020 , KEKA had  2  references out of  794  total AFDs.
+ 
+--- Site: KEPZ ---
+
+* In 2020 , KEPZ had  0  references out of  2181  total AFDs.
+ 
+--- Site: KEWX ---
+
+* In 2020 , KEWX had  0  references out of  2468  total AFDs.
+ 
+--- Site: KFFC ---
+
+* In 2020 , KFFC had  0  references out of  2633  total AFDs.
+ 
+--- Site: KFGF ---
+
+Reference:  ['recent goes-r, viirs, and sentinel-2 satellite imagery analysis ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDFGF&e=202004110907
+Reference:  ['after further flood intel gathering based on goes-r, viirs, and ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDFGF&e=202004120900
+Reference:  ['at nucaps soundings for the midday satellite pass in order to ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDFGF&e=202006031533
+* In 2020 , KFGF had  3  references out of  3257  total AFDs.
+ 
+--- Site: KFGZ ---
+
+* In 2020 , KFGZ had  0  references out of  1513  total AFDs.
+ 
+--- Site: KFSD ---
+
+* In 2020 , KFSD had  0  references out of  2266  total AFDs.
+ 
+--- Site: KFWD ---
+
+* In 2020 , KFWD had  0  references out of  2257  total AFDs.
+ 
+--- Site: KGGW ---
+
+* In 2020 , KGGW had  0  references out of  1330  total AFDs.
+ 
+--- Site: KGID ---
+
+* In 2020 , KGID had  0  references out of  2385  total AFDs.
+ 
+--- Site: KGJT ---
+
+* In 2020 , KGJT had  0  references out of  2298  total AFDs.
+ 
+--- Site: KGLD ---
+
+* In 2020 , KGLD had  0  references out of  3077  total AFDs.
+ 
+--- Site: KGRB ---
+
+* In 2020 , KGRB had  0  references out of  2182  total AFDs.
+ 
+--- Site: KGRR ---
+
+Reference:  ['mexico (due to a relative lack of aircraft measurements and poes ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGRR&e=202012302023
+* In 2020 , KGRR had  1  references out of  2554  total AFDs.
+ 
+--- Site: KGSP ---
+
+* In 2020 , KGSP had  0  references out of  3179  total AFDs.
+ 
+--- Site: KGYX ---
+
+Reference:  ['pattern: morning blended total precipitable water product shows a ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGYX&e=202006110800
+* In 2020 , KGYX had  1  references out of  2590  total AFDs.
+ 
+--- Site: KHGX ---
+
+* In 2020 , KHGX had  0  references out of  2244  total AFDs.
+ 
+--- Site: KHNX ---
+
+* In 2020 , KHNX had  0  references out of  1029  total AFDs.
+ 
+--- Site: KHUN ---
+
+Reference:  ['fog in satellite imagery, including the day-night band imagery, or']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHUN&e=202003080936
+Reference:  ['nucaps sounding data is present over the area today and is limiting']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHUN&e=202008151944
+* In 2020 , KHUN had  2  references out of  2952  total AFDs.
+ 
+--- Site: KICT ---
+
+Reference:  ['polar orbiting satellite trends show increasing surface to 850mb ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDICT&e=202006160729
+Reference:  ['thursday. polar orbiting satellites continue to show an increase of ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDICT&e=202006170721
+* In 2020 , KICT had  2  references out of  2285  total AFDs.
+ 
+--- Site: KILM ---
+
+* In 2020 , KILM had  0  references out of  3207  total AFDs.
+ 
+--- Site: KILN ---
+
+* In 2020 , KILN had  0  references out of  2998  total AFDs.
+ 
+--- Site: KILX ---
+
+* In 2020 , KILX had  0  references out of  2968  total AFDs.
+ 
+--- Site: KIND ---
+
+* In 2020 , KIND had  0  references out of  4256  total AFDs.
+ 
+--- Site: KIWX ---
+
+* In 2020 , KIWX had  0  references out of  2337  total AFDs.
+ 
+--- Site: KJAN ---
+
+* In 2020 , KJAN had  0  references out of  2919  total AFDs.
+ 
+--- Site: KJAX ---
+
+* In 2020 , KJAX had  0  references out of  2851  total AFDs.
+ 
+--- Site: KJKL ---
+
+* In 2020 , KJKL had  0  references out of  3816  total AFDs.
+ 
+--- Site: KKEY ---
+
+Reference:  ['winds from 8 to 12 knots. a scatterometer pass, especially over ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=202001030152
+Reference:  ['according to a recent scatterometer pass with great coverage over']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=202002100329
+Reference:  ['recent scatterometer pass shows a large area of ese winds near 20']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=202002110351
+Reference:  ['recent scatterometer pass to confirm the wind magnitude, marine ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=202002130149
+Reference:  ['exception of florida straits. an earlier scatterometer pass over']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=202003202001
+Reference:  ['the range of 15-20 knots. a spaceborne scatterometer pass just']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=202006021902
+Reference:  ['and a recent scatterometer pass confirmed the same winds can be ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=202006201803
+Reference:  ['a recent scatterometer pass found light winds mostly below 10']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=202006221832
+Reference:  ['wind gusts. scatterometer data earlier this afternoon even showed']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=202009121907
+Reference:  ['key and smith shoal lights. late saturday evening an ascat metop-c']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDKEY&e=202009130819
+* In 2020 , KKEY had  10  references out of  1473  total AFDs.
+ 
+--- Site: KLBF ---
+
+* In 2020 , KLBF had  0  references out of  2349  total AFDs.
+ 
+--- Site: KLCH ---
+
+* In 2020 , KLCH had  0  references out of  2831  total AFDs.
+ 
+--- Site: KLIX ---
+
+* In 2020 , KLIX had  0  references out of  1493  total AFDs.
+ 
+--- Site: KLKN ---
+
+* In 2020 , KLKN had  0  references out of  895  total AFDs.
+ 
+--- Site: KLMK ---
+
+Reference:  ['well as nucaps data, seeing our area in a relatively more stable ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLMK&e=202006302106
+* In 2020 , KLMK had  1  references out of  2983  total AFDs.
+ 
+--- Site: KLOT ---
+
+* In 2020 , KLOT had  0  references out of  3222  total AFDs.
+ 
+--- Site: KLOX ---
+
+* In 2020 , KLOX had  0  references out of  3022  total AFDs.
+ 
+--- Site: KLSX ---
+
+* In 2020 , KLSX had  0  references out of  2388  total AFDs.
+ 
+--- Site: KLUB ---
+
+* In 2020 , KLUB had  0  references out of  2418  total AFDs.
+ 
+--- Site: KLWX ---
+
+Reference:  ['although blended tpw, layered pw, and sfc dewpoints show ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=202004060802
+Reference:  ['well using the blended tpw satellite which shows pwats over 2 ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=202005280108
+Reference:  ['imagery through the blended tpw and alpw products. nucaps']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=202006061854
+Reference:  ['corridor at this point. blended tpw shows drier air gradually ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=202006281816
+Reference:  ['weak front is analyzed across srn pa based on the blended tpw ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=202007250800
+Reference:  ['blended tpw product and 00z iad sounding, but not fast enough.']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=202008080130
+Reference:  ['satellite imagery, and the blended tpw is showing over 2&quot; of ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=202009090736
+Reference:  ['the warm conveyor belt of the system as shown by blended tpw ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDLWX&e=202012241921
+* In 2020 , KLWX had  8  references out of  1666  total AFDs.
+ 
+--- Site: KLZK ---
+
+* In 2020 , KLZK had  0  references out of  2183  total AFDs.
+ 
+--- Site: KMAF ---
+
+* In 2020 , KMAF had  0  references out of  2311  total AFDs.
+ 
+--- Site: KMEG ---
+
+Reference:  ['builds east. blended total precipitable water is near 1.2&quot; over ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMEG&e=202008070848
+Reference:  ['great lakes. the blended total precipitable water (pwat) indicates']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMEG&e=202009120915
+* In 2020 , KMEG had  2  references out of  2884  total AFDs.
+ 
+--- Site: KMFL ---
+
+Reference:  ["depicted from the modis aboard nasa's terra satellite which crossed "]  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFL&e=202007270614
+Reference:  ['the pwat values go up to 30%-40% above normal per the blended tpw ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFL&e=202009080712
+* In 2020 , KMFL had  2  references out of  2592  total AFDs.
+ 
+--- Site: KMFR ---
+
+Reference:  ['scatterometer pass shows winds are around 20 to 25 knots beyond 10 ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=202005242143
+Reference:  ['not gotten a scatterometer pass to get a better read on conditions ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=202007160401
+Reference:  ['waters. a recent scatterometer pass showed confirmed gales south ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=202007161000
+Reference:  ['southern waters. a recent scatterometer pass showed confirmed gales ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=202007161638
+Reference:  ['southern waters. a recent scatterometer pass confirmed gales south ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMFR&e=202007162150
+* In 2020 , KMFR had  5  references out of  1996  total AFDs.
+ 
+--- Site: KMHX ---
+
+* In 2020 , KMHX had  0  references out of  2770  total AFDs.
+ 
+--- Site: KMKX ---
+
+* In 2020 , KMKX had  0  references out of  2349  total AFDs.
+ 
+--- Site: KMLB ---
+
+* In 2020 , KMLB had  0  references out of  1503  total AFDs.
+ 
+--- Site: KMOB ---
+
+* In 2020 , KMOB had  0  references out of  2725  total AFDs.
+ 
+--- Site: KMPX ---
+
+* In 2020 , KMPX had  0  references out of  2204  total AFDs.
+ 
+--- Site: KMQT ---
+
+Reference:  ['moment comes from the the npp viirs visible imagery, which really']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMQT&e=202011261940
+Reference:  ['the npp viirs visible imagery, which really shows of the impressive ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMQT&e=202011262005
+Reference:  ['products, creating what looks like vertical chaos. high res viirs ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMQT&e=202012112014
+Reference:  ['earlier viirs and current goes imagery digging into the pacific ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMQT&e=202012220833
+* In 2020 , KMQT had  4  references out of  3115  total AFDs.
+ 
+--- Site: KMRX ---
+
+* In 2020 , KMRX had  0  references out of  2907  total AFDs.
+ 
+--- Site: KMSO ---
+
+* In 2020 , KMSO had  0  references out of  834  total AFDs.
+ 
+--- Site: KMTR ---
+
+Reference:  ['heat on satellite or viirs. none the less iraws near the fire']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDMTR&e=202010011121
+* In 2020 , KMTR had  1  references out of  3068  total AFDs.
+ 
+--- Site: KOAX ---
+
+* In 2020 , KOAX had  0  references out of  2239  total AFDs.
+ 
+--- Site: KOHX ---
+
+* In 2020 , KOHX had  0  references out of  2868  total AFDs.
+ 
+--- Site: KOKX ---
+
+Reference:  ['advection in advance. in fact, current blended tpw across the south ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDOKX&e=202011292106
+* In 2020 , KOKX had  1  references out of  3963  total AFDs.
+ 
+--- Site: KOTX ---
+
+* In 2020 , KOTX had  0  references out of  2385  total AFDs.
+ 
+--- Site: KOUN ---
+
+* In 2020 , KOUN had  0  references out of  2653  total AFDs.
+ 
+--- Site: KPAH ---
+
+* In 2020 , KPAH had  0  references out of  2134  total AFDs.
+ 
+--- Site: KPBZ ---
+
+* In 2020 , KPBZ had  0  references out of  2924  total AFDs.
+ 
+--- Site: KPDT ---
+
+* In 2020 , KPDT had  0  references out of  2421  total AFDs.
+ 
+--- Site: KPHI ---
+
+* In 2020 , KPHI had  0  references out of  2621  total AFDs.
+ 
+--- Site: KPIH ---
+
+* In 2020 , KPIH had  0  references out of  894  total AFDs.
+ 
+--- Site: KPQR ---
+
+Reference:  ['alaska. the 19z blended total precipitable water product indicated']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPQR&e=202002062216
+Reference:  ['later this afternoon. satellite scatterometer winds are showing ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPQR&e=202006072135
+* In 2020 , KPQR had  2  references out of  1694  total AFDs.
+ 
+--- Site: KPSR ---
+
+Reference:  ['northwest mexico (per blended tpw imagery). though this moisture ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=202010150935
+Reference:  ['at best). blended tpw imagery shows a good deal of dry air in']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDPSR&e=202011232049
+* In 2020 , KPSR had  2  references out of  2342  total AFDs.
+ 
+--- Site: KPUB ---
+
+* In 2020 , KPUB had  0  references out of  1789  total AFDs.
+ 
+--- Site: KRAH ---
+
+Reference:  ['water vapor imagery and blended tpw data) remains in place across ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=202006120740
+Reference:  ['water values evident in goes blended tpw data from the subtropical ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDRAH&e=202008012104
+* In 2020 , KRAH had  2  references out of  3980  total AFDs.
+ 
+--- Site: KREV ---
+
+Reference:  ['west as portola and graeagle. waiting on the early morning viirs']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDREV&e=202008150939
+* In 2020 , KREV had  1  references out of  881  total AFDs.
+ 
+--- Site: KRIW ---
+
+* In 2020 , KRIW had  0  references out of  1760  total AFDs.
+ 
+--- Site: KRLX ---
+
+* In 2020 , KRLX had  0  references out of  3665  total AFDs.
+ 
+--- Site: KRNK ---
+
+* In 2020 , KRNK had  0  references out of  2851  total AFDs.
+ 
+--- Site: KSEW ---
+
+* In 2020 , KSEW had  0  references out of  1519  total AFDs.
+ 
+--- Site: KSGF ---
+
+* In 2020 , KSGF had  0  references out of  2222  total AFDs.
+ 
+--- Site: KSGX ---
+
+Reference:  ['(reference latest satellite blended tpw imagery nearly 1&quot; offshore ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSGX&e=202004100440
+* In 2020 , KSGX had  1  references out of  1543  total AFDs.
+ 
+--- Site: KSHV ---
+
+* In 2020 , KSHV had  0  references out of  2990  total AFDs.
+ 
+--- Site: KSJT ---
+
+* In 2020 , KSJT had  0  references out of  2303  total AFDs.
+ 
+--- Site: KSLC ---
+
+Reference:  ['the blended tpw imagery shows a moisture axis extending from far']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=202006232213
+Reference:  ['to the forecast through the upcoming weekend. the blended tpw']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=202007300946
+Reference:  ['southwest wyoming today as the blended total precipitable water ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSLC&e=202008261711
+* In 2020 , KSLC had  3  references out of  1451  total AFDs.
+ 
+--- Site: KSTO ---
+
+Reference:  ['extensive cloudiness off the coast with the blended tpw product ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDSTO&e=202001221105
+* In 2020 , KSTO had  1  references out of  884  total AFDs.
+ 
+--- Site: KTAE ---
+
+* In 2020 , KTAE had  0  references out of  2884  total AFDs.
+ 
+--- Site: KTBW ---
+
+* In 2020 , KTBW had  0  references out of  2011  total AFDs.
+ 
+--- Site: KTFX ---
+
+* In 2020 , KTFX had  0  references out of  2960  total AFDs.
+ 
+--- Site: KTOP ---
+
+* In 2020 , KTOP had  0  references out of  2247  total AFDs.
+ 
+--- Site: KTSA ---
+
+* In 2020 , KTSA had  0  references out of  2922  total AFDs.
+ 
+--- Site: KTWC ---
+
+Reference:  ['the latest viirs pass was able to capture the fire in the ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=202006061018
+Reference:  ['and blended total precipitable water imagery indicating pw values ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDTWC&e=202008082120
+* In 2020 , KTWC had  2  references out of  885  total AFDs.
+ 
+--- Site: KUNR ---
+
+* In 2020 , KUNR had  0  references out of  2423  total AFDs.
+ 
+--- Site: KVEF ---
+
+* In 2020 , KVEF had  0  references out of  1498  total AFDs.
+ 
+--- Site: PAFC ---
+
+Reference:  ['scatterometer pass. a front associated with this feature is draped']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202001091337
+Reference:  ['scatterometer pass indicates a wide area of gale-force winds, ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202001101349
+Reference:  ['scatterometer imagery this morning shows a strong core of high end']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202001111322
+Reference:  ['ascat (advanced scatterometer) data has multiple discernible ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202001261359
+Reference:  ['scatterometer) pass.']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202001271400
+Reference:  ['air into southwest alaska. ascat (advanced scatterometer) data ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202001291422
+Reference:  ['an occlusion. on the latest ascat (advanced scatterometer) data']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202002041315
+Reference:  ['latest ascat (advanced scatterometer) data there are still gales ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202002051412
+Reference:  ['the latest ascat (advanced scatterometer) pass detected gales and ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202002091450
+Reference:  ['detected with the latter system on ascat (advanced scatterometer).']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202002101401
+Reference:  ['scatterometer) pass has detected gale force winds over the barren ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202002111327
+Reference:  ['(advanced scatterometer) data. there is a 130+ knot jet core south']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202002121407
+Reference:  ['with the western system on ascat (advanced scatterometer) data. ', 'scatterometer) data. ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202002131253
+Reference:  ['ascat (advanced scatterometer) imagery there is broad cyclonic flow ', 'ascat (advanced scatterometer) imagery there broad cyclonic flow ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202002261316
+Reference:  ['of the chain. scatterometer winds show gales with storm force ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202003041334
+Reference:  ['ascat (advanced scatterometer) data early this morning. a second']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202004121340
+Reference:  ['were detected south of shemya with ascat (advanced scatterometer)']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202004131310
+Reference:  ['early this morning the ascat (advanced scatterometer) data']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202004161300
+Reference:  ['scatterometery (ascat) data shows winds around the center of this']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202004241140
+Reference:  ['on the latest ascat (advanced scatterometer)there is a weak low ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202005022246
+Reference:  ['the aleutian chain. the ascat (advanced scatterometer) pass from ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202005070032
+Reference:  ['scatterometer data, mainly small craft advisory level winds were']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202005071249
+Reference:  ['purposes, compared the recent ascat (advanced scatterometer) ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202006101321
+Reference:  ['to the west, ascat scatterometer imagery overnight showed low']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202006221336
+Reference:  ['scatterometer data shows mainly small craft advisory level winds ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202006251254
+Reference:  ['it. on the latest ascat (advanced scatterometer) image, gale force']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202006260053
+Reference:  ['cloudy sky for much of the region. ascat (advanced scatterometer) ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202006261248
+Reference:  ['the ascat (advanced scatterometer) data, there were gale force winds']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202007201236
+Reference:  ['adak. recent scatterometer passes and surface observations ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202007230201
+Reference:  ['scatterometer pass, indicating southwesterly winds of 15 kts over ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202008041320
+Reference:  ['showers are falling. the latest ascat scatterometer pass confirms ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202008071241
+Reference:  ['scatterometer) passes to winds projected by the models and both']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202008091300
+Reference:  ['kamchatka. with goes satellite imagery (specifically avhrr/ ', 'on the latest ascat (advanced scatterometer) imagery a broad area']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202008191318
+Reference:  ['ascat (advanced scatterometer) to the nam, gfs, canadian and ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202009051255
+Reference:  ['northeastward. the latest ascat (advanced scatterometer) data has']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202009061308
+Reference:  ['front. the latest ascat (advanced scatterometer) pass had detected']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202009231255
+Reference:  ['scatterometer data passed right over the center of the storm ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202010051314
+Reference:  ['ascat scatterometer pass, toward the western aleutians. surface ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202010061305
+Reference:  ['ascat scatterometer pass shows gales along both fronts. surface ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202010071344
+Reference:  ['occluded front. the latest ascat scatterometer pass shows weak ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202010081336
+Reference:  ['northern gulf, coupled with the latest ascat scatterometer pass, ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202010091259
+Reference:  ['gale-force low, as evident in the latest ascat scatterometer pass.']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202010101350
+Reference:  ['viirs imagery and webcams auroras were detected in eagle, fort']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202010231218
+Reference:  ['(advanced scatterometer) data has pinged into gale force winds ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202010241154
+Reference:  ['the latest ascat (advanced scatterometer) data has detected a']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202010251319
+Reference:  ['latest ascat (advanced scatterometer) data has detected a discernible']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202010251558
+Reference:  ['the scatterometer swath from this afternoon points out the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202010260204
+Reference:  ['magnitude of 150 knots. the latest ascat (advanced scatterometer) ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202010261259
+Reference:  ['(advanced scatterometer) data pinged into gale and storm force ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202010301330
+Reference:  ['scatterometer) data with the low south of attu island. this system']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202011011357
+Reference:  ['ascat scatterometer data is showing widespread gales on either ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202011161344
+Reference:  ['the ascat scatterometer pass that showed gale force winds across']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202011171409
+Reference:  ['northeast towards east russia this morning. ascat scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202011181358
+Reference:  ['scatterometer data passed over the storm earlier in the night and ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202011191406
+Reference:  ['eastern to northern bering sea. latest ascat scatterometer data ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202012130144
+Reference:  ['on ascat (advanced scatterometer) imagery gale and storm force']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202012241339
+Reference:  ['scatterometer) gale force winds have been detected near the ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202012251349
+Reference:  ['scatterometer) gales were detected south of cordova and both gale ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFC&e=202012261353
+* In 2020 , PAFC had  58  references out of  889  total AFDs.
+ 
+--- Site: PAFG ---
+
+Reference:  ['the morning avhrr caught a good shot of the developing wave on the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAFG&e=202009142120
+* In 2020 , PAFG had  1  references out of  801  total AFDs.
+ 
+--- Site: PAJK ---
+
+Reference:  ['evening into early wednesday morning. nucaps soundings around 21z']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAJK&e=202004282258
+Reference:  ["day's thinking. goes and viirs imagery show that the frontal band"]  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAJK&e=202005191345
+Reference:  ['while satellite scatterometer winds this morning were just below ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDAJK&e=202006011328
+* In 2020 , PAJK had  3  references out of  868  total AFDs.
+ 
+--- Site: PGUM ---
+
+Reference:  ['radar near the southern mountains. scatterometer data show fresh to']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202001240957
+Reference:  ['because scatterometer and surface analysis were just not indicating ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202002010735
+Reference:  ['of scatterometer winds just upstream of palau earlier today. still ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202002030827
+Reference:  ['satellite imagery and scatterometer data show that the shear line has']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202002132111
+Reference:  ['micronesia. scatterometer analysis shows convergent winds and a weak']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202002200724
+Reference:  ['scatterometer shows a large extent of 25 kt winds upstream from ', 'for east facing reefs is not met. scatterometer winds of 25kt', 'for the three islands. scatterometer winds are primarily between']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202002241007
+Reference:  ['scatterometer are generally less than 20 kt. however, with the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202002250834
+Reference:  ["scatterometer still showed 'yellow' winds (20 to 25 kt) within the"]  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202002260848
+Reference:  ['reaching into guam waters overnight. early morning nucaps sounding']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202003012128
+Reference:  ['scatterometer data showed a surface trough just south of kwajalein.']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202003282217
+Reference:  ['scatterometer data showed low-level convergence over the eastern half']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202003292200
+Reference:  ['across the region. overnight viirs satellite imagery reveals a trade-']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202004052032
+Reference:  ['based on latest models and scatterometer data. the satellite ', 'scatterometer passes. the brief period of small craft conditions has ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202004180818
+Reference:  ['scattered early tonight based on 15z nucaps data indicating slightly']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202004252120
+Reference:  ['skies east of the region while scatterometer data shows moderate ', 'marianas last night. nucaps soundings along with satellite imagery ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202005050849
+Reference:  ['scatterometer data showed a few circulations associated with this']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202005060826
+Reference:  ['scatterometer data showed a circulation to the south of palau this']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202005080930
+Reference:  ['scatterometer data showed a circulation to the southwest of palau ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202005090831
+Reference:  ['a surface trough brushing by the region. nighttime scatterometer data']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202005122043
+Reference:  ['today. scatterometer data showed a surface trough south of the ', 'warning center. scatterometer data hinted that a small circulation ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202005152101
+Reference:  ['no changes made to the forecast. scatterometer data showed a surface ', 'the trough southwest of guam  was depicted in scatterometer data and ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202005162052
+Reference:  ['from scatterometer barely showed a surface trough southwest of guam ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202005172126
+Reference:  ['marianas today and tonight, and indeed, nucaps soundings from a 1452z']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202005252009
+Reference:  ['nucaps polar-orbital satellite soundings reveal a mid-level dry air ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202005282110
+Reference:  ['nucaps soundings show only a little deep moisture in the current air ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202005290818
+Reference:  ['and winds from scatterometer show westward moving inverted troughs ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202006100912
+Reference:  ['00z sounding and the 04z nucaps sounding, have decided to remove the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202006290809
+Reference:  ['latest scatterometer data indicated fresh to strong northeast winds ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202007110752
+Reference:  ['weather to the region. scatterometer shows that winds have subsided ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202007120812
+Reference:  ['the area. although scatterometer data shows a weak north-south ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202007130825
+Reference:  ['scatterometer analysis show a broad area of convergent winds ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202007150832
+Reference:  ['palau today and tonight. scatterometer data showed the nose of a']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202007262056
+Reference:  ['10 to 20 knots with this trough and scatterometer data did show some']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202008050825
+Reference:  ['afternoon. scatterometer data does show patches of winds up to 20 ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202008060825
+Reference:  ['afternoon scatterometer/surface analysis showed a weak circulation']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202008200914
+Reference:  ['marianas this afternoon. scatterometer data showed the center of a ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202008220807
+Reference:  ['to a lesser degree up north in the cnmi. scatterometer and ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202008240938
+Reference:  ['satellite and scatterometer data showed a surface trough near ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202009070836
+Reference:  ['scatterometer shows gentle southwest winds over the area with a ', 'for tonight as cimss mimic precipitable water data and nucaps']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202009220753
+Reference:  ['scatterometer showed some winds of 20 to 30 knots associated with the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202009290845
+Reference:  ['across the region, along with downstream nucaps soundings, place a ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202009300806
+Reference:  ['no changes made to the forecast. scatterometer data from last night']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202010052134
+Reference:  ['forecast as scatterometer winds indicated a bit more south placement ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202010150743
+Reference:  ['nucaps can be used as a replacement. the nucaps soundings upstream ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202010160756
+Reference:  ['surface circulation noted in both the ascat scatterometer and', 'data, satellite imagery and scatterometer indicate a circulation ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202010210941
+Reference:  ['scatterometer data located near 8n160e, just east of pohnpei and ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202010221009
+Reference:  ['no changes made to the forecast. scatterometer data from sunday night']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202010252204
+Reference:  ['scatterometer data showed a circulation just west of pohnpei ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202011042240
+Reference:  ['looking at the nucaps soundings the air mass that surrounds the ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202011052243
+Reference:  ['the nucaps, back into the mid-layer of the atmosphere. this will ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202011120806
+Reference:  ['scatterometer data from saturday night showed a circulation over the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202011142207
+Reference:  ['a few small changes made to the forecast. scatterometer data from']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202011172210
+Reference:  ["based on majuro's 12z launch and nucaps soundings near the marshall"]  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202011210042
+Reference:  ['a surface trough was located just west of the marianas. scatterometer ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202011230918
+Reference:  ['model soundings and nucaps data show a significant dry slot in the ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202011260727
+Reference:  ['near 150e extending as far as 160e. scatterometer shows 15-20 kt']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202011262143
+Reference:  ['and nucaps soundings show this layer to be in the 200 to 500 mb ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202011280849
+Reference:  ['latest satellite scatterometer plots which showed an area of 25 ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202011290852
+Reference:  ['between chuuk and pohnpei, and near majuro. scatterometer imagery']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012030911
+Reference:  ['were just coming west of 150e. nucaps data also indicated a marked']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012040859
+Reference:  ['scatterometer imagery showed a circulation just to the northwest of']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012050936
+Reference:  ['scatterometer analysis shows a pocket of 25 knot winds accompanying ', 'as for the sea state, cross sections and scatterometer plots still', 'will increase through tuesday night. with scatterometer analysis ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012062023
+Reference:  ['east of the marianas. scatterometer imagery from this morning did ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012092205
+Reference:  ['improve as nucaps soundings indicate a strong dry layer behind the ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012120800
+Reference:  ['convection is somewhat sparse. additionally, scatterometer shows', 'scatterometer data showing strong winds to around 30 kt just ne of']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012140803
+Reference:  ['remains in the works for the next couple of days. scatterometer shows']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012150814
+Reference:  ['times. scatterometer imagery from this afternoon indicated a slight']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012170825
+Reference:  ['scatterometer data show gentle to moderate trades locally. buoys show']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012252122
+Reference:  ['with a trade-wind disturbance approach the cnmi waters. scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012262146
+Reference:  ['ascat passes (an instrument on a polar orbiting satellite that']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012270816
+Reference:  ['disturbance pushing through the area. scatterometer data show winds ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012272218
+Reference:  ['no advisory has been issued yet, scatterometer winds indicated 30-40 ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDGUM&e=202012302223
+* In 2020 , PGUM had  72  references out of  816  total AFDs.
+ 
+--- Site: PHFO ---
+
+Reference:  ['the islands early this morning. a scatterometer pass across the ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=202003071339
+Reference:  ['elevated, rough seas across the area. a recent scatterometer pass']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=202003081412
+Reference:  ['monday. a recent scatterometer pass showed a captured fetch of ']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=202003270635
+Reference:  ['scatterometer measurements show some 25 kt winds off the hamakua']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=202004150201
+Reference:  ['winds to light/moderate levels. early morning scatterometer winds']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=202009131932
+Reference:  ['a mid-day scatterometer pass revealed 25 knot winds south of the']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=202009180200
+Reference:  ['scatterometer pass showed 25 knot winds in the alenuihaha channel']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=202009180602
+Reference:  ['support a small craft advisory (sca). recent morning scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=202009181345
+Reference:  ['state. a scatterometer pass from this morning over the east half']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=202011030123
+Reference:  ['early this morning. a scatterometer pass from last evening showed']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=202011131323
+Reference:  ["today's ascat scatterometer wind passes have shown that near"]  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=202011150159
+Reference:  ['the state will produce increasing trade winds. a scatterometer']  AFD:  https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=AFDHFO&e=202012261313
+* In 2020 , PHFO had  12  references out of  1610  total AFDs.
+ s
+--- Site: TJSJ ---
+
+* In 2020 , TJSJ had  0  references out of  0  total AFDs.
+ 
+--- Site: NSTU ---
+
+* In 2020 , NSTU had  0  references out of  0  total AFDs.
+
+*** In 2020, there were 216 AFDs with polar satellite product references out of 291583 total AFDs.
+
+ 
